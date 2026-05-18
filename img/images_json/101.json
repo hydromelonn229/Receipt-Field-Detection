@@ -1,0 +1,2312 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "Go Mongo BBQ\n6661 Stanford Ranch Rd.\nRocklin, CA 95677\n916-632-8828\nReceipt :\nmongo-042441\nDate:\nJan 28, 2018 5:48:07 PM\nServed by:\nManager\nItem\nPrice\nQty\nValue\nBBQ Dinner\n$10.99\nx4\n$47.15\nbeverage\n$2.29\nx2\n$4.91\nItems count : 6\nSubtotal:\n$48.54\nCA Tax 7.25%:\n$3.52\nTotal\n$52.06\nCash\nTendered:\n$52.06\nChange:\n$0.00",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.5781000256538391,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "Go",
+                    "polygon": [
+                        217,
+                        54,
+                        241,
+                        54,
+                        241,
+                        72,
+                        217,
+                        72
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 0,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Mongo",
+                    "polygon": [
+                        252,
+                        54,
+                        309,
+                        53,
+                        309,
+                        71,
+                        252,
+                        72
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 3,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "BBQ",
+                    "polygon": [
+                        319,
+                        53,
+                        355,
+                        52,
+                        355,
+                        70,
+                        320,
+                        71
+                    ],
+                    "confidence": 0.702,
+                    "span": {
+                        "offset": 9,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "6661",
+                    "polygon": [
+                        162,
+                        77,
+                        207,
+                        77,
+                        207,
+                        94,
+                        162,
+                        95
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 13,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Stanford",
+                    "polygon": [
+                        219,
+                        76,
+                        309,
+                        74,
+                        309,
+                        92,
+                        219,
+                        94
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 18,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Ranch",
+                    "polygon": [
+                        320,
+                        74,
+                        375,
+                        73,
+                        376,
+                        90,
+                        320,
+                        92
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 27,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Rd.",
+                    "polygon": [
+                        387,
+                        72,
+                        420,
+                        72,
+                        420,
+                        89,
+                        388,
+                        90
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 33,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Rocklin,",
+                    "polygon": [
+                        184,
+                        99,
+                        272,
+                        97,
+                        273,
+                        115,
+                        184,
+                        117
+                    ],
+                    "confidence": 0.983,
+                    "span": {
+                        "offset": 37,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "CA",
+                    "polygon": [
+                        287,
+                        97,
+                        310,
+                        96,
+                        310,
+                        114,
+                        288,
+                        115
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 46,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "95677",
+                    "polygon": [
+                        332,
+                        96,
+                        389,
+                        94,
+                        389,
+                        112,
+                        333,
+                        114
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 49,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "916-632-8828",
+                    "polygon": [
+                        218,
+                        121,
+                        357,
+                        118,
+                        357,
+                        135,
+                        218,
+                        138
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 55,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Receipt",
+                    "polygon": [
+                        51,
+                        171,
+                        130,
+                        170,
+                        130,
+                        188,
+                        51,
+                        189
+                    ],
+                    "confidence": 0.943,
+                    "span": {
+                        "offset": 68,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        134,
+                        170,
+                        142,
+                        170,
+                        142,
+                        188,
+                        134,
+                        188
+                    ],
+                    "confidence": 0.962,
+                    "span": {
+                        "offset": 76,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "mongo-042441",
+                    "polygon": [
+                        218,
+                        168,
+                        358,
+                        164,
+                        358,
+                        182,
+                        218,
+                        186
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 78,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Date:",
+                    "polygon": [
+                        50,
+                        194,
+                        109,
+                        194,
+                        109,
+                        210,
+                        50,
+                        211
+                    ],
+                    "confidence": 0.966,
+                    "span": {
+                        "offset": 91,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Jan",
+                    "polygon": [
+                        220,
+                        189,
+                        256,
+                        189,
+                        256,
+                        207,
+                        220,
+                        208
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 97,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "28,",
+                    "polygon": [
+                        268,
+                        188,
+                        298,
+                        188,
+                        299,
+                        207,
+                        268,
+                        207
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 101,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "2018",
+                    "polygon": [
+                        313,
+                        187,
+                        357,
+                        186,
+                        358,
+                        205,
+                        313,
+                        206
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 105,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "5:48:07",
+                    "polygon": [
+                        370,
+                        186,
+                        448,
+                        184,
+                        448,
+                        203,
+                        370,
+                        205
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 110,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "PM",
+                    "polygon": [
+                        462,
+                        184,
+                        487,
+                        183,
+                        487,
+                        202,
+                        462,
+                        202
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 118,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Served",
+                    "polygon": [
+                        50,
+                        217,
+                        121,
+                        216,
+                        121,
+                        235,
+                        50,
+                        236
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 121,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "by:",
+                    "polygon": [
+                        130,
+                        216,
+                        165,
+                        215,
+                        165,
+                        235,
+                        130,
+                        235
+                    ],
+                    "confidence": 0.961,
+                    "span": {
+                        "offset": 128,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Manager",
+                    "polygon": [
+                        220,
+                        214,
+                        304,
+                        214,
+                        304,
+                        231,
+                        220,
+                        232
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 132,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Item",
+                    "polygon": [
+                        51,
+                        265,
+                        101,
+                        265,
+                        101,
+                        281,
+                        51,
+                        281
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 140,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Price",
+                    "polygon": [
+                        280,
+                        261,
+                        340,
+                        261,
+                        340,
+                        277,
+                        280,
+                        277
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 145,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Qty",
+                    "polygon": [
+                        382,
+                        259,
+                        420,
+                        259,
+                        420,
+                        278,
+                        382,
+                        278
+                    ],
+                    "confidence": 0.673,
+                    "span": {
+                        "offset": 151,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Value",
+                    "polygon": [
+                        473,
+                        256,
+                        536,
+                        255,
+                        536,
+                        272,
+                        473,
+                        272
+                    ],
+                    "confidence": 0.939,
+                    "span": {
+                        "offset": 155,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "BBQ",
+                    "polygon": [
+                        50,
+                        312,
+                        86,
+                        311,
+                        86,
+                        329,
+                        50,
+                        329
+                    ],
+                    "confidence": 0.952,
+                    "span": {
+                        "offset": 161,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Dinner",
+                    "polygon": [
+                        98,
+                        311,
+                        169,
+                        310,
+                        169,
+                        328,
+                        98,
+                        329
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 165,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "$10.99",
+                    "polygon": [
+                        271,
+                        306,
+                        340,
+                        306,
+                        340,
+                        324,
+                        271,
+                        325
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 172,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "x4",
+                    "polygon": [
+                        395,
+                        306,
+                        421,
+                        305,
+                        422,
+                        322,
+                        396,
+                        322
+                    ],
+                    "confidence": 0.69,
+                    "span": {
+                        "offset": 179,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$47.15",
+                    "polygon": [
+                        466,
+                        302,
+                        538,
+                        302,
+                        538,
+                        320,
+                        466,
+                        321
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 182,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "beverage",
+                    "polygon": [
+                        48,
+                        336,
+                        146,
+                        336,
+                        146,
+                        353,
+                        48,
+                        354
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 189,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$2.29",
+                    "polygon": [
+                        283,
+                        330,
+                        341,
+                        330,
+                        341,
+                        348,
+                        283,
+                        349
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 198,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "x2",
+                    "polygon": [
+                        397,
+                        330,
+                        422,
+                        329,
+                        422,
+                        346,
+                        397,
+                        346
+                    ],
+                    "confidence": 0.754,
+                    "span": {
+                        "offset": 204,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$4.91",
+                    "polygon": [
+                        479,
+                        326,
+                        539,
+                        326,
+                        539,
+                        344,
+                        479,
+                        345
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 207,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Items",
+                    "polygon": [
+                        50,
+                        383,
+                        109,
+                        383,
+                        109,
+                        401,
+                        50,
+                        402
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 213,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "count",
+                    "polygon": [
+                        121,
+                        383,
+                        179,
+                        381,
+                        179,
+                        400,
+                        121,
+                        400
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 219,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        183,
+                        381,
+                        188,
+                        381,
+                        188,
+                        400,
+                        183,
+                        400
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 225,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "6",
+                    "polygon": [
+                        204,
+                        381,
+                        216,
+                        381,
+                        216,
+                        399,
+                        204,
+                        400
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 227,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Subtotal:",
+                    "polygon": [
+                        50,
+                        432,
+                        156,
+                        431,
+                        156,
+                        449,
+                        50,
+                        450
+                    ],
+                    "confidence": 0.948,
+                    "span": {
+                        "offset": 229,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "$48.54",
+                    "polygon": [
+                        473,
+                        423,
+                        546,
+                        423,
+                        546,
+                        442,
+                        474,
+                        443
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 239,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "CA",
+                    "polygon": [
+                        50,
+                        457,
+                        76,
+                        457,
+                        76,
+                        475,
+                        50,
+                        475
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 246,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        87,
+                        457,
+                        122,
+                        456,
+                        122,
+                        475,
+                        87,
+                        475
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 249,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "7.25%:",
+                    "polygon": [
+                        134,
+                        456,
+                        203,
+                        455,
+                        203,
+                        474,
+                        134,
+                        474
+                    ],
+                    "confidence": 0.962,
+                    "span": {
+                        "offset": 253,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "$3.52",
+                    "polygon": [
+                        486,
+                        449,
+                        547,
+                        448,
+                        547,
+                        467,
+                        486,
+                        468
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 260,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        48,
+                        496,
+                        111,
+                        495,
+                        111,
+                        526,
+                        48,
+                        526
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 266,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$52.06",
+                    "polygon": [
+                        476,
+                        486,
+                        550,
+                        484,
+                        550,
+                        519,
+                        476,
+                        521
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 272,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Cash",
+                    "polygon": [
+                        50,
+                        559,
+                        101,
+                        559,
+                        101,
+                        576,
+                        50,
+                        576
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 279,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Tendered:",
+                    "polygon": [
+                        50,
+                        583,
+                        159,
+                        582,
+                        159,
+                        600,
+                        51,
+                        601
+                    ],
+                    "confidence": 0.983,
+                    "span": {
+                        "offset": 284,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "$52.06",
+                    "polygon": [
+                        481,
+                        574,
+                        555,
+                        574,
+                        555,
+                        593,
+                        481,
+                        594
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 294,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Change:",
+                    "polygon": [
+                        52,
+                        608,
+                        136,
+                        608,
+                        136,
+                        626,
+                        52,
+                        626
+                    ],
+                    "confidence": 0.986,
+                    "span": {
+                        "offset": 301,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$0.00",
+                    "polygon": [
+                        494,
+                        600,
+                        556,
+                        599,
+                        556,
+                        617,
+                        494,
+                        619
+                    ],
+                    "confidence": 0.913,
+                    "span": {
+                        "offset": 309,
+                        "length": 5
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "Go Mongo BBQ",
+                    "polygon": [
+                        217,
+                        54,
+                        354,
+                        52,
+                        354,
+                        70,
+                        217,
+                        72
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "6661 Stanford Ranch Rd.",
+                    "polygon": [
+                        162,
+                        77,
+                        419,
+                        71,
+                        420,
+                        89,
+                        162,
+                        95
+                    ],
+                    "spans": [
+                        {
+                            "offset": 13,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "Rocklin, CA 95677",
+                    "polygon": [
+                        184,
+                        99,
+                        388,
+                        94,
+                        389,
+                        112,
+                        184,
+                        117
+                    ],
+                    "spans": [
+                        {
+                            "offset": 37,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "916-632-8828",
+                    "polygon": [
+                        218,
+                        121,
+                        356,
+                        118,
+                        356,
+                        135,
+                        218,
+                        139
+                    ],
+                    "spans": [
+                        {
+                            "offset": 55,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Receipt :",
+                    "polygon": [
+                        51,
+                        171,
+                        142,
+                        170,
+                        142,
+                        188,
+                        51,
+                        189
+                    ],
+                    "spans": [
+                        {
+                            "offset": 68,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "mongo-042441",
+                    "polygon": [
+                        218,
+                        168,
+                        357,
+                        164,
+                        358,
+                        182,
+                        218,
+                        186
+                    ],
+                    "spans": [
+                        {
+                            "offset": 78,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Date:",
+                    "polygon": [
+                        50,
+                        194,
+                        108,
+                        194,
+                        108,
+                        210,
+                        50,
+                        210
+                    ],
+                    "spans": [
+                        {
+                            "offset": 91,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Jan 28, 2018 5:48:07 PM",
+                    "polygon": [
+                        220,
+                        189,
+                        487,
+                        183,
+                        487,
+                        202,
+                        220,
+                        208
+                    ],
+                    "spans": [
+                        {
+                            "offset": 97,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "Served by:",
+                    "polygon": [
+                        50,
+                        216,
+                        164,
+                        215,
+                        164,
+                        235,
+                        50,
+                        235
+                    ],
+                    "spans": [
+                        {
+                            "offset": 121,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Manager",
+                    "polygon": [
+                        220,
+                        214,
+                        303,
+                        214,
+                        304,
+                        231,
+                        220,
+                        232
+                    ],
+                    "spans": [
+                        {
+                            "offset": 132,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Item",
+                    "polygon": [
+                        50,
+                        265,
+                        101,
+                        265,
+                        101,
+                        281,
+                        51,
+                        281
+                    ],
+                    "spans": [
+                        {
+                            "offset": 140,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Price",
+                    "polygon": [
+                        280,
+                        261,
+                        340,
+                        261,
+                        340,
+                        277,
+                        280,
+                        277
+                    ],
+                    "spans": [
+                        {
+                            "offset": 145,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Qty",
+                    "polygon": [
+                        382,
+                        259,
+                        420,
+                        259,
+                        420,
+                        278,
+                        382,
+                        278
+                    ],
+                    "spans": [
+                        {
+                            "offset": 151,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "Value",
+                    "polygon": [
+                        473,
+                        256,
+                        536,
+                        255,
+                        536,
+                        272,
+                        473,
+                        272
+                    ],
+                    "spans": [
+                        {
+                            "offset": 155,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "BBQ Dinner",
+                    "polygon": [
+                        49,
+                        312,
+                        168,
+                        310,
+                        169,
+                        328,
+                        50,
+                        329
+                    ],
+                    "spans": [
+                        {
+                            "offset": 161,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$10.99",
+                    "polygon": [
+                        271,
+                        306,
+                        340,
+                        306,
+                        340,
+                        324,
+                        271,
+                        324
+                    ],
+                    "spans": [
+                        {
+                            "offset": 172,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "x4",
+                    "polygon": [
+                        395,
+                        305,
+                        421,
+                        305,
+                        421,
+                        321,
+                        396,
+                        322
+                    ],
+                    "spans": [
+                        {
+                            "offset": 179,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "content": "$47.15",
+                    "polygon": [
+                        466,
+                        302,
+                        537,
+                        302,
+                        537,
+                        320,
+                        466,
+                        320
+                    ],
+                    "spans": [
+                        {
+                            "offset": 182,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "beverage",
+                    "polygon": [
+                        48,
+                        336,
+                        146,
+                        336,
+                        146,
+                        353,
+                        48,
+                        353
+                    ],
+                    "spans": [
+                        {
+                            "offset": 189,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$2.29",
+                    "polygon": [
+                        283,
+                        330,
+                        341,
+                        330,
+                        341,
+                        348,
+                        283,
+                        349
+                    ],
+                    "spans": [
+                        {
+                            "offset": 198,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "x2",
+                    "polygon": [
+                        397,
+                        330,
+                        422,
+                        329,
+                        422,
+                        345,
+                        397,
+                        346
+                    ],
+                    "spans": [
+                        {
+                            "offset": 204,
+                            "length": 2
+                        }
+                    ]
+                },
+                {
+                    "content": "$4.91",
+                    "polygon": [
+                        479,
+                        326,
+                        539,
+                        326,
+                        539,
+                        344,
+                        479,
+                        345
+                    ],
+                    "spans": [
+                        {
+                            "offset": 207,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Items count : 6",
+                    "polygon": [
+                        50,
+                        383,
+                        216,
+                        381,
+                        216,
+                        399,
+                        50,
+                        401
+                    ],
+                    "spans": [
+                        {
+                            "offset": 213,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Subtotal:",
+                    "polygon": [
+                        50,
+                        432,
+                        156,
+                        431,
+                        156,
+                        449,
+                        50,
+                        450
+                    ],
+                    "spans": [
+                        {
+                            "offset": 229,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "$48.54",
+                    "polygon": [
+                        473,
+                        423,
+                        546,
+                        423,
+                        546,
+                        442,
+                        473,
+                        443
+                    ],
+                    "spans": [
+                        {
+                            "offset": 239,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "CA Tax 7.25%:",
+                    "polygon": [
+                        50,
+                        457,
+                        203,
+                        455,
+                        203,
+                        474,
+                        50,
+                        475
+                    ],
+                    "spans": [
+                        {
+                            "offset": 246,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "$3.52",
+                    "polygon": [
+                        486,
+                        449,
+                        547,
+                        448,
+                        547,
+                        467,
+                        486,
+                        468
+                    ],
+                    "spans": [
+                        {
+                            "offset": 260,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        48,
+                        495,
+                        110,
+                        495,
+                        110,
+                        525,
+                        48,
+                        526
+                    ],
+                    "spans": [
+                        {
+                            "offset": 266,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "$52.06",
+                    "polygon": [
+                        476,
+                        486,
+                        549,
+                        484,
+                        550,
+                        520,
+                        476,
+                        521
+                    ],
+                    "spans": [
+                        {
+                            "offset": 272,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Cash",
+                    "polygon": [
+                        50,
+                        559,
+                        101,
+                        559,
+                        101,
+                        575,
+                        50,
+                        576
+                    ],
+                    "spans": [
+                        {
+                            "offset": 279,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Tendered:",
+                    "polygon": [
+                        50,
+                        583,
+                        158,
+                        582,
+                        158,
+                        600,
+                        51,
+                        601
+                    ],
+                    "spans": [
+                        {
+                            "offset": 284,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "$52.06",
+                    "polygon": [
+                        480,
+                        574,
+                        555,
+                        574,
+                        555,
+                        593,
+                        481,
+                        593
+                    ],
+                    "spans": [
+                        {
+                            "offset": 294,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Change:",
+                    "polygon": [
+                        52,
+                        608,
+                        135,
+                        608,
+                        135,
+                        626,
+                        52,
+                        626
+                    ],
+                    "spans": [
+                        {
+                            "offset": 301,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "$0.00",
+                    "polygon": [
+                        494,
+                        600,
+                        555,
+                        598,
+                        555,
+                        617,
+                        494,
+                        618
+                    ],
+                    "spans": [
+                        {
+                            "offset": 309,
+                            "length": 5
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 314
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "BBQ Dinner",
+                                    "content": "BBQ Dinner",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                50,
+                                                312,
+                                                169,
+                                                310,
+                                                169,
+                                                328,
+                                                50,
+                                                330
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.981,
+                                    "spans": [
+                                        {
+                                            "offset": 161,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "Price": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 10.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$10.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                271,
+                                                306,
+                                                340,
+                                                306,
+                                                340,
+                                                324,
+                                                271,
+                                                325
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 172,
+                                            "length": 6
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 4,
+                                    "content": "x4",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                395,
+                                                306,
+                                                421,
+                                                305,
+                                                422,
+                                                322,
+                                                396,
+                                                322
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 179,
+                                            "length": 2
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 47.15,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$47.15",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                466,
+                                                302,
+                                                538,
+                                                302,
+                                                538,
+                                                320,
+                                                466,
+                                                321
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 182,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "BBQ Dinner\n$10.99\nx4\n$47.15",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        50,
+                                        308,
+                                        538,
+                                        301,
+                                        538,
+                                        323,
+                                        50,
+                                        330
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.977,
+                            "spans": [
+                                {
+                                    "offset": 161,
+                                    "length": 27
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "beverage",
+                                    "content": "beverage",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                48,
+                                                336,
+                                                146,
+                                                336,
+                                                146,
+                                                353,
+                                                48,
+                                                354
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.982,
+                                    "spans": [
+                                        {
+                                            "offset": 189,
+                                            "length": 8
+                                        }
+                                    ]
+                                },
+                                "Price": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 2.29,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$2.29",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                283,
+                                                330,
+                                                341,
+                                                330,
+                                                341,
+                                                348,
+                                                283,
+                                                349
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 198,
+                                            "length": 5
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 2,
+                                    "content": "x2",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                397,
+                                                330,
+                                                422,
+                                                329,
+                                                422,
+                                                346,
+                                                397,
+                                                346
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 204,
+                                            "length": 2
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 4.91,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$4.91",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                479,
+                                                326,
+                                                539,
+                                                326,
+                                                539,
+                                                344,
+                                                479,
+                                                345
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 207,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "beverage\n$2.29\nx2\n$4.91",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        48,
+                                        330,
+                                        539,
+                                        326,
+                                        539,
+                                        350,
+                                        48,
+                                        354
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 189,
+                                    "length": 23
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "6661 Stanford Ranch Rd.\nRocklin, CA 95677",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                162,
+                                77,
+                                420,
+                                71,
+                                421,
+                                112,
+                                163,
+                                118
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 13,
+                            "length": 41
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "6661",
+                        "road": "Stanford Ranch Rd.",
+                        "postalCode": "95677",
+                        "city": "Rocklin",
+                        "state": "CA",
+                        "streetAddress": "6661 Stanford Ranch Rd."
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "Go Mongo BBQ",
+                    "content": "Go Mongo BBQ",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                217,
+                                54,
+                                355,
+                                52,
+                                355,
+                                70,
+                                217,
+                                73
+                            ]
+                        }
+                    ],
+                    "confidence": 0.96,
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 12
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+19166328828",
+                    "content": "916-632-8828",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                218,
+                                121,
+                                357,
+                                118,
+                                357,
+                                135,
+                                218,
+                                138
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 55,
+                            "length": 12
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.974
+                },
+                "Subtotal": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 48.54,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$48.54",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                473,
+                                423,
+                                546,
+                                423,
+                                546,
+                                442,
+                                474,
+                                443
+                            ]
+                        }
+                    ],
+                    "confidence": 0.983,
+                    "spans": [
+                        {
+                            "offset": 239,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TaxDetails": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Amount": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 3.52,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$3.52",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                486,
+                                                449,
+                                                547,
+                                                448,
+                                                547,
+                                                467,
+                                                486,
+                                                468
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.963,
+                                    "spans": [
+                                        {
+                                            "offset": 260,
+                                            "length": 5
+                                        }
+                                    ]
+                                },
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "CA Tax",
+                                    "content": "CA Tax",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                50,
+                                                456,
+                                                122,
+                                                456,
+                                                122,
+                                                475,
+                                                50,
+                                                475
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.959,
+                                    "spans": [
+                                        {
+                                            "offset": 246,
+                                            "length": 6
+                                        }
+                                    ]
+                                },
+                                "Rate": {
+                                    "type": "number",
+                                    "valueNumber": 0.0725,
+                                    "content": "7.25%:",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                134,
+                                                456,
+                                                203,
+                                                455,
+                                                203,
+                                                474,
+                                                134,
+                                                474
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.962,
+                                    "spans": [
+                                        {
+                                            "offset": 253,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "CA Tax 7.25%:\n$3.52",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        50,
+                                        452,
+                                        547,
+                                        448,
+                                        547,
+                                        472,
+                                        50,
+                                        476
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.983,
+                            "spans": [
+                                {
+                                    "offset": 246,
+                                    "length": 19
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 52.06,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$52.06",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                476,
+                                486,
+                                550,
+                                484,
+                                550,
+                                519,
+                                476,
+                                521
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 272,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 3.52,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$3.52",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                486,
+                                449,
+                                547,
+                                448,
+                                547,
+                                467,
+                                486,
+                                468
+                            ]
+                        }
+                    ],
+                    "confidence": 0.963,
+                    "spans": [
+                        {
+                            "offset": 260,
+                            "length": 5
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2018-01-28",
+                    "content": "Jan 28, 2018",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                220,
+                                188,
+                                358,
+                                186,
+                                358,
+                                206,
+                                220,
+                                208
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 97,
+                            "length": 12
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "17:48:07",
+                    "content": "5:48:07 PM",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                370,
+                                185,
+                                487,
+                                183,
+                                487,
+                                203,
+                                370,
+                                205
+                            ]
+                        }
+                    ],
+                    "confidence": 0.988,
+                    "spans": [
+                        {
+                            "offset": 110,
+                            "length": 10
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.973,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 314
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

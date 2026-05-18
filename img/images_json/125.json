@@ -1,0 +1,2023 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "CHLOE81\n81 Ludlow St\nNew York, NY 10002\nTel 212 677-0067\nCheck Name: HWANG,HYUN\nServer: Bar\nDate: 08/03/18\nTable:\nGuests:\n1\n-- [Seat 1]\n2 HOUSE VODKA\n$24.00\n1 HOUSE TEQUILA\n$12.00\nSubtotal:\n$36.00\nTax: :\n$3.19\nSub w/Tax :\n$39.19\nGratuity:\n$7.20\nAmt Due:\n$46.40\nVisa EMV\n$46.40\nThank You\nchloe81.com",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": 0.23909370601177216,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "CHLOE81",
+                    "polygon": [
+                        249,
+                        110,
+                        309,
+                        110,
+                        309,
+                        124,
+                        249,
+                        124
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 0,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "81",
+                    "polygon": [
+                        223,
+                        126,
+                        238,
+                        126,
+                        238,
+                        140,
+                        223,
+                        140
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 8,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Ludlow",
+                    "polygon": [
+                        250,
+                        126,
+                        300,
+                        127,
+                        300,
+                        141,
+                        249,
+                        141
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 11,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "St",
+                    "polygon": [
+                        309,
+                        127,
+                        327,
+                        127,
+                        327,
+                        142,
+                        309,
+                        141
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 18,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "New",
+                    "polygon": [
+                        197,
+                        142,
+                        222,
+                        143,
+                        222,
+                        157,
+                        197,
+                        157
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 21,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "York,",
+                    "polygon": [
+                        232,
+                        143,
+                        272,
+                        143,
+                        272,
+                        157,
+                        231,
+                        157
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 25,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "NY",
+                    "polygon": [
+                        283,
+                        143,
+                        300,
+                        143,
+                        300,
+                        158,
+                        283,
+                        158
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 31,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "10002",
+                    "polygon": [
+                        310,
+                        143,
+                        353,
+                        143,
+                        353,
+                        158,
+                        310,
+                        158
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 34,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Tel",
+                    "polygon": [
+                        204,
+                        159,
+                        228,
+                        159,
+                        228,
+                        173,
+                        204,
+                        173
+                    ],
+                    "confidence": 0.961,
+                    "span": {
+                        "offset": 40,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "212",
+                    "polygon": [
+                        239,
+                        159,
+                        265,
+                        159,
+                        264,
+                        174,
+                        239,
+                        173
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 44,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "677-0067",
+                    "polygon": [
+                        274,
+                        159,
+                        343,
+                        159,
+                        343,
+                        174,
+                        273,
+                        174
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 48,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Check",
+                    "polygon": [
+                        88,
+                        191,
+                        132,
+                        191,
+                        132,
+                        207,
+                        88,
+                        207
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 57,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Name:",
+                    "polygon": [
+                        142,
+                        191,
+                        183,
+                        191,
+                        183,
+                        207,
+                        142,
+                        207
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 63,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "HWANG,HYUN",
+                    "polygon": [
+                        194,
+                        191,
+                        282,
+                        192,
+                        282,
+                        207,
+                        193,
+                        207
+                    ],
+                    "confidence": 0.973,
+                    "span": {
+                        "offset": 69,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Server:",
+                    "polygon": [
+                        85,
+                        225,
+                        146,
+                        226,
+                        146,
+                        241,
+                        85,
+                        241
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 80,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Bar",
+                    "polygon": [
+                        156,
+                        226,
+                        183,
+                        226,
+                        183,
+                        242,
+                        156,
+                        242
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 88,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Date:",
+                    "polygon": [
+                        82,
+                        260,
+                        125,
+                        260,
+                        125,
+                        276,
+                        82,
+                        276
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 92,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "08/03/18",
+                    "polygon": [
+                        136,
+                        261,
+                        209,
+                        261,
+                        209,
+                        277,
+                        136,
+                        276
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 98,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Table:",
+                    "polygon": [
+                        81,
+                        279,
+                        134,
+                        279,
+                        134,
+                        294,
+                        81,
+                        293
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 107,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Guests:",
+                    "polygon": [
+                        161,
+                        280,
+                        223,
+                        280,
+                        223,
+                        294,
+                        161,
+                        294
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 114,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        243,
+                        280,
+                        250,
+                        280,
+                        250,
+                        294,
+                        243,
+                        294
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 122,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "--",
+                    "polygon": [
+                        80,
+                        314,
+                        92,
+                        314,
+                        92,
+                        330,
+                        80,
+                        330
+                    ],
+                    "confidence": 0.524,
+                    "span": {
+                        "offset": 124,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "[Seat",
+                    "polygon": [
+                        95,
+                        314,
+                        140,
+                        314,
+                        140,
+                        331,
+                        95,
+                        330
+                    ],
+                    "confidence": 0.737,
+                    "span": {
+                        "offset": 127,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1]",
+                    "polygon": [
+                        152,
+                        314,
+                        169,
+                        314,
+                        169,
+                        331,
+                        152,
+                        331
+                    ],
+                    "confidence": 1,
+                    "span": {
+                        "offset": 133,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        93,
+                        333,
+                        103,
+                        333,
+                        103,
+                        348,
+                        93,
+                        349
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 136,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "HOUSE",
+                    "polygon": [
+                        112,
+                        333,
+                        157,
+                        333,
+                        157,
+                        349,
+                        111,
+                        348
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 138,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "VODKA",
+                    "polygon": [
+                        167,
+                        333,
+                        213,
+                        333,
+                        213,
+                        349,
+                        167,
+                        349
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 144,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$24.00",
+                    "polygon": [
+                        405,
+                        333,
+                        463,
+                        333,
+                        464,
+                        349,
+                        405,
+                        349
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 150,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        93,
+                        352,
+                        99,
+                        352,
+                        99,
+                        367,
+                        93,
+                        367
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 157,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "HOUSE",
+                    "polygon": [
+                        110,
+                        352,
+                        156,
+                        352,
+                        156,
+                        368,
+                        110,
+                        367
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 159,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TEQUILA",
+                    "polygon": [
+                        166,
+                        352,
+                        230,
+                        352,
+                        230,
+                        368,
+                        166,
+                        368
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 165,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$12.00",
+                    "polygon": [
+                        406,
+                        352,
+                        465,
+                        352,
+                        465,
+                        368,
+                        406,
+                        369
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 173,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Subtotal:",
+                    "polygon": [
+                        161,
+                        390,
+                        244,
+                        391,
+                        244,
+                        407,
+                        161,
+                        406
+                    ],
+                    "confidence": 0.983,
+                    "span": {
+                        "offset": 180,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "$36.00",
+                    "polygon": [
+                        397,
+                        391,
+                        457,
+                        391,
+                        457,
+                        408,
+                        397,
+                        408
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 190,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Tax:",
+                    "polygon": [
+                        197,
+                        410,
+                        232,
+                        411,
+                        232,
+                        427,
+                        197,
+                        426
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 197,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        237,
+                        411,
+                        243,
+                        411,
+                        243,
+                        427,
+                        237,
+                        427
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 202,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "$3.19",
+                    "polygon": [
+                        407,
+                        411,
+                        458,
+                        411,
+                        458,
+                        429,
+                        407,
+                        429
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 204,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Sub",
+                    "polygon": [
+                        147,
+                        429,
+                        176,
+                        430,
+                        176,
+                        447,
+                        147,
+                        447
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 210,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "w/Tax",
+                    "polygon": [
+                        186,
+                        430,
+                        232,
+                        430,
+                        232,
+                        448,
+                        185,
+                        447
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 214,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        236,
+                        430,
+                        241,
+                        430,
+                        241,
+                        448,
+                        236,
+                        448
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 220,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "$39.19",
+                    "polygon": [
+                        397,
+                        432,
+                        459,
+                        431,
+                        459,
+                        449,
+                        398,
+                        450
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 222,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Gratuity:",
+                    "polygon": [
+                        154,
+                        450,
+                        240,
+                        451,
+                        240,
+                        469,
+                        154,
+                        467
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 229,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "$7.20",
+                    "polygon": [
+                        408,
+                        453,
+                        459,
+                        452,
+                        459,
+                        471,
+                        408,
+                        471
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 239,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Amt",
+                    "polygon": [
+                        162,
+                        471,
+                        191,
+                        471,
+                        191,
+                        488,
+                        162,
+                        488
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 245,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Due:",
+                    "polygon": [
+                        202,
+                        472,
+                        239,
+                        472,
+                        239,
+                        489,
+                        202,
+                        488
+                    ],
+                    "confidence": 0.949,
+                    "span": {
+                        "offset": 249,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "$46.40",
+                    "polygon": [
+                        338,
+                        473,
+                        458,
+                        473,
+                        458,
+                        492,
+                        338,
+                        491
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 254,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Visa",
+                    "polygon": [
+                        55,
+                        511,
+                        93,
+                        512,
+                        93,
+                        529,
+                        55,
+                        529
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 261,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "EMV",
+                    "polygon": [
+                        104,
+                        512,
+                        134,
+                        512,
+                        134,
+                        530,
+                        104,
+                        529
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 266,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$46.40",
+                    "polygon": [
+                        399,
+                        516,
+                        461,
+                        516,
+                        461,
+                        534,
+                        399,
+                        534
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 270,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Thank",
+                    "polygon": [
+                        224,
+                        584,
+                        272,
+                        585,
+                        272,
+                        598,
+                        224,
+                        598
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 277,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "You",
+                    "polygon": [
+                        282,
+                        585,
+                        313,
+                        585,
+                        313,
+                        599,
+                        282,
+                        598
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 283,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "chloe81.com",
+                    "polygon": [
+                        220,
+                        609,
+                        324,
+                        611,
+                        324,
+                        622,
+                        220,
+                        620
+                    ],
+                    "confidence": 0.948,
+                    "span": {
+                        "offset": 287,
+                        "length": 11
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "CHLOE81",
+                    "polygon": [
+                        249,
+                        110,
+                        309,
+                        110,
+                        308,
+                        124,
+                        249,
+                        124
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "81 Ludlow St",
+                    "polygon": [
+                        223,
+                        125,
+                        327,
+                        127,
+                        326,
+                        142,
+                        223,
+                        140
+                    ],
+                    "spans": [
+                        {
+                            "offset": 8,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "New York, NY 10002",
+                    "polygon": [
+                        197,
+                        142,
+                        352,
+                        143,
+                        352,
+                        158,
+                        197,
+                        157
+                    ],
+                    "spans": [
+                        {
+                            "offset": 21,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "Tel 212 677-0067",
+                    "polygon": [
+                        204,
+                        159,
+                        342,
+                        159,
+                        342,
+                        174,
+                        204,
+                        173
+                    ],
+                    "spans": [
+                        {
+                            "offset": 40,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Check Name: HWANG,HYUN",
+                    "polygon": [
+                        88,
+                        191,
+                        282,
+                        191,
+                        282,
+                        207,
+                        88,
+                        207
+                    ],
+                    "spans": [
+                        {
+                            "offset": 57,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "Server: Bar",
+                    "polygon": [
+                        85,
+                        225,
+                        183,
+                        226,
+                        183,
+                        241,
+                        85,
+                        241
+                    ],
+                    "spans": [
+                        {
+                            "offset": 80,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Date: 08/03/18",
+                    "polygon": [
+                        82,
+                        260,
+                        208,
+                        261,
+                        208,
+                        277,
+                        82,
+                        276
+                    ],
+                    "spans": [
+                        {
+                            "offset": 92,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "Table:",
+                    "polygon": [
+                        81,
+                        278,
+                        133,
+                        279,
+                        133,
+                        294,
+                        81,
+                        293
+                    ],
+                    "spans": [
+                        {
+                            "offset": 107,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Guests:",
+                    "polygon": [
+                        161,
+                        279,
+                        223,
+                        279,
+                        223,
+                        294,
+                        161,
+                        294
+                    ],
+                    "spans": [
+                        {
+                            "offset": 114,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        243,
+                        280,
+                        250,
+                        280,
+                        250,
+                        293,
+                        243,
+                        293
+                    ],
+                    "spans": [
+                        {
+                            "offset": 122,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "-- [Seat 1]",
+                    "polygon": [
+                        80,
+                        314,
+                        168,
+                        314,
+                        168,
+                        331,
+                        80,
+                        331
+                    ],
+                    "spans": [
+                        {
+                            "offset": 124,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "2 HOUSE VODKA",
+                    "polygon": [
+                        93,
+                        332,
+                        212,
+                        333,
+                        212,
+                        349,
+                        93,
+                        348
+                    ],
+                    "spans": [
+                        {
+                            "offset": 136,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "$24.00",
+                    "polygon": [
+                        405,
+                        333,
+                        463,
+                        333,
+                        463,
+                        349,
+                        405,
+                        349
+                    ],
+                    "spans": [
+                        {
+                            "offset": 150,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "1 HOUSE TEQUILA",
+                    "polygon": [
+                        93,
+                        351,
+                        230,
+                        352,
+                        230,
+                        368,
+                        93,
+                        367
+                    ],
+                    "spans": [
+                        {
+                            "offset": 157,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "$12.00",
+                    "polygon": [
+                        406,
+                        352,
+                        464,
+                        352,
+                        464,
+                        368,
+                        406,
+                        368
+                    ],
+                    "spans": [
+                        {
+                            "offset": 173,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Subtotal:",
+                    "polygon": [
+                        161,
+                        390,
+                        243,
+                        391,
+                        243,
+                        407,
+                        161,
+                        406
+                    ],
+                    "spans": [
+                        {
+                            "offset": 180,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "$36.00",
+                    "polygon": [
+                        397,
+                        391,
+                        457,
+                        391,
+                        457,
+                        408,
+                        397,
+                        408
+                    ],
+                    "spans": [
+                        {
+                            "offset": 190,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Tax: :",
+                    "polygon": [
+                        197,
+                        410,
+                        242,
+                        411,
+                        242,
+                        427,
+                        197,
+                        426
+                    ],
+                    "spans": [
+                        {
+                            "offset": 197,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "$3.19",
+                    "polygon": [
+                        407,
+                        411,
+                        457,
+                        411,
+                        457,
+                        428,
+                        407,
+                        428
+                    ],
+                    "spans": [
+                        {
+                            "offset": 204,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Sub w/Tax :",
+                    "polygon": [
+                        147,
+                        429,
+                        241,
+                        430,
+                        240,
+                        448,
+                        147,
+                        447
+                    ],
+                    "spans": [
+                        {
+                            "offset": 210,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "$39.19",
+                    "polygon": [
+                        397,
+                        431,
+                        458,
+                        431,
+                        458,
+                        449,
+                        397,
+                        449
+                    ],
+                    "spans": [
+                        {
+                            "offset": 222,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Gratuity:",
+                    "polygon": [
+                        154,
+                        450,
+                        240,
+                        451,
+                        239,
+                        468,
+                        154,
+                        467
+                    ],
+                    "spans": [
+                        {
+                            "offset": 229,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "$7.20",
+                    "polygon": [
+                        408,
+                        452,
+                        459,
+                        452,
+                        459,
+                        470,
+                        408,
+                        470
+                    ],
+                    "spans": [
+                        {
+                            "offset": 239,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Amt Due:",
+                    "polygon": [
+                        162,
+                        471,
+                        239,
+                        472,
+                        239,
+                        489,
+                        162,
+                        488
+                    ],
+                    "spans": [
+                        {
+                            "offset": 245,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$46.40",
+                    "polygon": [
+                        338,
+                        473,
+                        458,
+                        473,
+                        458,
+                        492,
+                        338,
+                        491
+                    ],
+                    "spans": [
+                        {
+                            "offset": 254,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Visa EMV",
+                    "polygon": [
+                        55,
+                        511,
+                        133,
+                        512,
+                        133,
+                        529,
+                        55,
+                        529
+                    ],
+                    "spans": [
+                        {
+                            "offset": 261,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$46.40",
+                    "polygon": [
+                        399,
+                        516,
+                        460,
+                        516,
+                        460,
+                        534,
+                        399,
+                        534
+                    ],
+                    "spans": [
+                        {
+                            "offset": 270,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Thank You",
+                    "polygon": [
+                        224,
+                        584,
+                        313,
+                        585,
+                        313,
+                        598,
+                        224,
+                        598
+                    ],
+                    "spans": [
+                        {
+                            "offset": 277,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "chloe81.com",
+                    "polygon": [
+                        220,
+                        609,
+                        323,
+                        611,
+                        323,
+                        621,
+                        220,
+                        620
+                    ],
+                    "spans": [
+                        {
+                            "offset": 287,
+                            "length": 11
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 298
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "HOUSE VODKA",
+                                    "content": "HOUSE VODKA",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                111,
+                                                332,
+                                                213,
+                                                333,
+                                                213,
+                                                350,
+                                                111,
+                                                348
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 138,
+                                            "length": 11
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 2,
+                                    "content": "2",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                93,
+                                                333,
+                                                103,
+                                                333,
+                                                103,
+                                                348,
+                                                93,
+                                                349
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 136,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 24.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$24.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                405,
+                                                333,
+                                                463,
+                                                333,
+                                                464,
+                                                349,
+                                                405,
+                                                349
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 150,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "2 HOUSE VODKA\n$24.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        93,
+                                        333,
+                                        464,
+                                        333,
+                                        464,
+                                        349,
+                                        93,
+                                        349
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.978,
+                            "spans": [
+                                {
+                                    "offset": 136,
+                                    "length": 20
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "HOUSE TEQUILA",
+                                    "content": "HOUSE TEQUILA",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                110,
+                                                351,
+                                                230,
+                                                352,
+                                                230,
+                                                369,
+                                                110,
+                                                367
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 159,
+                                            "length": 13
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                93,
+                                                352,
+                                                99,
+                                                352,
+                                                99,
+                                                367,
+                                                93,
+                                                367
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 157,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 12.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$12.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                406,
+                                                352,
+                                                465,
+                                                352,
+                                                465,
+                                                368,
+                                                406,
+                                                369
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 173,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 HOUSE TEQUILA\n$12.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        93,
+                                        352,
+                                        465,
+                                        352,
+                                        465,
+                                        369,
+                                        93,
+                                        369
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 157,
+                                    "length": 22
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "81 Ludlow St\nNew York, NY 10002",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                197,
+                                126,
+                                353,
+                                126,
+                                353,
+                                158,
+                                197,
+                                158
+                            ]
+                        }
+                    ],
+                    "confidence": 0.985,
+                    "spans": [
+                        {
+                            "offset": 8,
+                            "length": 31
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "81",
+                        "road": "Ludlow St",
+                        "postalCode": "10002",
+                        "city": "New York",
+                        "state": "NY",
+                        "streetAddress": "81 Ludlow St"
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "CHLOE81",
+                    "content": "CHLOE81",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                249,
+                                110,
+                                309,
+                                110,
+                                309,
+                                124,
+                                249,
+                                124
+                            ]
+                        }
+                    ],
+                    "confidence": 0.978,
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 7
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+12126770067",
+                    "content": "212 677-0067",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                239,
+                                157,
+                                343,
+                                159,
+                                343,
+                                176,
+                                239,
+                                174
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 44,
+                            "length": 12
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.974
+                },
+                "Subtotal": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 36.0,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$36.00",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                397,
+                                391,
+                                457,
+                                391,
+                                457,
+                                408,
+                                397,
+                                408
+                            ]
+                        }
+                    ],
+                    "confidence": 0.988,
+                    "spans": [
+                        {
+                            "offset": 190,
+                            "length": 6
+                        }
+                    ]
+                },
+                "Tip": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 7.2,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$7.20",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                408,
+                                453,
+                                459,
+                                452,
+                                459,
+                                471,
+                                408,
+                                471
+                            ]
+                        }
+                    ],
+                    "confidence": 0.977,
+                    "spans": [
+                        {
+                            "offset": 239,
+                            "length": 5
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 46.4,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$46.40",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                338,
+                                473,
+                                458,
+                                473,
+                                458,
+                                492,
+                                338,
+                                491
+                            ]
+                        }
+                    ],
+                    "confidence": 0.983,
+                    "spans": [
+                        {
+                            "offset": 254,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 3.19,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$3.19",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                407,
+                                411,
+                                458,
+                                411,
+                                458,
+                                429,
+                                407,
+                                429
+                            ]
+                        }
+                    ],
+                    "confidence": 0.995,
+                    "spans": [
+                        {
+                            "offset": 204,
+                            "length": 5
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2018-08-03",
+                    "content": "08/03/18",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                136,
+                                261,
+                                209,
+                                261,
+                                209,
+                                277,
+                                136,
+                                276
+                            ]
+                        }
+                    ],
+                    "confidence": 0.993,
+                    "spans": [
+                        {
+                            "offset": 98,
+                            "length": 8
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.973,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 298
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

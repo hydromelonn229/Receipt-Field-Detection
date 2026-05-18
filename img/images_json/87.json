@@ -1,0 +1,1929 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "POREATERY\nPokeatery CV\n18911 Lake Chabot\nDecember 29, 2018\nRoad\n2:01 PM\nCastro Valley, CA\nRamelle\n94546\nReceipt: 3zCW\nAuthorization: 060071\nCHASE VISA\nAID A0 00 00 00 03 10 10\nPoke Box\n$13.50\nRegular, Avocado ($1.00)\nSubtotal\n$13.50\nCastro Valley Sales Tax\n$1.25\nTip\n$1.48\nTotal\n$16.23\nVisa 0642 (Chip)\n$16.23",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": 4.286843776702881,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "POREATERY",
+                    "polygon": [
+                        357,
+                        126,
+                        446,
+                        124,
+                        446,
+                        135,
+                        357,
+                        136
+                    ],
+                    "confidence": 0.659,
+                    "span": {
+                        "offset": 0,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Pokeatery",
+                    "polygon": [
+                        241,
+                        186,
+                        333,
+                        194,
+                        330,
+                        210,
+                        238,
+                        201
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 10,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "CV",
+                    "polygon": [
+                        338,
+                        194,
+                        365,
+                        196,
+                        363,
+                        212,
+                        335,
+                        210
+                    ],
+                    "confidence": 0.986,
+                    "span": {
+                        "offset": 20,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "18911",
+                    "polygon": [
+                        238,
+                        209,
+                        274,
+                        212,
+                        273,
+                        224,
+                        236,
+                        221
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 23,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Lake",
+                    "polygon": [
+                        280,
+                        212,
+                        311,
+                        215,
+                        310,
+                        227,
+                        278,
+                        225
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 29,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Chabot",
+                    "polygon": [
+                        316,
+                        215,
+                        364,
+                        219,
+                        364,
+                        231,
+                        314,
+                        227
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 34,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "December",
+                    "polygon": [
+                        390,
+                        219,
+                        472,
+                        224,
+                        471,
+                        237,
+                        389,
+                        232
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 41,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "29,",
+                    "polygon": [
+                        477,
+                        224,
+                        499,
+                        226,
+                        498,
+                        239,
+                        476,
+                        238
+                    ],
+                    "confidence": 0.92,
+                    "span": {
+                        "offset": 50,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "2018",
+                    "polygon": [
+                        506,
+                        226,
+                        547,
+                        229,
+                        546,
+                        242,
+                        504,
+                        240
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 54,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Road",
+                    "polygon": [
+                        235,
+                        225,
+                        273,
+                        230,
+                        271,
+                        241,
+                        232,
+                        237
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 59,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "2:01",
+                    "polygon": [
+                        477,
+                        242,
+                        507,
+                        245,
+                        506,
+                        259,
+                        475,
+                        256
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 64,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "PM",
+                    "polygon": [
+                        514,
+                        246,
+                        543,
+                        248,
+                        541,
+                        262,
+                        512,
+                        259
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 69,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Castro",
+                    "polygon": [
+                        232,
+                        241,
+                        279,
+                        246,
+                        277,
+                        259,
+                        230,
+                        254
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 72,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Valley,",
+                    "polygon": [
+                        282,
+                        246,
+                        323,
+                        249,
+                        321,
+                        262,
+                        281,
+                        259
+                    ],
+                    "confidence": 0.912,
+                    "span": {
+                        "offset": 79,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "CA",
+                    "polygon": [
+                        327,
+                        250,
+                        350,
+                        251,
+                        349,
+                        264,
+                        326,
+                        263
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 87,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Ramelle",
+                    "polygon": [
+                        474,
+                        261,
+                        537,
+                        267,
+                        536,
+                        280,
+                        472,
+                        274
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 90,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "94546",
+                    "polygon": [
+                        229,
+                        258,
+                        274,
+                        262,
+                        272,
+                        274,
+                        227,
+                        270
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 98,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Receipt:",
+                    "polygon": [
+                        223,
+                        291,
+                        281,
+                        296,
+                        279,
+                        309,
+                        220,
+                        303
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 104,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "3zCW",
+                    "polygon": [
+                        287,
+                        297,
+                        330,
+                        300,
+                        329,
+                        313,
+                        285,
+                        309
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 113,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Authorization:",
+                    "polygon": [
+                        219,
+                        307,
+                        319,
+                        317,
+                        317,
+                        329,
+                        217,
+                        320
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 118,
+                        "length": 14
+                    }
+                },
+                {
+                    "content": "060071",
+                    "polygon": [
+                        325,
+                        317,
+                        369,
+                        321,
+                        368,
+                        334,
+                        323,
+                        330
+                    ],
+                    "confidence": 0.983,
+                    "span": {
+                        "offset": 133,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "CHASE",
+                    "polygon": [
+                        213,
+                        339,
+                        266,
+                        344,
+                        264,
+                        357,
+                        211,
+                        352
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 140,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "VISA",
+                    "polygon": [
+                        270,
+                        344,
+                        305,
+                        347,
+                        303,
+                        360,
+                        268,
+                        357
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 146,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "AID",
+                    "polygon": [
+                        209,
+                        355,
+                        237,
+                        358,
+                        235,
+                        371,
+                        207,
+                        368
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 151,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "A0",
+                    "polygon": [
+                        241,
+                        358,
+                        261,
+                        360,
+                        259,
+                        373,
+                        239,
+                        371
+                    ],
+                    "confidence": 0.941,
+                    "span": {
+                        "offset": 155,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "00",
+                    "polygon": [
+                        266,
+                        360,
+                        284,
+                        362,
+                        282,
+                        375,
+                        264,
+                        374
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 158,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "00",
+                    "polygon": [
+                        288,
+                        362,
+                        305,
+                        363,
+                        303,
+                        377,
+                        286,
+                        375
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 161,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "00",
+                    "polygon": [
+                        309,
+                        364,
+                        322,
+                        365,
+                        321,
+                        378,
+                        307,
+                        377
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 164,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "03",
+                    "polygon": [
+                        326,
+                        365,
+                        344,
+                        366,
+                        342,
+                        379,
+                        325,
+                        378
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 167,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "10",
+                    "polygon": [
+                        349,
+                        366,
+                        362,
+                        367,
+                        361,
+                        381,
+                        347,
+                        380
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 170,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "10",
+                    "polygon": [
+                        368,
+                        368,
+                        385,
+                        369,
+                        383,
+                        382,
+                        366,
+                        381
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 173,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Poke",
+                    "polygon": [
+                        204,
+                        386,
+                        241,
+                        389,
+                        239,
+                        402,
+                        202,
+                        399
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 176,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Box",
+                    "polygon": [
+                        246,
+                        390,
+                        275,
+                        392,
+                        274,
+                        405,
+                        244,
+                        403
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 181,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$13.50",
+                    "polygon": [
+                        455,
+                        402,
+                        512,
+                        404,
+                        511,
+                        417,
+                        454,
+                        415
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 185,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Regular,",
+                    "polygon": [
+                        200,
+                        402,
+                        261,
+                        406,
+                        259,
+                        420,
+                        198,
+                        415
+                    ],
+                    "confidence": 0.935,
+                    "span": {
+                        "offset": 192,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Avocado",
+                    "polygon": [
+                        265,
+                        406,
+                        319,
+                        409,
+                        318,
+                        423,
+                        264,
+                        420
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 201,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "($1.00)",
+                    "polygon": [
+                        323,
+                        409,
+                        371,
+                        411,
+                        371,
+                        425,
+                        322,
+                        423
+                    ],
+                    "confidence": 0.983,
+                    "span": {
+                        "offset": 209,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        192,
+                        439,
+                        257,
+                        443,
+                        256,
+                        456,
+                        190,
+                        452
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 217,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$13.50",
+                    "polygon": [
+                        449,
+                        456,
+                        511,
+                        458,
+                        510,
+                        472,
+                        449,
+                        470
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 226,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Castro",
+                    "polygon": [
+                        189,
+                        454,
+                        240,
+                        458,
+                        238,
+                        472,
+                        187,
+                        468
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 233,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Valley",
+                    "polygon": [
+                        245,
+                        458,
+                        288,
+                        461,
+                        286,
+                        476,
+                        243,
+                        472
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 240,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Sales",
+                    "polygon": [
+                        292,
+                        462,
+                        326,
+                        464,
+                        324,
+                        479,
+                        290,
+                        476
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 247,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        329,
+                        464,
+                        354,
+                        466,
+                        352,
+                        481,
+                        327,
+                        479
+                    ],
+                    "confidence": 0.974,
+                    "span": {
+                        "offset": 253,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$1.25",
+                    "polygon": [
+                        460,
+                        474,
+                        509,
+                        475,
+                        508,
+                        489,
+                        459,
+                        487
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 257,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Tip",
+                    "polygon": [
+                        186,
+                        470,
+                        211,
+                        473,
+                        209,
+                        487,
+                        184,
+                        484
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 263,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$1.48",
+                    "polygon": [
+                        457,
+                        490,
+                        507,
+                        491,
+                        507,
+                        504,
+                        457,
+                        503
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 267,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        177,
+                        510,
+                        218,
+                        513,
+                        216,
+                        526,
+                        175,
+                        523
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 273,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$16.23",
+                    "polygon": [
+                        433,
+                        527,
+                        504,
+                        528,
+                        503,
+                        545,
+                        433,
+                        544
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 279,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Visa",
+                    "polygon": [
+                        173,
+                        527,
+                        205,
+                        529,
+                        204,
+                        545,
+                        171,
+                        542
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 286,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "0642",
+                    "polygon": [
+                        211,
+                        530,
+                        250,
+                        532,
+                        248,
+                        548,
+                        210,
+                        545
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 291,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "(Chip)",
+                    "polygon": [
+                        255,
+                        533,
+                        299,
+                        535,
+                        298,
+                        551,
+                        254,
+                        548
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 296,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "$16.23",
+                    "polygon": [
+                        442,
+                        548,
+                        502,
+                        548,
+                        502,
+                        562,
+                        442,
+                        562
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 303,
+                        "length": 6
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "POREATERY",
+                    "polygon": [
+                        356,
+                        125,
+                        446,
+                        124,
+                        446,
+                        134,
+                        356,
+                        136
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Pokeatery CV",
+                    "polygon": [
+                        240,
+                        186,
+                        364,
+                        196,
+                        363,
+                        212,
+                        238,
+                        202
+                    ],
+                    "spans": [
+                        {
+                            "offset": 10,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "18911 Lake Chabot",
+                    "polygon": [
+                        237,
+                        208,
+                        364,
+                        219,
+                        363,
+                        231,
+                        236,
+                        221
+                    ],
+                    "spans": [
+                        {
+                            "offset": 23,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "December 29, 2018",
+                    "polygon": [
+                        390,
+                        219,
+                        546,
+                        229,
+                        546,
+                        242,
+                        389,
+                        232
+                    ],
+                    "spans": [
+                        {
+                            "offset": 41,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "Road",
+                    "polygon": [
+                        234,
+                        225,
+                        273,
+                        230,
+                        272,
+                        241,
+                        232,
+                        237
+                    ],
+                    "spans": [
+                        {
+                            "offset": 59,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "2:01 PM",
+                    "polygon": [
+                        476,
+                        242,
+                        542,
+                        248,
+                        541,
+                        262,
+                        475,
+                        256
+                    ],
+                    "spans": [
+                        {
+                            "offset": 64,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Castro Valley, CA",
+                    "polygon": [
+                        231,
+                        241,
+                        350,
+                        251,
+                        349,
+                        265,
+                        230,
+                        255
+                    ],
+                    "spans": [
+                        {
+                            "offset": 72,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "Ramelle",
+                    "polygon": [
+                        473,
+                        261,
+                        537,
+                        267,
+                        536,
+                        280,
+                        472,
+                        274
+                    ],
+                    "spans": [
+                        {
+                            "offset": 90,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "94546",
+                    "polygon": [
+                        228,
+                        258,
+                        274,
+                        262,
+                        273,
+                        274,
+                        227,
+                        269
+                    ],
+                    "spans": [
+                        {
+                            "offset": 98,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Receipt: 3zCW",
+                    "polygon": [
+                        222,
+                        291,
+                        330,
+                        300,
+                        328,
+                        313,
+                        220,
+                        304
+                    ],
+                    "spans": [
+                        {
+                            "offset": 104,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "Authorization: 060071",
+                    "polygon": [
+                        218,
+                        307,
+                        369,
+                        321,
+                        367,
+                        334,
+                        217,
+                        320
+                    ],
+                    "spans": [
+                        {
+                            "offset": 118,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "CHASE VISA",
+                    "polygon": [
+                        212,
+                        339,
+                        304,
+                        347,
+                        303,
+                        360,
+                        211,
+                        352
+                    ],
+                    "spans": [
+                        {
+                            "offset": 140,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "AID A0 00 00 00 03 10 10",
+                    "polygon": [
+                        208,
+                        355,
+                        384,
+                        369,
+                        383,
+                        382,
+                        207,
+                        369
+                    ],
+                    "spans": [
+                        {
+                            "offset": 151,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "Poke Box",
+                    "polygon": [
+                        203,
+                        386,
+                        275,
+                        392,
+                        274,
+                        405,
+                        202,
+                        399
+                    ],
+                    "spans": [
+                        {
+                            "offset": 176,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$13.50",
+                    "polygon": [
+                        454,
+                        402,
+                        512,
+                        404,
+                        511,
+                        417,
+                        454,
+                        415
+                    ],
+                    "spans": [
+                        {
+                            "offset": 185,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Regular, Avocado ($1.00)",
+                    "polygon": [
+                        199,
+                        402,
+                        371,
+                        411,
+                        370,
+                        425,
+                        198,
+                        416
+                    ],
+                    "spans": [
+                        {
+                            "offset": 192,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        191,
+                        439,
+                        257,
+                        443,
+                        256,
+                        456,
+                        191,
+                        452
+                    ],
+                    "spans": [
+                        {
+                            "offset": 217,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$13.50",
+                    "polygon": [
+                        449,
+                        456,
+                        510,
+                        458,
+                        510,
+                        472,
+                        449,
+                        470
+                    ],
+                    "spans": [
+                        {
+                            "offset": 226,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Castro Valley Sales Tax",
+                    "polygon": [
+                        188,
+                        454,
+                        353,
+                        466,
+                        352,
+                        481,
+                        187,
+                        468
+                    ],
+                    "spans": [
+                        {
+                            "offset": 233,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "$1.25",
+                    "polygon": [
+                        460,
+                        474,
+                        509,
+                        475,
+                        508,
+                        489,
+                        459,
+                        487
+                    ],
+                    "spans": [
+                        {
+                            "offset": 257,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Tip",
+                    "polygon": [
+                        186,
+                        470,
+                        211,
+                        473,
+                        209,
+                        487,
+                        184,
+                        483
+                    ],
+                    "spans": [
+                        {
+                            "offset": 263,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "$1.48",
+                    "polygon": [
+                        457,
+                        490,
+                        507,
+                        491,
+                        507,
+                        504,
+                        457,
+                        503
+                    ],
+                    "spans": [
+                        {
+                            "offset": 267,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        176,
+                        510,
+                        217,
+                        513,
+                        216,
+                        526,
+                        175,
+                        523
+                    ],
+                    "spans": [
+                        {
+                            "offset": 273,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "$16.23",
+                    "polygon": [
+                        433,
+                        527,
+                        503,
+                        528,
+                        503,
+                        545,
+                        433,
+                        544
+                    ],
+                    "spans": [
+                        {
+                            "offset": 279,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Visa 0642 (Chip)",
+                    "polygon": [
+                        172,
+                        527,
+                        298,
+                        535,
+                        297,
+                        551,
+                        171,
+                        543
+                    ],
+                    "spans": [
+                        {
+                            "offset": 286,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "$16.23",
+                    "polygon": [
+                        442,
+                        548,
+                        501,
+                        548,
+                        501,
+                        562,
+                        442,
+                        562
+                    ],
+                    "spans": [
+                        {
+                            "offset": 303,
+                            "length": 6
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 309
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Poke Box",
+                                    "content": "Poke Box",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                203,
+                                                386,
+                                                275,
+                                                392,
+                                                274,
+                                                405,
+                                                202,
+                                                400
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 176,
+                                            "length": 8
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 13.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$13.50",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                455,
+                                                402,
+                                                512,
+                                                404,
+                                                511,
+                                                417,
+                                                454,
+                                                415
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 185,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Poke Box\n$13.50\nRegular, Avocado ($1.00)",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        200,
+                                        383,
+                                        512,
+                                        404,
+                                        510,
+                                        437,
+                                        198,
+                                        416
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 176,
+                                    "length": 40
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "18911 Lake Chabot\nRoad\nCastro Valley, CA\n94546",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                232,
+                                208,
+                                365,
+                                219,
+                                360,
+                                281,
+                                227,
+                                270
+                            ]
+                        }
+                    ],
+                    "confidence": 0.922,
+                    "spans": [
+                        {
+                            "offset": 23,
+                            "length": 17
+                        },
+                        {
+                            "offset": 59,
+                            "length": 4
+                        },
+                        {
+                            "offset": 72,
+                            "length": 17
+                        },
+                        {
+                            "offset": 98,
+                            "length": 5
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "18911",
+                        "road": "Lake Chabot\nRoad",
+                        "postalCode": "94546",
+                        "city": "Castro Valley",
+                        "state": "CA",
+                        "streetAddress": "18911 Lake Chabot\nRoad"
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "Pokeatery CV",
+                    "content": "Pokeatery CV",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                240,
+                                184,
+                                365,
+                                196,
+                                363,
+                                213,
+                                238,
+                                201
+                            ]
+                        }
+                    ],
+                    "confidence": 0.966,
+                    "spans": [
+                        {
+                            "offset": 10,
+                            "length": 12
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.971
+                },
+                "Subtotal": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 13.5,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$13.50",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                449,
+                                456,
+                                511,
+                                458,
+                                510,
+                                472,
+                                449,
+                                470
+                            ]
+                        }
+                    ],
+                    "confidence": 0.985,
+                    "spans": [
+                        {
+                            "offset": 226,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TaxDetails": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Amount": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 1.25,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$1.25",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                460,
+                                                474,
+                                                509,
+                                                475,
+                                                508,
+                                                489,
+                                                459,
+                                                487
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.963,
+                                    "spans": [
+                                        {
+                                            "offset": 257,
+                                            "length": 5
+                                        }
+                                    ]
+                                },
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Castro Valley Sales Tax",
+                                    "content": "Castro Valley Sales Tax",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                188,
+                                                453,
+                                                354,
+                                                466,
+                                                353,
+                                                481,
+                                                187,
+                                                468
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.95,
+                                    "spans": [
+                                        {
+                                            "offset": 233,
+                                            "length": 23
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Castro Valley Sales Tax\n$1.25",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        188,
+                                        450,
+                                        509,
+                                        475,
+                                        508,
+                                        493,
+                                        187,
+                                        468
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 233,
+                                    "length": 29
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Tip": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 1.48,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$1.48",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                457,
+                                490,
+                                507,
+                                491,
+                                507,
+                                504,
+                                457,
+                                503
+                            ]
+                        }
+                    ],
+                    "confidence": 0.98,
+                    "spans": [
+                        {
+                            "offset": 267,
+                            "length": 5
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 16.23,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$16.23",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                433,
+                                527,
+                                504,
+                                528,
+                                503,
+                                545,
+                                433,
+                                544
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 279,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 1.25,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$1.25",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                460,
+                                474,
+                                509,
+                                475,
+                                508,
+                                489,
+                                459,
+                                487
+                            ]
+                        }
+                    ],
+                    "confidence": 0.963,
+                    "spans": [
+                        {
+                            "offset": 257,
+                            "length": 5
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2018-12-29",
+                    "content": "December 29, 2018",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                390,
+                                219,
+                                547,
+                                228,
+                                546,
+                                243,
+                                389,
+                                233
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 41,
+                            "length": 17
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "14:01:00",
+                    "content": "2:01 PM",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                476,
+                                241,
+                                543,
+                                248,
+                                542,
+                                263,
+                                475,
+                                256
+                            ]
+                        }
+                    ],
+                    "confidence": 0.989,
+                    "spans": [
+                        {
+                            "offset": 64,
+                            "length": 7
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.97,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 309
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

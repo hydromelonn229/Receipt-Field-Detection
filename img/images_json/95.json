@@ -1,0 +1,1686 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "KAZ RAMEN\n22413 BARTON ROAD\nGRAND TERRACE, CA 92313\n9094229532\nORDER: T4G1\nDINE IN\nCashier: Mickey\n04-Nov-2018 9:07:13P\nGuest 1\n7\nTonkotsu\n$9.50\nTofu $0.00\nEgg $1.30\nCorn $0.50\nBamboo shoots $1.00\nNaruto $0.75\nSpicy $0.00\nSubtotal\n$13.05\nTax\n$1.01\nTotal\n$14.06\nOrder 4AW465DENMVRT",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -1.294800043106079,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "KAZ",
+                    "polygon": [
+                        254,
+                        179,
+                        288,
+                        178,
+                        289,
+                        190,
+                        255,
+                        191
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 0,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "RAMEN",
+                    "polygon": [
+                        293,
+                        177,
+                        359,
+                        175,
+                        360,
+                        188,
+                        294,
+                        190
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 4,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "22413",
+                    "polygon": [
+                        233,
+                        194,
+                        276,
+                        193,
+                        277,
+                        204,
+                        234,
+                        206
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 10,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "BARTON",
+                    "polygon": [
+                        280,
+                        192,
+                        336,
+                        190,
+                        337,
+                        202,
+                        281,
+                        204
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 16,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "ROAD",
+                    "polygon": [
+                        341,
+                        190,
+                        381,
+                        188,
+                        382,
+                        199,
+                        342,
+                        201
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 23,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "GRAND",
+                    "polygon": [
+                        211,
+                        207,
+                        262,
+                        205,
+                        263,
+                        216,
+                        212,
+                        218
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 28,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TERRACE,",
+                    "polygon": [
+                        267,
+                        205,
+                        333,
+                        202,
+                        334,
+                        214,
+                        268,
+                        216
+                    ],
+                    "confidence": 0.986,
+                    "span": {
+                        "offset": 34,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "CA",
+                    "polygon": [
+                        337,
+                        202,
+                        356,
+                        201,
+                        356,
+                        213,
+                        338,
+                        213
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 43,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "92313",
+                    "polygon": [
+                        360,
+                        201,
+                        405,
+                        199,
+                        406,
+                        210,
+                        361,
+                        212
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 46,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "9094229532",
+                    "polygon": [
+                        264,
+                        218,
+                        351,
+                        214,
+                        352,
+                        225,
+                        265,
+                        229
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 52,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "ORDER:",
+                    "polygon": [
+                        237,
+                        244,
+                        317,
+                        241,
+                        318,
+                        257,
+                        237,
+                        260
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 63,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "T4G1",
+                    "polygon": [
+                        324,
+                        241,
+                        379,
+                        238,
+                        380,
+                        254,
+                        325,
+                        257
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 70,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "DINE",
+                    "polygon": [
+                        269,
+                        263,
+                        320,
+                        261,
+                        321,
+                        277,
+                        269,
+                        279
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 75,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "IN",
+                    "polygon": [
+                        328,
+                        261,
+                        351,
+                        260,
+                        352,
+                        276,
+                        329,
+                        277
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 80,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Cashier:",
+                    "polygon": [
+                        151,
+                        284,
+                        208,
+                        284,
+                        208,
+                        295,
+                        151,
+                        296
+                    ],
+                    "confidence": 0.819,
+                    "span": {
+                        "offset": 83,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Mickey",
+                    "polygon": [
+                        213,
+                        284,
+                        262,
+                        283,
+                        262,
+                        295,
+                        213,
+                        295
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 92,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "04-Nov-2018",
+                    "polygon": [
+                        150,
+                        298,
+                        244,
+                        296,
+                        245,
+                        308,
+                        151,
+                        309
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 99,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "9:07:13P",
+                    "polygon": [
+                        249,
+                        296,
+                        311,
+                        294,
+                        311,
+                        306,
+                        249,
+                        308
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 111,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Guest",
+                    "polygon": [
+                        150,
+                        311,
+                        191,
+                        311,
+                        192,
+                        322,
+                        150,
+                        322
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 120,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        197,
+                        311,
+                        204,
+                        311,
+                        204,
+                        322,
+                        197,
+                        322
+                    ],
+                    "confidence": 0.985,
+                    "span": {
+                        "offset": 126,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        150,
+                        325,
+                        157,
+                        325,
+                        157,
+                        335,
+                        150,
+                        335
+                    ],
+                    "confidence": 0.6,
+                    "span": {
+                        "offset": 128,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Tonkotsu",
+                    "polygon": [
+                        179,
+                        324,
+                        245,
+                        324,
+                        245,
+                        335,
+                        179,
+                        335
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 130,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$9.50",
+                    "polygon": [
+                        433,
+                        317,
+                        477,
+                        315,
+                        477,
+                        327,
+                        434,
+                        329
+                    ],
+                    "confidence": 0.967,
+                    "span": {
+                        "offset": 139,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Tofu",
+                    "polygon": [
+                        398,
+                        331,
+                        429,
+                        331,
+                        430,
+                        343,
+                        398,
+                        343
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 145,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "$0.00",
+                    "polygon": [
+                        434,
+                        331,
+                        478,
+                        329,
+                        478,
+                        341,
+                        435,
+                        343
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 150,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Egg",
+                    "polygon": [
+                        402,
+                        346,
+                        430,
+                        345,
+                        431,
+                        358,
+                        403,
+                        358
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 156,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$1.30",
+                    "polygon": [
+                        436,
+                        345,
+                        479,
+                        343,
+                        480,
+                        356,
+                        436,
+                        357
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 160,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Corn",
+                    "polygon": [
+                        398,
+                        360,
+                        431,
+                        359,
+                        432,
+                        371,
+                        398,
+                        372
+                    ],
+                    "confidence": 0.935,
+                    "span": {
+                        "offset": 166,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "$0.50",
+                    "polygon": [
+                        437,
+                        359,
+                        481,
+                        357,
+                        481,
+                        369,
+                        438,
+                        371
+                    ],
+                    "confidence": 0.981,
+                    "span": {
+                        "offset": 171,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Bamboo",
+                    "polygon": [
+                        317,
+                        375,
+                        378,
+                        374,
+                        378,
+                        387,
+                        317,
+                        388
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 177,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "shoots",
+                    "polygon": [
+                        382,
+                        374,
+                        432,
+                        373,
+                        433,
+                        385,
+                        383,
+                        386
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 184,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "$1.00",
+                    "polygon": [
+                        438,
+                        373,
+                        482,
+                        371,
+                        482,
+                        384,
+                        439,
+                        385
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 191,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Naruto",
+                    "polygon": [
+                        384,
+                        388,
+                        434,
+                        387,
+                        435,
+                        400,
+                        384,
+                        401
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 197,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "$0.75",
+                    "polygon": [
+                        440,
+                        387,
+                        483,
+                        386,
+                        483,
+                        399,
+                        440,
+                        400
+                    ],
+                    "confidence": 0.976,
+                    "span": {
+                        "offset": 204,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Spicy",
+                    "polygon": [
+                        393,
+                        403,
+                        435,
+                        402,
+                        436,
+                        416,
+                        393,
+                        417
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 210,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$0.00",
+                    "polygon": [
+                        441,
+                        402,
+                        486,
+                        401,
+                        486,
+                        414,
+                        442,
+                        416
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 216,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        143,
+                        452,
+                        209,
+                        451,
+                        209,
+                        464,
+                        143,
+                        465
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 222,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$13.05",
+                    "polygon": [
+                        434,
+                        447,
+                        490,
+                        446,
+                        490,
+                        459,
+                        435,
+                        460
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 231,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        143,
+                        468,
+                        170,
+                        468,
+                        170,
+                        479,
+                        143,
+                        480
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 238,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$1.01",
+                    "polygon": [
+                        446,
+                        463,
+                        491,
+                        462,
+                        491,
+                        475,
+                        446,
+                        476
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 242,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        141,
+                        499,
+                        180,
+                        498,
+                        180,
+                        511,
+                        141,
+                        511
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 248,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$14.06",
+                    "polygon": [
+                        439,
+                        494,
+                        496,
+                        493,
+                        496,
+                        507,
+                        439,
+                        508
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 254,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Order",
+                    "polygon": [
+                        139,
+                        530,
+                        182,
+                        530,
+                        182,
+                        542,
+                        139,
+                        543
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 261,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "4AW465DENMVRT",
+                    "polygon": [
+                        187,
+                        530,
+                        332,
+                        528,
+                        332,
+                        540,
+                        187,
+                        542
+                    ],
+                    "confidence": 0.579,
+                    "span": {
+                        "offset": 267,
+                        "length": 13
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "KAZ RAMEN",
+                    "polygon": [
+                        254,
+                        179,
+                        359,
+                        175,
+                        359,
+                        188,
+                        254,
+                        191
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "22413 BARTON ROAD",
+                    "polygon": [
+                        233,
+                        194,
+                        381,
+                        188,
+                        381,
+                        200,
+                        234,
+                        206
+                    ],
+                    "spans": [
+                        {
+                            "offset": 10,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "GRAND TERRACE, CA 92313",
+                    "polygon": [
+                        211,
+                        207,
+                        405,
+                        199,
+                        405,
+                        211,
+                        212,
+                        218
+                    ],
+                    "spans": [
+                        {
+                            "offset": 28,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "9094229532",
+                    "polygon": [
+                        264,
+                        218,
+                        351,
+                        214,
+                        351,
+                        225,
+                        265,
+                        229
+                    ],
+                    "spans": [
+                        {
+                            "offset": 52,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "ORDER: T4G1",
+                    "polygon": [
+                        237,
+                        244,
+                        379,
+                        238,
+                        379,
+                        254,
+                        237,
+                        260
+                    ],
+                    "spans": [
+                        {
+                            "offset": 63,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "DINE IN",
+                    "polygon": [
+                        269,
+                        263,
+                        351,
+                        260,
+                        352,
+                        276,
+                        269,
+                        279
+                    ],
+                    "spans": [
+                        {
+                            "offset": 75,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Cashier: Mickey",
+                    "polygon": [
+                        151,
+                        284,
+                        261,
+                        283,
+                        262,
+                        295,
+                        151,
+                        295
+                    ],
+                    "spans": [
+                        {
+                            "offset": 83,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "04-Nov-2018 9:07:13P",
+                    "polygon": [
+                        150,
+                        298,
+                        311,
+                        294,
+                        311,
+                        306,
+                        151,
+                        309
+                    ],
+                    "spans": [
+                        {
+                            "offset": 99,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "Guest 1",
+                    "polygon": [
+                        150,
+                        311,
+                        204,
+                        311,
+                        204,
+                        321,
+                        150,
+                        322
+                    ],
+                    "spans": [
+                        {
+                            "offset": 120,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        150,
+                        325,
+                        157,
+                        325,
+                        157,
+                        335,
+                        150,
+                        335
+                    ],
+                    "spans": [
+                        {
+                            "offset": 128,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Tonkotsu",
+                    "polygon": [
+                        179,
+                        324,
+                        244,
+                        324,
+                        245,
+                        335,
+                        179,
+                        335
+                    ],
+                    "spans": [
+                        {
+                            "offset": 130,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$9.50",
+                    "polygon": [
+                        433,
+                        317,
+                        476,
+                        315,
+                        476,
+                        327,
+                        433,
+                        329
+                    ],
+                    "spans": [
+                        {
+                            "offset": 139,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Tofu $0.00",
+                    "polygon": [
+                        398,
+                        331,
+                        477,
+                        329,
+                        478,
+                        341,
+                        398,
+                        343
+                    ],
+                    "spans": [
+                        {
+                            "offset": 145,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Egg $1.30",
+                    "polygon": [
+                        402,
+                        346,
+                        479,
+                        343,
+                        479,
+                        356,
+                        402,
+                        359
+                    ],
+                    "spans": [
+                        {
+                            "offset": 156,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Corn $0.50",
+                    "polygon": [
+                        398,
+                        360,
+                        480,
+                        357,
+                        481,
+                        370,
+                        398,
+                        372
+                    ],
+                    "spans": [
+                        {
+                            "offset": 166,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Bamboo shoots $1.00",
+                    "polygon": [
+                        317,
+                        375,
+                        481,
+                        371,
+                        482,
+                        384,
+                        317,
+                        388
+                    ],
+                    "spans": [
+                        {
+                            "offset": 177,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "Naruto $0.75",
+                    "polygon": [
+                        384,
+                        388,
+                        482,
+                        386,
+                        483,
+                        399,
+                        384,
+                        401
+                    ],
+                    "spans": [
+                        {
+                            "offset": 197,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Spicy $0.00",
+                    "polygon": [
+                        393,
+                        403,
+                        485,
+                        400,
+                        485,
+                        414,
+                        393,
+                        417
+                    ],
+                    "spans": [
+                        {
+                            "offset": 210,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        143,
+                        452,
+                        208,
+                        451,
+                        208,
+                        464,
+                        143,
+                        464
+                    ],
+                    "spans": [
+                        {
+                            "offset": 222,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$13.05",
+                    "polygon": [
+                        434,
+                        447,
+                        490,
+                        446,
+                        490,
+                        459,
+                        435,
+                        460
+                    ],
+                    "spans": [
+                        {
+                            "offset": 231,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        143,
+                        468,
+                        169,
+                        468,
+                        169,
+                        479,
+                        143,
+                        479
+                    ],
+                    "spans": [
+                        {
+                            "offset": 238,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "$1.01",
+                    "polygon": [
+                        446,
+                        463,
+                        490,
+                        462,
+                        491,
+                        475,
+                        446,
+                        475
+                    ],
+                    "spans": [
+                        {
+                            "offset": 242,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        141,
+                        499,
+                        180,
+                        498,
+                        180,
+                        510,
+                        141,
+                        511
+                    ],
+                    "spans": [
+                        {
+                            "offset": 248,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "$14.06",
+                    "polygon": [
+                        439,
+                        494,
+                        495,
+                        493,
+                        495,
+                        507,
+                        439,
+                        508
+                    ],
+                    "spans": [
+                        {
+                            "offset": 254,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Order 4AW465DENMVRT",
+                    "polygon": [
+                        139,
+                        530,
+                        331,
+                        528,
+                        331,
+                        540,
+                        139,
+                        542
+                    ],
+                    "spans": [
+                        {
+                            "offset": 261,
+                            "length": 19
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 280
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Tonkotsu",
+                                    "content": "Tonkotsu",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                179,
+                                                324,
+                                                245,
+                                                324,
+                                                245,
+                                                335,
+                                                179,
+                                                335
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.977,
+                                    "spans": [
+                                        {
+                                            "offset": 130,
+                                            "length": 8
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 7,
+                                    "content": "7",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                150,
+                                                325,
+                                                157,
+                                                325,
+                                                157,
+                                                335,
+                                                150,
+                                                335
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.982,
+                                    "spans": [
+                                        {
+                                            "offset": 128,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 9.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$9.50",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                433,
+                                                317,
+                                                477,
+                                                315,
+                                                477,
+                                                327,
+                                                434,
+                                                329
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 139,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "7\nTonkotsu\n$9.50\nTofu $0.00\nEgg $1.30\nCorn $0.50\nBamboo shoots $1.00\nNaruto $0.75\nSpicy $0.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        150,
+                                        323,
+                                        484,
+                                        315,
+                                        486,
+                                        415,
+                                        152,
+                                        423
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.989,
+                            "spans": [
+                                {
+                                    "offset": 128,
+                                    "length": 93
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "22413 BARTON ROAD\nGRAND TERRACE, CA 92313",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                211,
+                                194,
+                                405,
+                                187,
+                                406,
+                                211,
+                                211,
+                                219
+                            ]
+                        }
+                    ],
+                    "confidence": 0.985,
+                    "spans": [
+                        {
+                            "offset": 10,
+                            "length": 41
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "22413",
+                        "road": "BARTON ROAD",
+                        "postalCode": "92313",
+                        "city": "GRAND TERRACE",
+                        "state": "CA",
+                        "streetAddress": "22413 BARTON ROAD"
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "KAZ RAMEN",
+                    "content": "KAZ RAMEN",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                254,
+                                178,
+                                360,
+                                175,
+                                360,
+                                188,
+                                254,
+                                191
+                            ]
+                        }
+                    ],
+                    "confidence": 0.976,
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 9
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+19094229532",
+                    "content": "9094229532",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                264,
+                                218,
+                                351,
+                                214,
+                                352,
+                                225,
+                                265,
+                                229
+                            ]
+                        }
+                    ],
+                    "confidence": 0.988,
+                    "spans": [
+                        {
+                            "offset": 52,
+                            "length": 10
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.982
+                },
+                "Subtotal": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 13.05,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$13.05",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                434,
+                                447,
+                                490,
+                                446,
+                                490,
+                                459,
+                                435,
+                                460
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 231,
+                            "length": 6
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 14.06,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$14.06",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                439,
+                                494,
+                                496,
+                                493,
+                                496,
+                                507,
+                                439,
+                                508
+                            ]
+                        }
+                    ],
+                    "confidence": 0.982,
+                    "spans": [
+                        {
+                            "offset": 254,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 1.01,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$1.01",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                446,
+                                463,
+                                491,
+                                462,
+                                491,
+                                475,
+                                446,
+                                476
+                            ]
+                        }
+                    ],
+                    "confidence": 0.995,
+                    "spans": [
+                        {
+                            "offset": 242,
+                            "length": 5
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2018-11-04",
+                    "content": "04-Nov-2018",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                150,
+                                298,
+                                244,
+                                296,
+                                245,
+                                308,
+                                151,
+                                309
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 99,
+                            "length": 11
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "21:07:13",
+                    "content": "9:07:13P",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                249,
+                                296,
+                                311,
+                                294,
+                                311,
+                                306,
+                                249,
+                                308
+                            ]
+                        }
+                    ],
+                    "confidence": 0.989,
+                    "spans": [
+                        {
+                            "offset": 111,
+                            "length": 8
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.981,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 280
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

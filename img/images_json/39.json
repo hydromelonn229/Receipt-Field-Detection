@@ -1,0 +1,3100 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "CHRIS'S HAMBURGERS\n7701 ATLANTIC AVE.\nCUDAHY CA. 90201\nPh(323)562-4125\nDATE 07/22/2018 SUN\nTAXABLE T1\n$21.49-\nTAXABLE T1\n$0.50-\nTAXABLE T1\n$0.50\nTAXABLE T1\n$0.50\nTAXABLE T1\n$0.50\nTAXABLE T1\n$7.89-\nTAXABLE T1\n$3.09\nTAXABLE TI\n$5.49-\nTAXABLE T1\n$5.49-\nTAXABLE T1\n$0.99 ~\nTAXABLE T1\n$0.99\nTAX1\n$4.39 -\nTOTAL\n$51.82\nCASH\n$51.82\nCLERK 01\nNo.00154\nTIME 19:24\n00",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.9763000011444092,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "CHRIS'S",
+                    "polygon": [
+                        151,
+                        50,
+                        235,
+                        50,
+                        235,
+                        70,
+                        151,
+                        70
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 0,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "HAMBURGERS",
+                    "polygon": [
+                        261,
+                        50,
+                        377,
+                        50,
+                        377,
+                        70,
+                        261,
+                        70
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 8,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "7701",
+                    "polygon": [
+                        151,
+                        72,
+                        197,
+                        72,
+                        197,
+                        91,
+                        152,
+                        91
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 19,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "ATLANTIC",
+                    "polygon": [
+                        212,
+                        72,
+                        305,
+                        72,
+                        306,
+                        91,
+                        213,
+                        91
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 24,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "AVE.",
+                    "polygon": [
+                        318,
+                        72,
+                        363,
+                        72,
+                        363,
+                        90,
+                        319,
+                        91
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 33,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "CUDAHY",
+                    "polygon": [
+                        177,
+                        93,
+                        248,
+                        93,
+                        248,
+                        113,
+                        177,
+                        113
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 38,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "CA.",
+                    "polygon": [
+                        262,
+                        93,
+                        292,
+                        93,
+                        292,
+                        113,
+                        262,
+                        113
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 45,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "90201",
+                    "polygon": [
+                        308,
+                        93,
+                        366,
+                        93,
+                        366,
+                        113,
+                        309,
+                        113
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 49,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Ph(323)562-4125",
+                    "polygon": [
+                        164,
+                        115,
+                        344,
+                        115,
+                        344,
+                        134,
+                        164,
+                        134
+                    ],
+                    "confidence": 0.947,
+                    "span": {
+                        "offset": 55,
+                        "length": 15
+                    }
+                },
+                {
+                    "content": "DATE",
+                    "polygon": [
+                        142,
+                        225,
+                        191,
+                        225,
+                        191,
+                        246,
+                        142,
+                        246
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 71,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "07/22/2018",
+                    "polygon": [
+                        217,
+                        225,
+                        333,
+                        225,
+                        333,
+                        246,
+                        217,
+                        246
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 76,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "SUN",
+                    "polygon": [
+                        356,
+                        225,
+                        393,
+                        225,
+                        393,
+                        246,
+                        356,
+                        246
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 87,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        144,
+                        270,
+                        229,
+                        269,
+                        229,
+                        289,
+                        144,
+                        289
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 91,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        242,
+                        269,
+                        265,
+                        269,
+                        265,
+                        289,
+                        242,
+                        289
+                    ],
+                    "confidence": 0.935,
+                    "span": {
+                        "offset": 99,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$21.49-",
+                    "polygon": [
+                        322,
+                        269,
+                        398,
+                        269,
+                        398,
+                        286,
+                        322,
+                        287
+                    ],
+                    "confidence": 0.809,
+                    "span": {
+                        "offset": 102,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        146,
+                        292,
+                        231,
+                        291,
+                        231,
+                        310,
+                        147,
+                        311
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 110,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        244,
+                        291,
+                        266,
+                        291,
+                        266,
+                        310,
+                        245,
+                        310
+                    ],
+                    "confidence": 0.952,
+                    "span": {
+                        "offset": 118,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$0.50-",
+                    "polygon": [
+                        336,
+                        290,
+                        413,
+                        289,
+                        414,
+                        307,
+                        336,
+                        309
+                    ],
+                    "confidence": 0.873,
+                    "span": {
+                        "offset": 121,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        147,
+                        314,
+                        231,
+                        313,
+                        231,
+                        333,
+                        148,
+                        334
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 128,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        245,
+                        313,
+                        267,
+                        313,
+                        267,
+                        332,
+                        245,
+                        333
+                    ],
+                    "confidence": 0.907,
+                    "span": {
+                        "offset": 136,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$0.50",
+                    "polygon": [
+                        336,
+                        312,
+                        395,
+                        311,
+                        395,
+                        330,
+                        336,
+                        331
+                    ],
+                    "confidence": 0.962,
+                    "span": {
+                        "offset": 139,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        148,
+                        336,
+                        232,
+                        335,
+                        232,
+                        354,
+                        149,
+                        355
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 145,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        246,
+                        334,
+                        267,
+                        334,
+                        268,
+                        353,
+                        246,
+                        353
+                    ],
+                    "confidence": 0.979,
+                    "span": {
+                        "offset": 153,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$0.50",
+                    "polygon": [
+                        337,
+                        333,
+                        409,
+                        332,
+                        409,
+                        351,
+                        337,
+                        352
+                    ],
+                    "confidence": 0.967,
+                    "span": {
+                        "offset": 156,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        148,
+                        359,
+                        232,
+                        357,
+                        232,
+                        375,
+                        149,
+                        377
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 162,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        245,
+                        356,
+                        268,
+                        356,
+                        268,
+                        374,
+                        246,
+                        375
+                    ],
+                    "confidence": 0.938,
+                    "span": {
+                        "offset": 170,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$0.50",
+                    "polygon": [
+                        337,
+                        354,
+                        397,
+                        354,
+                        397,
+                        372,
+                        337,
+                        373
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 173,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        150,
+                        380,
+                        233,
+                        377,
+                        233,
+                        397,
+                        151,
+                        399
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 179,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        245,
+                        377,
+                        268,
+                        376,
+                        268,
+                        396,
+                        246,
+                        396
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 187,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$7.89-",
+                    "polygon": [
+                        337,
+                        375,
+                        416,
+                        375,
+                        416,
+                        392,
+                        337,
+                        393
+                    ],
+                    "confidence": 0.948,
+                    "span": {
+                        "offset": 190,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        149,
+                        402,
+                        233,
+                        399,
+                        233,
+                        418,
+                        150,
+                        422
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 197,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        246,
+                        398,
+                        268,
+                        398,
+                        269,
+                        417,
+                        246,
+                        418
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 205,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$3.09",
+                    "polygon": [
+                        337,
+                        397,
+                        410,
+                        396,
+                        410,
+                        414,
+                        337,
+                        415
+                    ],
+                    "confidence": 0.64,
+                    "span": {
+                        "offset": 208,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        150,
+                        424,
+                        234,
+                        421,
+                        235,
+                        440,
+                        151,
+                        443
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 214,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "TI",
+                    "polygon": [
+                        247,
+                        420,
+                        270,
+                        419,
+                        271,
+                        438,
+                        248,
+                        439
+                    ],
+                    "confidence": 0.679,
+                    "span": {
+                        "offset": 222,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$5.49-",
+                    "polygon": [
+                        339,
+                        418,
+                        418,
+                        418,
+                        419,
+                        435,
+                        339,
+                        436
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 225,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        150,
+                        447,
+                        233,
+                        443,
+                        234,
+                        462,
+                        151,
+                        466
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 232,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        247,
+                        442,
+                        270,
+                        441,
+                        270,
+                        460,
+                        247,
+                        461
+                    ],
+                    "confidence": 0.959,
+                    "span": {
+                        "offset": 240,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$5.49-",
+                    "polygon": [
+                        339,
+                        440,
+                        424,
+                        439,
+                        424,
+                        457,
+                        339,
+                        458
+                    ],
+                    "confidence": 0.832,
+                    "span": {
+                        "offset": 243,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        151,
+                        468,
+                        234,
+                        464,
+                        235,
+                        483,
+                        152,
+                        487
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 250,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        247,
+                        463,
+                        271,
+                        462,
+                        271,
+                        481,
+                        248,
+                        482
+                    ],
+                    "confidence": 0.959,
+                    "span": {
+                        "offset": 258,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$0.99",
+                    "polygon": [
+                        340,
+                        461,
+                        396,
+                        460,
+                        396,
+                        478,
+                        341,
+                        479
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 261,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "~",
+                    "polygon": [
+                        405,
+                        461,
+                        423,
+                        460,
+                        423,
+                        477,
+                        405,
+                        478
+                    ],
+                    "confidence": 0.252,
+                    "span": {
+                        "offset": 267,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "TAXABLE",
+                    "polygon": [
+                        151,
+                        491,
+                        234,
+                        486,
+                        235,
+                        505,
+                        152,
+                        511
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 269,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "T1",
+                    "polygon": [
+                        247,
+                        485,
+                        271,
+                        484,
+                        271,
+                        503,
+                        249,
+                        504
+                    ],
+                    "confidence": 0.931,
+                    "span": {
+                        "offset": 277,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "$0.99",
+                    "polygon": [
+                        340,
+                        482,
+                        400,
+                        481,
+                        400,
+                        499,
+                        340,
+                        500
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 280,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TAX1",
+                    "polygon": [
+                        152,
+                        513,
+                        200,
+                        510,
+                        201,
+                        528,
+                        154,
+                        531
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 286,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "$4.39",
+                    "polygon": [
+                        341,
+                        503,
+                        397,
+                        503,
+                        397,
+                        520,
+                        341,
+                        521
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 291,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        404,
+                        503,
+                        421,
+                        503,
+                        421,
+                        519,
+                        404,
+                        519
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 297,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "TOTAL",
+                    "polygon": [
+                        153,
+                        534,
+                        213,
+                        531,
+                        214,
+                        549,
+                        154,
+                        552
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 299,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$51.82",
+                    "polygon": [
+                        329,
+                        525,
+                        399,
+                        523,
+                        399,
+                        542,
+                        329,
+                        544
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 305,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "CASH",
+                    "polygon": [
+                        153,
+                        555,
+                        204,
+                        553,
+                        204,
+                        571,
+                        154,
+                        573
+                    ],
+                    "confidence": 0.985,
+                    "span": {
+                        "offset": 312,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "$51.82",
+                    "polygon": [
+                        330,
+                        547,
+                        400,
+                        544,
+                        400,
+                        563,
+                        331,
+                        566
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 317,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "CLERK",
+                    "polygon": [
+                        153,
+                        578,
+                        212,
+                        574,
+                        214,
+                        594,
+                        155,
+                        598
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 324,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "01",
+                    "polygon": [
+                        225,
+                        573,
+                        249,
+                        572,
+                        250,
+                        592,
+                        227,
+                        593
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 330,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "No.00154",
+                    "polygon": [
+                        306,
+                        570,
+                        401,
+                        566,
+                        401,
+                        586,
+                        307,
+                        590
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 333,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "TIME",
+                    "polygon": [
+                        155,
+                        601,
+                        203,
+                        597,
+                        204,
+                        618,
+                        156,
+                        621
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 342,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "19:24",
+                    "polygon": [
+                        216,
+                        596,
+                        275,
+                        592,
+                        276,
+                        613,
+                        217,
+                        617
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 347,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "00",
+                    "polygon": [
+                        378,
+                        589,
+                        401,
+                        588,
+                        401,
+                        607,
+                        379,
+                        607
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 353,
+                        "length": 2
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "CHRIS'S HAMBURGERS",
+                    "polygon": [
+                        151,
+                        50,
+                        377,
+                        50,
+                        377,
+                        70,
+                        151,
+                        70
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "7701 ATLANTIC AVE.",
+                    "polygon": [
+                        151,
+                        72,
+                        362,
+                        72,
+                        362,
+                        91,
+                        152,
+                        91
+                    ],
+                    "spans": [
+                        {
+                            "offset": 19,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "CUDAHY CA. 90201",
+                    "polygon": [
+                        177,
+                        93,
+                        366,
+                        93,
+                        366,
+                        112,
+                        177,
+                        113
+                    ],
+                    "spans": [
+                        {
+                            "offset": 38,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Ph(323)562-4125",
+                    "polygon": [
+                        164,
+                        115,
+                        344,
+                        115,
+                        344,
+                        134,
+                        164,
+                        134
+                    ],
+                    "spans": [
+                        {
+                            "offset": 55,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE 07/22/2018 SUN",
+                    "polygon": [
+                        142,
+                        225,
+                        393,
+                        225,
+                        393,
+                        246,
+                        142,
+                        246
+                    ],
+                    "spans": [
+                        {
+                            "offset": 71,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        144,
+                        270,
+                        264,
+                        269,
+                        264,
+                        288,
+                        144,
+                        289
+                    ],
+                    "spans": [
+                        {
+                            "offset": 91,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$21.49-",
+                    "polygon": [
+                        322,
+                        269,
+                        397,
+                        268,
+                        398,
+                        286,
+                        322,
+                        287
+                    ],
+                    "spans": [
+                        {
+                            "offset": 102,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        146,
+                        292,
+                        266,
+                        291,
+                        266,
+                        310,
+                        146,
+                        311
+                    ],
+                    "spans": [
+                        {
+                            "offset": 110,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$0.50-",
+                    "polygon": [
+                        336,
+                        290,
+                        413,
+                        289,
+                        413,
+                        307,
+                        336,
+                        309
+                    ],
+                    "spans": [
+                        {
+                            "offset": 121,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        147,
+                        314,
+                        266,
+                        312,
+                        267,
+                        332,
+                        147,
+                        334
+                    ],
+                    "spans": [
+                        {
+                            "offset": 128,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$0.50",
+                    "polygon": [
+                        336,
+                        312,
+                        394,
+                        311,
+                        394,
+                        330,
+                        336,
+                        331
+                    ],
+                    "spans": [
+                        {
+                            "offset": 139,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        148,
+                        336,
+                        267,
+                        334,
+                        267,
+                        353,
+                        149,
+                        355
+                    ],
+                    "spans": [
+                        {
+                            "offset": 145,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$0.50",
+                    "polygon": [
+                        337,
+                        333,
+                        408,
+                        332,
+                        409,
+                        351,
+                        337,
+                        352
+                    ],
+                    "spans": [
+                        {
+                            "offset": 156,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        148,
+                        359,
+                        267,
+                        356,
+                        267,
+                        374,
+                        149,
+                        377
+                    ],
+                    "spans": [
+                        {
+                            "offset": 162,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$0.50",
+                    "polygon": [
+                        337,
+                        354,
+                        396,
+                        354,
+                        396,
+                        372,
+                        337,
+                        372
+                    ],
+                    "spans": [
+                        {
+                            "offset": 173,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        150,
+                        380,
+                        267,
+                        376,
+                        268,
+                        396,
+                        150,
+                        399
+                    ],
+                    "spans": [
+                        {
+                            "offset": 179,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$7.89-",
+                    "polygon": [
+                        337,
+                        375,
+                        416,
+                        374,
+                        416,
+                        392,
+                        337,
+                        393
+                    ],
+                    "spans": [
+                        {
+                            "offset": 190,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        149,
+                        402,
+                        268,
+                        398,
+                        269,
+                        417,
+                        150,
+                        421
+                    ],
+                    "spans": [
+                        {
+                            "offset": 197,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$3.09",
+                    "polygon": [
+                        337,
+                        397,
+                        410,
+                        395,
+                        410,
+                        414,
+                        337,
+                        415
+                    ],
+                    "spans": [
+                        {
+                            "offset": 208,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE TI",
+                    "polygon": [
+                        150,
+                        424,
+                        269,
+                        419,
+                        270,
+                        438,
+                        151,
+                        443
+                    ],
+                    "spans": [
+                        {
+                            "offset": 214,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$5.49-",
+                    "polygon": [
+                        339,
+                        418,
+                        418,
+                        417,
+                        418,
+                        436,
+                        339,
+                        436
+                    ],
+                    "spans": [
+                        {
+                            "offset": 225,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        150,
+                        447,
+                        268,
+                        440,
+                        269,
+                        460,
+                        151,
+                        466
+                    ],
+                    "spans": [
+                        {
+                            "offset": 232,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$5.49-",
+                    "polygon": [
+                        339,
+                        440,
+                        424,
+                        439,
+                        424,
+                        457,
+                        339,
+                        458
+                    ],
+                    "spans": [
+                        {
+                            "offset": 243,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        151,
+                        468,
+                        269,
+                        462,
+                        271,
+                        481,
+                        152,
+                        487
+                    ],
+                    "spans": [
+                        {
+                            "offset": 250,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$0.99 ~",
+                    "polygon": [
+                        340,
+                        461,
+                        423,
+                        460,
+                        423,
+                        477,
+                        341,
+                        479
+                    ],
+                    "spans": [
+                        {
+                            "offset": 261,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "TAXABLE T1",
+                    "polygon": [
+                        151,
+                        491,
+                        270,
+                        483,
+                        271,
+                        503,
+                        152,
+                        510
+                    ],
+                    "spans": [
+                        {
+                            "offset": 269,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$0.99",
+                    "polygon": [
+                        339,
+                        482,
+                        399,
+                        481,
+                        399,
+                        499,
+                        340,
+                        500
+                    ],
+                    "spans": [
+                        {
+                            "offset": 280,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "TAX1",
+                    "polygon": [
+                        152,
+                        513,
+                        199,
+                        510,
+                        200,
+                        528,
+                        153,
+                        531
+                    ],
+                    "spans": [
+                        {
+                            "offset": 286,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "$4.39 -",
+                    "polygon": [
+                        341,
+                        503,
+                        420,
+                        502,
+                        421,
+                        520,
+                        341,
+                        521
+                    ],
+                    "spans": [
+                        {
+                            "offset": 291,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "TOTAL",
+                    "polygon": [
+                        153,
+                        534,
+                        212,
+                        531,
+                        213,
+                        549,
+                        154,
+                        552
+                    ],
+                    "spans": [
+                        {
+                            "offset": 299,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "$51.82",
+                    "polygon": [
+                        329,
+                        525,
+                        399,
+                        523,
+                        399,
+                        542,
+                        329,
+                        544
+                    ],
+                    "spans": [
+                        {
+                            "offset": 305,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "CASH",
+                    "polygon": [
+                        153,
+                        555,
+                        203,
+                        552,
+                        204,
+                        571,
+                        154,
+                        573
+                    ],
+                    "spans": [
+                        {
+                            "offset": 312,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "$51.82",
+                    "polygon": [
+                        330,
+                        547,
+                        399,
+                        544,
+                        400,
+                        563,
+                        331,
+                        565
+                    ],
+                    "spans": [
+                        {
+                            "offset": 317,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "CLERK 01",
+                    "polygon": [
+                        153,
+                        578,
+                        248,
+                        572,
+                        249,
+                        592,
+                        154,
+                        598
+                    ],
+                    "spans": [
+                        {
+                            "offset": 324,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "No.00154",
+                    "polygon": [
+                        306,
+                        570,
+                        400,
+                        566,
+                        400,
+                        586,
+                        307,
+                        589
+                    ],
+                    "spans": [
+                        {
+                            "offset": 333,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "TIME 19:24",
+                    "polygon": [
+                        155,
+                        600,
+                        274,
+                        592,
+                        276,
+                        613,
+                        156,
+                        621
+                    ],
+                    "spans": [
+                        {
+                            "offset": 342,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "00",
+                    "polygon": [
+                        378,
+                        589,
+                        400,
+                        588,
+                        401,
+                        607,
+                        379,
+                        607
+                    ],
+                    "spans": [
+                        {
+                            "offset": 353,
+                            "length": 2
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 355
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                144,
+                                                269,
+                                                265,
+                                                269,
+                                                265,
+                                                289,
+                                                144,
+                                                289
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 91,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": -21.49,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$21.49-",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                322,
+                                                269,
+                                                398,
+                                                269,
+                                                398,
+                                                286,
+                                                322,
+                                                287
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 102,
+                                            "length": 7
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$21.49-",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        144,
+                                        270,
+                                        398,
+                                        268,
+                                        398,
+                                        288,
+                                        144,
+                                        290
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.983,
+                            "spans": [
+                                {
+                                    "offset": 91,
+                                    "length": 18
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                146,
+                                                291,
+                                                266,
+                                                291,
+                                                266,
+                                                311,
+                                                146,
+                                                311
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 110,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": -0.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$0.50-",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                336,
+                                                290,
+                                                413,
+                                                289,
+                                                414,
+                                                307,
+                                                336,
+                                                309
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 121,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$0.50-",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        146,
+                                        292,
+                                        414,
+                                        289,
+                                        414,
+                                        308,
+                                        146,
+                                        311
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 110,
+                                    "length": 17
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                147,
+                                                314,
+                                                267,
+                                                313,
+                                                267,
+                                                333,
+                                                147,
+                                                334
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 128,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 0.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$0.50",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                336,
+                                                312,
+                                                395,
+                                                311,
+                                                395,
+                                                330,
+                                                336,
+                                                331
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 139,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$0.50",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        147,
+                                        314,
+                                        395,
+                                        310,
+                                        395,
+                                        330,
+                                        147,
+                                        335
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.983,
+                            "spans": [
+                                {
+                                    "offset": 128,
+                                    "length": 16
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                148,
+                                                334,
+                                                268,
+                                                334,
+                                                268,
+                                                355,
+                                                148,
+                                                355
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 145,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 0.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$0.50",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                337,
+                                                333,
+                                                409,
+                                                332,
+                                                409,
+                                                351,
+                                                337,
+                                                352
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 156,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$0.50",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        148,
+                                        335,
+                                        409,
+                                        332,
+                                        409,
+                                        352,
+                                        148,
+                                        355
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.983,
+                            "spans": [
+                                {
+                                    "offset": 145,
+                                    "length": 16
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                148,
+                                                358,
+                                                268,
+                                                355,
+                                                268,
+                                                375,
+                                                148,
+                                                377
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 162,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 0.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$0.50",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                337,
+                                                354,
+                                                397,
+                                                354,
+                                                397,
+                                                372,
+                                                337,
+                                                373
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 173,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$0.50",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        148,
+                                        358,
+                                        397,
+                                        353,
+                                        397,
+                                        372,
+                                        148,
+                                        378
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 162,
+                                    "length": 16
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                150,
+                                                379,
+                                                268,
+                                                376,
+                                                268,
+                                                396,
+                                                150,
+                                                399
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 179,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": -7.89,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$7.89-",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                337,
+                                                375,
+                                                416,
+                                                375,
+                                                416,
+                                                392,
+                                                337,
+                                                393
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 190,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$7.89-",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        150,
+                                        379,
+                                        416,
+                                        373,
+                                        416,
+                                        393,
+                                        150,
+                                        399
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 179,
+                                    "length": 17
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                149,
+                                                400,
+                                                269,
+                                                397,
+                                                269,
+                                                419,
+                                                149,
+                                                422
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 197,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 3.09,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$3.09",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                337,
+                                                397,
+                                                410,
+                                                396,
+                                                410,
+                                                414,
+                                                337,
+                                                415
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 208,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$3.09",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        149,
+                                        400,
+                                        410,
+                                        394,
+                                        410,
+                                        416,
+                                        149,
+                                        422
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.978,
+                            "spans": [
+                                {
+                                    "offset": 197,
+                                    "length": 16
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE TI",
+                                    "content": "TAXABLE TI",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                150,
+                                                423,
+                                                270,
+                                                419,
+                                                271,
+                                                439,
+                                                151,
+                                                443
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.979,
+                                    "spans": [
+                                        {
+                                            "offset": 214,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": -5.49,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$5.49-",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                339,
+                                                418,
+                                                418,
+                                                418,
+                                                419,
+                                                435,
+                                                339,
+                                                436
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 225,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE TI\n$5.49-",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        150,
+                                        423,
+                                        418,
+                                        414,
+                                        419,
+                                        435,
+                                        151,
+                                        445
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.978,
+                            "spans": [
+                                {
+                                    "offset": 214,
+                                    "length": 17
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                150,
+                                                446,
+                                                270,
+                                                441,
+                                                271,
+                                                461,
+                                                151,
+                                                466
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 232,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": -5.49,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$5.49-",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                339,
+                                                440,
+                                                424,
+                                                439,
+                                                424,
+                                                457,
+                                                339,
+                                                458
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 243,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$5.49-",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        150,
+                                        446,
+                                        424,
+                                        434,
+                                        425,
+                                        457,
+                                        151,
+                                        469
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 232,
+                                    "length": 17
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                151,
+                                                467,
+                                                271,
+                                                462,
+                                                272,
+                                                482,
+                                                152,
+                                                487
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 250,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 0.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$0.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                340,
+                                                461,
+                                                396,
+                                                460,
+                                                396,
+                                                478,
+                                                341,
+                                                479
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 261,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$0.99 ~",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        151,
+                                        467,
+                                        423,
+                                        456,
+                                        424,
+                                        477,
+                                        152,
+                                        489
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.954,
+                            "spans": [
+                                {
+                                    "offset": 250,
+                                    "length": 18
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAXABLE T1",
+                                    "content": "TAXABLE T1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                151,
+                                                489,
+                                                271,
+                                                484,
+                                                272,
+                                                506,
+                                                152,
+                                                511
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 269,
+                                            "length": 10
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 0.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$0.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                340,
+                                                482,
+                                                400,
+                                                481,
+                                                400,
+                                                499,
+                                                340,
+                                                500
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 280,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAXABLE T1\n$0.99",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        151,
+                                        489,
+                                        400,
+                                        478,
+                                        401,
+                                        500,
+                                        152,
+                                        511
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.979,
+                            "spans": [
+                                {
+                                    "offset": 269,
+                                    "length": 16
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "7701 ATLANTIC AVE.\nCUDAHY CA. 90201",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                151,
+                                72,
+                                366,
+                                72,
+                                366,
+                                113,
+                                151,
+                                113
+                            ]
+                        }
+                    ],
+                    "confidence": 0.982,
+                    "spans": [
+                        {
+                            "offset": 19,
+                            "length": 35
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "7701",
+                        "road": "ATLANTIC AVE.",
+                        "postalCode": "90201",
+                        "city": "CUDAHY",
+                        "state": "CA.",
+                        "streetAddress": "7701 ATLANTIC AVE."
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "CHRIS'S HAMBURGERS",
+                    "content": "CHRIS'S HAMBURGERS",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                151,
+                                50,
+                                377,
+                                50,
+                                377,
+                                70,
+                                151,
+                                70
+                            ]
+                        }
+                    ],
+                    "confidence": 0.976,
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 18
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+13235624125",
+                    "content": "Ph(323)562-4125",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                164,
+                                115,
+                                344,
+                                115,
+                                344,
+                                134,
+                                164,
+                                134
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 55,
+                            "length": 15
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.957
+                },
+                "TaxDetails": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Amount": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 4.39,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$4.39",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                341,
+                                                503,
+                                                397,
+                                                503,
+                                                397,
+                                                520,
+                                                341,
+                                                521
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.969,
+                                    "spans": [
+                                        {
+                                            "offset": 291,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "$4.39",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        341,
+                                        503,
+                                        397,
+                                        503,
+                                        397,
+                                        520,
+                                        341,
+                                        521
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.591,
+                            "spans": [
+                                {
+                                    "offset": 291,
+                                    "length": 5
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "content": "-",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        404,
+                                        503,
+                                        421,
+                                        503,
+                                        421,
+                                        519,
+                                        404,
+                                        519
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.589,
+                            "spans": [
+                                {
+                                    "offset": 297,
+                                    "length": 1
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAX1",
+                                    "content": "TAX1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                152,
+                                                513,
+                                                200,
+                                                510,
+                                                201,
+                                                528,
+                                                154,
+                                                531
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.969,
+                                    "spans": [
+                                        {
+                                            "offset": 286,
+                                            "length": 4
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "TAX1",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        152,
+                                        513,
+                                        200,
+                                        510,
+                                        201,
+                                        528,
+                                        154,
+                                        531
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.59,
+                            "spans": [
+                                {
+                                    "offset": 286,
+                                    "length": 4
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 51.82,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$51.82",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                329,
+                                525,
+                                399,
+                                523,
+                                399,
+                                542,
+                                329,
+                                544
+                            ]
+                        }
+                    ],
+                    "confidence": 0.983,
+                    "spans": [
+                        {
+                            "offset": 305,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2018-07-22",
+                    "content": "07/22/2018",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                217,
+                                225,
+                                333,
+                                225,
+                                333,
+                                246,
+                                217,
+                                246
+                            ]
+                        }
+                    ],
+                    "confidence": 0.985,
+                    "spans": [
+                        {
+                            "offset": 76,
+                            "length": 10
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "19:24:00",
+                    "content": "19:24",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                216,
+                                596,
+                                275,
+                                592,
+                                276,
+                                613,
+                                217,
+                                617
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 347,
+                            "length": 5
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.957,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 355
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

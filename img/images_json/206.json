@@ -1,0 +1,1718 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "FUEL DEPOT\n1 GOODSPRINGS RD.\nJEAN, NV 89019\n702-761-7000\nDATE\n07/10/2020\nTime\n10:40 AM\nPUMP\n8\nTRAN\u20a6\n171\nDETAILS\nBASE PRICE\n$ 2.97 / GAL\nGALLONS\n33.1820\nTOTAL\n$ 98.55\n$ 98.55 REG FUEL\n$ 4.43 TAX\n$-102.98 VISA DEBIT PAID\n$0.00 BALANCE\nTHANK YOU FOR VISITING\nFUEL DEPOT",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.04149999842047691,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "FUEL",
+                    "polygon": [
+                        223,
+                        5,
+                        302,
+                        5,
+                        302,
+                        27,
+                        223,
+                        27
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 0,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "DEPOT",
+                    "polygon": [
+                        319,
+                        5,
+                        413,
+                        5,
+                        413,
+                        27,
+                        319,
+                        27
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 5,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        160,
+                        29,
+                        179,
+                        29,
+                        179,
+                        51,
+                        160,
+                        51
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 11,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "GOODSPRINGS",
+                    "polygon": [
+                        195,
+                        29,
+                        403,
+                        29,
+                        403,
+                        51,
+                        195,
+                        51
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 13,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "RD.",
+                    "polygon": [
+                        421,
+                        29,
+                        471,
+                        29,
+                        471,
+                        51,
+                        421,
+                        51
+                    ],
+                    "confidence": 0.952,
+                    "span": {
+                        "offset": 25,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "JEAN,",
+                    "polygon": [
+                        189,
+                        52,
+                        275,
+                        52,
+                        275,
+                        73,
+                        189,
+                        73
+                    ],
+                    "confidence": 0.727,
+                    "span": {
+                        "offset": 29,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "NV",
+                    "polygon": [
+                        301,
+                        52,
+                        339,
+                        52,
+                        339,
+                        73,
+                        301,
+                        73
+                    ],
+                    "confidence": 0.962,
+                    "span": {
+                        "offset": 35,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "89019",
+                    "polygon": [
+                        356,
+                        52,
+                        451,
+                        52,
+                        451,
+                        73,
+                        356,
+                        73
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 38,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "702-761-7000",
+                    "polygon": [
+                        207,
+                        75,
+                        434,
+                        75,
+                        434,
+                        96,
+                        207,
+                        97
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 44,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "DATE",
+                    "polygon": [
+                        42,
+                        121,
+                        120,
+                        120,
+                        120,
+                        142,
+                        41,
+                        142
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 57,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "07/10/2020",
+                    "polygon": [
+                        290,
+                        121,
+                        480,
+                        120,
+                        480,
+                        142,
+                        290,
+                        143
+                    ],
+                    "confidence": 0.903,
+                    "span": {
+                        "offset": 62,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Time",
+                    "polygon": [
+                        42,
+                        144,
+                        119,
+                        145,
+                        119,
+                        165,
+                        42,
+                        164
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 73,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "10:40",
+                    "polygon": [
+                        293,
+                        144,
+                        387,
+                        144,
+                        387,
+                        165,
+                        293,
+                        165
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 78,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "AM",
+                    "polygon": [
+                        407,
+                        144,
+                        448,
+                        144,
+                        448,
+                        165,
+                        407,
+                        165
+                    ],
+                    "confidence": 0.98,
+                    "span": {
+                        "offset": 84,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "PUMP",
+                    "polygon": [
+                        42,
+                        167,
+                        119,
+                        166,
+                        119,
+                        187,
+                        41,
+                        187
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 87,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "8",
+                    "polygon": [
+                        290,
+                        168,
+                        314,
+                        167,
+                        314,
+                        187,
+                        290,
+                        187
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 92,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "TRAN\u20a6",
+                    "polygon": [
+                        42,
+                        189,
+                        138,
+                        189,
+                        138,
+                        210,
+                        42,
+                        211
+                    ],
+                    "confidence": 0.565,
+                    "span": {
+                        "offset": 94,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "171",
+                    "polygon": [
+                        293,
+                        190,
+                        349,
+                        190,
+                        349,
+                        211,
+                        293,
+                        211
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 100,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "DETAILS",
+                    "polygon": [
+                        253,
+                        235,
+                        387,
+                        235,
+                        387,
+                        256,
+                        253,
+                        257
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 104,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "BASE",
+                    "polygon": [
+                        41,
+                        258,
+                        118,
+                        258,
+                        118,
+                        280,
+                        41,
+                        280
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 112,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "PRICE",
+                    "polygon": [
+                        141,
+                        258,
+                        237,
+                        257,
+                        237,
+                        280,
+                        141,
+                        280
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 117,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$",
+                    "polygon": [
+                        291,
+                        259,
+                        312,
+                        259,
+                        312,
+                        280,
+                        291,
+                        280
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 123,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "2.97",
+                    "polygon": [
+                        335,
+                        259,
+                        408,
+                        258,
+                        408,
+                        280,
+                        335,
+                        280
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 125,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "/",
+                    "polygon": [
+                        429,
+                        258,
+                        449,
+                        258,
+                        449,
+                        280,
+                        430,
+                        280
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 130,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "GAL",
+                    "polygon": [
+                        474,
+                        258,
+                        532,
+                        258,
+                        532,
+                        281,
+                        474,
+                        280
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 132,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "GALLONS",
+                    "polygon": [
+                        42,
+                        281,
+                        176,
+                        281,
+                        176,
+                        302,
+                        42,
+                        302
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 136,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "33.1820",
+                    "polygon": [
+                        291,
+                        281,
+                        426,
+                        281,
+                        426,
+                        302,
+                        291,
+                        303
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 144,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "TOTAL",
+                    "polygon": [
+                        42,
+                        304,
+                        139,
+                        304,
+                        139,
+                        325,
+                        42,
+                        325
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 152,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$",
+                    "polygon": [
+                        291,
+                        304,
+                        312,
+                        304,
+                        312,
+                        326,
+                        291,
+                        326
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 158,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "98.55",
+                    "polygon": [
+                        335,
+                        304,
+                        430,
+                        304,
+                        430,
+                        326,
+                        335,
+                        326
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 160,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$",
+                    "polygon": [
+                        41,
+                        349,
+                        64,
+                        349,
+                        64,
+                        371,
+                        41,
+                        371
+                    ],
+                    "confidence": 0.976,
+                    "span": {
+                        "offset": 166,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "98.55",
+                    "polygon": [
+                        87,
+                        349,
+                        179,
+                        349,
+                        179,
+                        372,
+                        87,
+                        371
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 168,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "REG",
+                    "polygon": [
+                        202,
+                        349,
+                        259,
+                        349,
+                        259,
+                        372,
+                        202,
+                        372
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 174,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "FUEL",
+                    "polygon": [
+                        282,
+                        349,
+                        357,
+                        349,
+                        357,
+                        372,
+                        282,
+                        372
+                    ],
+                    "confidence": 0.985,
+                    "span": {
+                        "offset": 178,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "$",
+                    "polygon": [
+                        42,
+                        373,
+                        64,
+                        373,
+                        64,
+                        394,
+                        42,
+                        395
+                    ],
+                    "confidence": 0.982,
+                    "span": {
+                        "offset": 183,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "4.43",
+                    "polygon": [
+                        85,
+                        373,
+                        161,
+                        372,
+                        161,
+                        394,
+                        85,
+                        394
+                    ],
+                    "confidence": 0.982,
+                    "span": {
+                        "offset": 185,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "TAX",
+                    "polygon": [
+                        183,
+                        372,
+                        242,
+                        373,
+                        242,
+                        394,
+                        183,
+                        394
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 190,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$-102.98",
+                    "polygon": [
+                        41,
+                        395,
+                        194,
+                        395,
+                        194,
+                        418,
+                        41,
+                        418
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 194,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "VISA",
+                    "polygon": [
+                        218,
+                        395,
+                        291,
+                        395,
+                        291,
+                        418,
+                        218,
+                        418
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 203,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "DEBIT",
+                    "polygon": [
+                        314,
+                        395,
+                        406,
+                        394,
+                        406,
+                        418,
+                        314,
+                        418
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 208,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "PAID",
+                    "polygon": [
+                        432,
+                        394,
+                        507,
+                        394,
+                        507,
+                        418,
+                        431,
+                        418
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 214,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "$0.00",
+                    "polygon": [
+                        41,
+                        440,
+                        138,
+                        440,
+                        138,
+                        464,
+                        41,
+                        464
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 219,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "BALANCE",
+                    "polygon": [
+                        160,
+                        440,
+                        294,
+                        440,
+                        294,
+                        464,
+                        160,
+                        464
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 225,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "THANK",
+                    "polygon": [
+                        111,
+                        509,
+                        208,
+                        509,
+                        208,
+                        532,
+                        111,
+                        532
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 233,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "YOU",
+                    "polygon": [
+                        228,
+                        509,
+                        283,
+                        509,
+                        283,
+                        532,
+                        228,
+                        532
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 239,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "FOR",
+                    "polygon": [
+                        300,
+                        509,
+                        357,
+                        509,
+                        357,
+                        532,
+                        300,
+                        532
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 243,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "VISITING",
+                    "polygon": [
+                        376,
+                        509,
+                        528,
+                        509,
+                        528,
+                        532,
+                        376,
+                        532
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 247,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "FUEL",
+                    "polygon": [
+                        223,
+                        533,
+                        306,
+                        533,
+                        306,
+                        554,
+                        223,
+                        554
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 256,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "DEPOT",
+                    "polygon": [
+                        320,
+                        533,
+                        412,
+                        533,
+                        412,
+                        554,
+                        320,
+                        554
+                    ],
+                    "confidence": 0.986,
+                    "span": {
+                        "offset": 261,
+                        "length": 5
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "FUEL DEPOT",
+                    "polygon": [
+                        223,
+                        5,
+                        412,
+                        5,
+                        412,
+                        27,
+                        223,
+                        27
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "1 GOODSPRINGS RD.",
+                    "polygon": [
+                        160,
+                        29,
+                        471,
+                        29,
+                        471,
+                        51,
+                        160,
+                        51
+                    ],
+                    "spans": [
+                        {
+                            "offset": 11,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "JEAN, NV 89019",
+                    "polygon": [
+                        189,
+                        52,
+                        451,
+                        52,
+                        451,
+                        73,
+                        189,
+                        73
+                    ],
+                    "spans": [
+                        {
+                            "offset": 29,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "702-761-7000",
+                    "polygon": [
+                        207,
+                        75,
+                        433,
+                        75,
+                        433,
+                        97,
+                        207,
+                        97
+                    ],
+                    "spans": [
+                        {
+                            "offset": 44,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE",
+                    "polygon": [
+                        41,
+                        120,
+                        119,
+                        120,
+                        119,
+                        142,
+                        41,
+                        142
+                    ],
+                    "spans": [
+                        {
+                            "offset": 57,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "07/10/2020",
+                    "polygon": [
+                        290,
+                        121,
+                        480,
+                        120,
+                        480,
+                        142,
+                        290,
+                        142
+                    ],
+                    "spans": [
+                        {
+                            "offset": 62,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Time",
+                    "polygon": [
+                        42,
+                        144,
+                        119,
+                        145,
+                        119,
+                        165,
+                        42,
+                        164
+                    ],
+                    "spans": [
+                        {
+                            "offset": 73,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "10:40 AM",
+                    "polygon": [
+                        293,
+                        144,
+                        447,
+                        144,
+                        447,
+                        165,
+                        293,
+                        165
+                    ],
+                    "spans": [
+                        {
+                            "offset": 78,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "PUMP",
+                    "polygon": [
+                        41,
+                        167,
+                        118,
+                        166,
+                        118,
+                        186,
+                        42,
+                        187
+                    ],
+                    "spans": [
+                        {
+                            "offset": 87,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "8",
+                    "polygon": [
+                        290,
+                        168,
+                        313,
+                        167,
+                        313,
+                        187,
+                        290,
+                        187
+                    ],
+                    "spans": [
+                        {
+                            "offset": 92,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "TRAN\u20a6",
+                    "polygon": [
+                        42,
+                        189,
+                        138,
+                        189,
+                        138,
+                        210,
+                        42,
+                        210
+                    ],
+                    "spans": [
+                        {
+                            "offset": 94,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "171",
+                    "polygon": [
+                        293,
+                        190,
+                        348,
+                        190,
+                        348,
+                        211,
+                        293,
+                        211
+                    ],
+                    "spans": [
+                        {
+                            "offset": 100,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "DETAILS",
+                    "polygon": [
+                        253,
+                        235,
+                        386,
+                        235,
+                        386,
+                        256,
+                        253,
+                        256
+                    ],
+                    "spans": [
+                        {
+                            "offset": 104,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "BASE PRICE",
+                    "polygon": [
+                        41,
+                        257,
+                        237,
+                        257,
+                        237,
+                        280,
+                        41,
+                        280
+                    ],
+                    "spans": [
+                        {
+                            "offset": 112,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$ 2.97 / GAL",
+                    "polygon": [
+                        291,
+                        258,
+                        531,
+                        258,
+                        531,
+                        280,
+                        291,
+                        281
+                    ],
+                    "spans": [
+                        {
+                            "offset": 123,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "GALLONS",
+                    "polygon": [
+                        42,
+                        281,
+                        176,
+                        281,
+                        176,
+                        302,
+                        42,
+                        302
+                    ],
+                    "spans": [
+                        {
+                            "offset": 136,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "33.1820",
+                    "polygon": [
+                        291,
+                        281,
+                        425,
+                        281,
+                        425,
+                        302,
+                        291,
+                        302
+                    ],
+                    "spans": [
+                        {
+                            "offset": 144,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "TOTAL",
+                    "polygon": [
+                        42,
+                        304,
+                        139,
+                        304,
+                        138,
+                        325,
+                        42,
+                        325
+                    ],
+                    "spans": [
+                        {
+                            "offset": 152,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "$ 98.55",
+                    "polygon": [
+                        291,
+                        304,
+                        429,
+                        304,
+                        429,
+                        325,
+                        291,
+                        326
+                    ],
+                    "spans": [
+                        {
+                            "offset": 158,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "$ 98.55 REG FUEL",
+                    "polygon": [
+                        41,
+                        349,
+                        356,
+                        349,
+                        356,
+                        371,
+                        41,
+                        371
+                    ],
+                    "spans": [
+                        {
+                            "offset": 166,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "$ 4.43 TAX",
+                    "polygon": [
+                        42,
+                        373,
+                        242,
+                        372,
+                        242,
+                        394,
+                        42,
+                        394
+                    ],
+                    "spans": [
+                        {
+                            "offset": 183,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "$-102.98 VISA DEBIT PAID",
+                    "polygon": [
+                        41,
+                        394,
+                        507,
+                        394,
+                        507,
+                        417,
+                        41,
+                        418
+                    ],
+                    "spans": [
+                        {
+                            "offset": 194,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "$0.00 BALANCE",
+                    "polygon": [
+                        41,
+                        440,
+                        293,
+                        440,
+                        293,
+                        464,
+                        41,
+                        464
+                    ],
+                    "spans": [
+                        {
+                            "offset": 219,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "THANK YOU FOR VISITING",
+                    "polygon": [
+                        111,
+                        509,
+                        527,
+                        509,
+                        527,
+                        532,
+                        111,
+                        532
+                    ],
+                    "spans": [
+                        {
+                            "offset": 233,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "FUEL DEPOT",
+                    "polygon": [
+                        223,
+                        533,
+                        411,
+                        533,
+                        411,
+                        554,
+                        223,
+                        554
+                    ],
+                    "spans": [
+                        {
+                            "offset": 256,
+                            "length": 10
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 266
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.gas",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "1 GOODSPRINGS RD.\nJEAN, NV 89019",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                160,
+                                29,
+                                471,
+                                29,
+                                471,
+                                73,
+                                160,
+                                73
+                            ]
+                        }
+                    ],
+                    "confidence": 0.983,
+                    "spans": [
+                        {
+                            "offset": 11,
+                            "length": 32
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "1",
+                        "road": "GOODSPRINGS RD.",
+                        "postalCode": "89019",
+                        "city": "JEAN",
+                        "state": "NV",
+                        "streetAddress": "1 GOODSPRINGS RD."
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "FUEL DEPOT",
+                    "content": "FUEL DEPOT",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                223,
+                                533,
+                                412,
+                                533,
+                                412,
+                                554,
+                                223,
+                                554
+                            ]
+                        }
+                    ],
+                    "confidence": 0.975,
+                    "spans": [
+                        {
+                            "offset": 256,
+                            "length": 10
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+17027617000",
+                    "content": "702-761-7000",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                207,
+                                75,
+                                434,
+                                75,
+                                434,
+                                96,
+                                207,
+                                97
+                            ]
+                        }
+                    ],
+                    "confidence": 0.989,
+                    "spans": [
+                        {
+                            "offset": 44,
+                            "length": 12
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Fuel&Energy.Gas",
+                    "confidence": 0.973
+                },
+                "TaxDetails": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Amount": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 4.43,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$ 4.43",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                42,
+                                                373,
+                                                161,
+                                                372,
+                                                161,
+                                                394,
+                                                42,
+                                                395
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.795,
+                                    "spans": [
+                                        {
+                                            "offset": 183,
+                                            "length": 6
+                                        }
+                                    ]
+                                },
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TAX",
+                                    "content": "TAX",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                183,
+                                                372,
+                                                242,
+                                                373,
+                                                242,
+                                                394,
+                                                183,
+                                                394
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.967,
+                                    "spans": [
+                                        {
+                                            "offset": 190,
+                                            "length": 3
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "$ 4.43 TAX",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        42,
+                                        373,
+                                        242,
+                                        371,
+                                        242,
+                                        394,
+                                        42,
+                                        395
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.61,
+                            "spans": [
+                                {
+                                    "offset": 183,
+                                    "length": 10
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 98.55,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$ 98.55",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                291,
+                                304,
+                                430,
+                                304,
+                                430,
+                                326,
+                                291,
+                                326
+                            ]
+                        }
+                    ],
+                    "confidence": 0.984,
+                    "spans": [
+                        {
+                            "offset": 158,
+                            "length": 7
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 4.43,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$ 4.43",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                42,
+                                373,
+                                161,
+                                372,
+                                161,
+                                394,
+                                42,
+                                395
+                            ]
+                        }
+                    ],
+                    "confidence": 0.795,
+                    "spans": [
+                        {
+                            "offset": 183,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2020-07-10",
+                    "content": "07/10/2020",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                290,
+                                121,
+                                480,
+                                120,
+                                480,
+                                142,
+                                290,
+                                143
+                            ]
+                        }
+                    ],
+                    "confidence": 0.993,
+                    "spans": [
+                        {
+                            "offset": 62,
+                            "length": 10
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "10:40:00",
+                    "content": "10:40 AM",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                293,
+                                144,
+                                448,
+                                144,
+                                448,
+                                165,
+                                293,
+                                165
+                            ]
+                        }
+                    ],
+                    "confidence": 0.994,
+                    "spans": [
+                        {
+                            "offset": 78,
+                            "length": 8
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.973,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 266
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

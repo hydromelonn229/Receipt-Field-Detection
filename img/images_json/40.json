@@ -1,0 +1,3587 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "RINCON MEXICANO\n99 BROADWAY\nSOMERVILLE, MA 02145\n6179661387\nORDER: 45\nDine In\nCashier: LORENZO REYES\n09-May-2017 7:19:46P\n2\nArroz\n$3.00\n2\nTaco De Pescado\n$7.00\n2\nTaco Tuesday Pollo\n$2.00\n7\nTaco D Carne Asada\n$2.99\n7\nTaco D Chorizo\n$2.99\n7\nTaco Tuesday Pastor\n$1.00\n7\nHorchata\n$2.99\n7\nTaco Tuesday Pollo\n$1.00\n7\nTaco D Cochinita\n$2.99\n7\nTaco D Carnitas\n$2.99\nSubtotal\n$28.95\nTax\n$2.03\nTotal\n$30.98\nOrder ZJTOG7ZX6ANR8",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": 0.14027850329875946,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "RINCON",
+                    "polygon": [
+                        197,
+                        88,
+                        281,
+                        90,
+                        281,
+                        104,
+                        197,
+                        102
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 0,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "MEXICANO",
+                    "polygon": [
+                        288,
+                        90,
+                        402,
+                        92,
+                        402,
+                        106,
+                        288,
+                        104
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 7,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "99",
+                    "polygon": [
+                        240,
+                        105,
+                        260,
+                        105,
+                        260,
+                        116,
+                        240,
+                        116
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 16,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "BROADWAY",
+                    "polygon": [
+                        266,
+                        105,
+                        362,
+                        106,
+                        362,
+                        117,
+                        266,
+                        116
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 19,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "SOMERVILLE,",
+                    "polygon": [
+                        201,
+                        117,
+                        313,
+                        118,
+                        313,
+                        130,
+                        200,
+                        129
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 28,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "MA",
+                    "polygon": [
+                        318,
+                        118,
+                        345,
+                        118,
+                        345,
+                        130,
+                        318,
+                        130
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 40,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "02145",
+                    "polygon": [
+                        350,
+                        118,
+                        401,
+                        118,
+                        401,
+                        130,
+                        350,
+                        130
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 43,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "6179661387",
+                    "polygon": [
+                        249,
+                        131,
+                        354,
+                        131,
+                        354,
+                        143,
+                        249,
+                        143
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 49,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "ORDER:",
+                    "polygon": [
+                        232,
+                        151,
+                        332,
+                        152,
+                        332,
+                        170,
+                        232,
+                        169
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 60,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "45",
+                    "polygon": [
+                        341,
+                        152,
+                        374,
+                        152,
+                        374,
+                        170,
+                        341,
+                        170
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 67,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Dine",
+                    "polygon": [
+                        258,
+                        174,
+                        317,
+                        174,
+                        317,
+                        192,
+                        258,
+                        192
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 70,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "In",
+                    "polygon": [
+                        326,
+                        174,
+                        351,
+                        175,
+                        351,
+                        193,
+                        326,
+                        192
+                    ],
+                    "confidence": 0.957,
+                    "span": {
+                        "offset": 75,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Cashier:",
+                    "polygon": [
+                        102,
+                        192,
+                        176,
+                        193,
+                        175,
+                        206,
+                        101,
+                        205
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 78,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "LORENZO",
+                    "polygon": [
+                        182,
+                        193,
+                        267,
+                        195,
+                        267,
+                        208,
+                        181,
+                        207
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 87,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "REYES",
+                    "polygon": [
+                        273,
+                        195,
+                        332,
+                        196,
+                        331,
+                        209,
+                        273,
+                        208
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 95,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "09-May-2017",
+                    "polygon": [
+                        100,
+                        207,
+                        225,
+                        209,
+                        225,
+                        223,
+                        100,
+                        220
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 101,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "7:19:46P",
+                    "polygon": [
+                        232,
+                        209,
+                        310,
+                        210,
+                        310,
+                        223,
+                        231,
+                        223
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 113,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        96,
+                        238,
+                        109,
+                        238,
+                        109,
+                        251,
+                        96,
+                        250
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 122,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Arroz",
+                    "polygon": [
+                        133,
+                        238,
+                        184,
+                        239,
+                        184,
+                        251,
+                        133,
+                        251
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 124,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$3.00",
+                    "polygon": [
+                        457,
+                        240,
+                        510,
+                        240,
+                        510,
+                        254,
+                        457,
+                        254
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 130,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        95,
+                        254,
+                        107,
+                        254,
+                        107,
+                        266,
+                        95,
+                        266
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 136,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Taco",
+                    "polygon": [
+                        133,
+                        254,
+                        178,
+                        254,
+                        178,
+                        268,
+                        133,
+                        267
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 138,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "De",
+                    "polygon": [
+                        184,
+                        254,
+                        208,
+                        254,
+                        207,
+                        268,
+                        184,
+                        268
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 143,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Pescado",
+                    "polygon": [
+                        214,
+                        254,
+                        293,
+                        255,
+                        293,
+                        269,
+                        214,
+                        268
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 146,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$7.00",
+                    "polygon": [
+                        459,
+                        256,
+                        512,
+                        256,
+                        512,
+                        270,
+                        460,
+                        270
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 154,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        93,
+                        270,
+                        105,
+                        270,
+                        105,
+                        283,
+                        92,
+                        282
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 160,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Taco",
+                    "polygon": [
+                        131,
+                        270,
+                        177,
+                        270,
+                        177,
+                        285,
+                        131,
+                        284
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 162,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Tuesday",
+                    "polygon": [
+                        183,
+                        270,
+                        262,
+                        271,
+                        262,
+                        285,
+                        183,
+                        285
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 167,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Pollo",
+                    "polygon": [
+                        268,
+                        271,
+                        314,
+                        271,
+                        314,
+                        286,
+                        268,
+                        286
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 175,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$2.00",
+                    "polygon": [
+                        462,
+                        272,
+                        514,
+                        272,
+                        515,
+                        286,
+                        462,
+                        286
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 181,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        92,
+                        287,
+                        101,
+                        287,
+                        101,
+                        299,
+                        92,
+                        299
+                    ],
+                    "confidence": 0.903,
+                    "span": {
+                        "offset": 187,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Taco",
+                    "polygon": [
+                        129,
+                        287,
+                        176,
+                        287,
+                        176,
+                        301,
+                        129,
+                        300
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 189,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "D",
+                    "polygon": [
+                        183,
+                        287,
+                        195,
+                        287,
+                        195,
+                        301,
+                        182,
+                        301
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 194,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Carne",
+                    "polygon": [
+                        203,
+                        287,
+                        257,
+                        287,
+                        257,
+                        301,
+                        203,
+                        301
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 196,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Asada",
+                    "polygon": [
+                        263,
+                        287,
+                        322,
+                        288,
+                        322,
+                        301,
+                        263,
+                        301
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 202,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        465,
+                        288,
+                        517,
+                        288,
+                        518,
+                        302,
+                        465,
+                        302
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 208,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        89,
+                        304,
+                        99,
+                        304,
+                        99,
+                        316,
+                        89,
+                        316
+                    ],
+                    "confidence": 0.64,
+                    "span": {
+                        "offset": 214,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Taco",
+                    "polygon": [
+                        128,
+                        303,
+                        175,
+                        303,
+                        175,
+                        317,
+                        128,
+                        317
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 216,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "D",
+                    "polygon": [
+                        181,
+                        303,
+                        195,
+                        303,
+                        195,
+                        318,
+                        181,
+                        318
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 221,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Chorizo",
+                    "polygon": [
+                        202,
+                        303,
+                        275,
+                        304,
+                        275,
+                        318,
+                        202,
+                        318
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 223,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        468,
+                        304,
+                        520,
+                        304,
+                        521,
+                        318,
+                        468,
+                        319
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 231,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        87,
+                        321,
+                        96,
+                        321,
+                        96,
+                        333,
+                        87,
+                        333
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 237,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Taco",
+                    "polygon": [
+                        126,
+                        320,
+                        174,
+                        320,
+                        174,
+                        335,
+                        126,
+                        335
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 239,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Tuesday",
+                    "polygon": [
+                        181,
+                        320,
+                        263,
+                        320,
+                        263,
+                        336,
+                        181,
+                        335
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 244,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Pastor",
+                    "polygon": [
+                        269,
+                        320,
+                        331,
+                        321,
+                        331,
+                        336,
+                        269,
+                        336
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 252,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "$1.00",
+                    "polygon": [
+                        471,
+                        321,
+                        525,
+                        321,
+                        526,
+                        335,
+                        472,
+                        336
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 259,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        84,
+                        338,
+                        94,
+                        338,
+                        94,
+                        351,
+                        84,
+                        351
+                    ],
+                    "confidence": 0.608,
+                    "span": {
+                        "offset": 265,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Horchata",
+                    "polygon": [
+                        123,
+                        338,
+                        215,
+                        338,
+                        215,
+                        352,
+                        123,
+                        352
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 267,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        474,
+                        338,
+                        529,
+                        337,
+                        529,
+                        352,
+                        475,
+                        353
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 276,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        81,
+                        356,
+                        91,
+                        356,
+                        91,
+                        369,
+                        81,
+                        369
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 282,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Taco",
+                    "polygon": [
+                        122,
+                        355,
+                        171,
+                        355,
+                        171,
+                        371,
+                        122,
+                        370
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 284,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Tuesday",
+                    "polygon": [
+                        178,
+                        355,
+                        263,
+                        355,
+                        263,
+                        371,
+                        178,
+                        371
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 289,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Pollo",
+                    "polygon": [
+                        270,
+                        355,
+                        319,
+                        355,
+                        319,
+                        370,
+                        270,
+                        371
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 297,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$1.00",
+                    "polygon": [
+                        477,
+                        355,
+                        534,
+                        354,
+                        534,
+                        369,
+                        478,
+                        370
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 303,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        78,
+                        374,
+                        88,
+                        374,
+                        88,
+                        388,
+                        78,
+                        388
+                    ],
+                    "confidence": 0.286,
+                    "span": {
+                        "offset": 309,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Taco",
+                    "polygon": [
+                        120,
+                        373,
+                        170,
+                        373,
+                        170,
+                        389,
+                        120,
+                        389
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 311,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "D",
+                    "polygon": [
+                        177,
+                        373,
+                        191,
+                        373,
+                        191,
+                        389,
+                        177,
+                        389
+                    ],
+                    "confidence": 0.985,
+                    "span": {
+                        "offset": 316,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Cochinita",
+                    "polygon": [
+                        199,
+                        373,
+                        295,
+                        373,
+                        295,
+                        389,
+                        199,
+                        389
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 318,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        480,
+                        373,
+                        537,
+                        372,
+                        538,
+                        387,
+                        482,
+                        389
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 328,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        75,
+                        394,
+                        86,
+                        394,
+                        85,
+                        408,
+                        75,
+                        408
+                    ],
+                    "confidence": 0.634,
+                    "span": {
+                        "offset": 334,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Taco",
+                    "polygon": [
+                        118,
+                        393,
+                        169,
+                        393,
+                        169,
+                        409,
+                        118,
+                        409
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 336,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "D",
+                    "polygon": [
+                        175,
+                        393,
+                        190,
+                        393,
+                        190,
+                        409,
+                        175,
+                        409
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 341,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Carnitas",
+                    "polygon": [
+                        198,
+                        393,
+                        286,
+                        393,
+                        286,
+                        408,
+                        198,
+                        409
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 343,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        484,
+                        391,
+                        542,
+                        390,
+                        542,
+                        406,
+                        486,
+                        408
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 352,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        68,
+                        434,
+                        165,
+                        433,
+                        165,
+                        450,
+                        68,
+                        451
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 358,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$28.95",
+                    "polygon": [
+                        479,
+                        430,
+                        550,
+                        428,
+                        552,
+                        445,
+                        480,
+                        447
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 367,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        66,
+                        456,
+                        106,
+                        456,
+                        106,
+                        472,
+                        66,
+                        472
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 374,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$2.03",
+                    "polygon": [
+                        495,
+                        451,
+                        556,
+                        448,
+                        557,
+                        465,
+                        497,
+                        468
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 378,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        61,
+                        500,
+                        120,
+                        500,
+                        120,
+                        519,
+                        61,
+                        519
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 384,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$30.98",
+                    "polygon": [
+                        490,
+                        492,
+                        565,
+                        489,
+                        566,
+                        508,
+                        492,
+                        511
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 390,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Order",
+                    "polygon": [
+                        56,
+                        549,
+                        122,
+                        547,
+                        122,
+                        566,
+                        56,
+                        568
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 397,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "ZJTOG7ZX6ANR8",
+                    "polygon": [
+                        129,
+                        547,
+                        336,
+                        542,
+                        336,
+                        561,
+                        129,
+                        566
+                    ],
+                    "confidence": 0.863,
+                    "span": {
+                        "offset": 403,
+                        "length": 13
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "RINCON MEXICANO",
+                    "polygon": [
+                        197,
+                        88,
+                        401,
+                        92,
+                        401,
+                        106,
+                        197,
+                        102
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "99 BROADWAY",
+                    "polygon": [
+                        240,
+                        105,
+                        361,
+                        105,
+                        361,
+                        117,
+                        240,
+                        116
+                    ],
+                    "spans": [
+                        {
+                            "offset": 16,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "SOMERVILLE, MA 02145",
+                    "polygon": [
+                        201,
+                        117,
+                        401,
+                        118,
+                        401,
+                        130,
+                        200,
+                        129
+                    ],
+                    "spans": [
+                        {
+                            "offset": 28,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "6179661387",
+                    "polygon": [
+                        249,
+                        131,
+                        354,
+                        131,
+                        354,
+                        143,
+                        249,
+                        143
+                    ],
+                    "spans": [
+                        {
+                            "offset": 49,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "ORDER: 45",
+                    "polygon": [
+                        232,
+                        151,
+                        374,
+                        152,
+                        373,
+                        170,
+                        232,
+                        169
+                    ],
+                    "spans": [
+                        {
+                            "offset": 60,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Dine In",
+                    "polygon": [
+                        258,
+                        173,
+                        351,
+                        175,
+                        351,
+                        192,
+                        258,
+                        191
+                    ],
+                    "spans": [
+                        {
+                            "offset": 70,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Cashier: LORENZO REYES",
+                    "polygon": [
+                        102,
+                        192,
+                        331,
+                        196,
+                        331,
+                        209,
+                        101,
+                        205
+                    ],
+                    "spans": [
+                        {
+                            "offset": 78,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "09-May-2017 7:19:46P",
+                    "polygon": [
+                        100,
+                        207,
+                        310,
+                        210,
+                        309,
+                        224,
+                        100,
+                        220
+                    ],
+                    "spans": [
+                        {
+                            "offset": 101,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        96,
+                        238,
+                        108,
+                        238,
+                        108,
+                        250,
+                        96,
+                        250
+                    ],
+                    "spans": [
+                        {
+                            "offset": 122,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Arroz",
+                    "polygon": [
+                        133,
+                        238,
+                        184,
+                        239,
+                        184,
+                        251,
+                        133,
+                        251
+                    ],
+                    "spans": [
+                        {
+                            "offset": 124,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "$3.00",
+                    "polygon": [
+                        457,
+                        240,
+                        509,
+                        240,
+                        509,
+                        254,
+                        457,
+                        254
+                    ],
+                    "spans": [
+                        {
+                            "offset": 130,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        95,
+                        254,
+                        106,
+                        254,
+                        106,
+                        266,
+                        95,
+                        266
+                    ],
+                    "spans": [
+                        {
+                            "offset": 136,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Taco De Pescado",
+                    "polygon": [
+                        133,
+                        253,
+                        293,
+                        255,
+                        292,
+                        269,
+                        133,
+                        267
+                    ],
+                    "spans": [
+                        {
+                            "offset": 138,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "$7.00",
+                    "polygon": [
+                        459,
+                        256,
+                        512,
+                        256,
+                        512,
+                        269,
+                        459,
+                        270
+                    ],
+                    "spans": [
+                        {
+                            "offset": 154,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        93,
+                        270,
+                        105,
+                        270,
+                        104,
+                        283,
+                        92,
+                        282
+                    ],
+                    "spans": [
+                        {
+                            "offset": 160,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Taco Tuesday Pollo",
+                    "polygon": [
+                        131,
+                        270,
+                        314,
+                        271,
+                        314,
+                        286,
+                        131,
+                        284
+                    ],
+                    "spans": [
+                        {
+                            "offset": 162,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "$2.00",
+                    "polygon": [
+                        462,
+                        272,
+                        514,
+                        272,
+                        514,
+                        285,
+                        462,
+                        286
+                    ],
+                    "spans": [
+                        {
+                            "offset": 181,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        92,
+                        287,
+                        101,
+                        287,
+                        100,
+                        299,
+                        92,
+                        299
+                    ],
+                    "spans": [
+                        {
+                            "offset": 187,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Taco D Carne Asada",
+                    "polygon": [
+                        129,
+                        286,
+                        322,
+                        288,
+                        322,
+                        302,
+                        129,
+                        300
+                    ],
+                    "spans": [
+                        {
+                            "offset": 189,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        465,
+                        288,
+                        517,
+                        288,
+                        517,
+                        302,
+                        465,
+                        302
+                    ],
+                    "spans": [
+                        {
+                            "offset": 208,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        89,
+                        303,
+                        98,
+                        304,
+                        98,
+                        316,
+                        89,
+                        316
+                    ],
+                    "spans": [
+                        {
+                            "offset": 214,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Taco D Chorizo",
+                    "polygon": [
+                        128,
+                        303,
+                        274,
+                        303,
+                        274,
+                        318,
+                        128,
+                        317
+                    ],
+                    "spans": [
+                        {
+                            "offset": 216,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        468,
+                        304,
+                        520,
+                        304,
+                        521,
+                        318,
+                        468,
+                        318
+                    ],
+                    "spans": [
+                        {
+                            "offset": 231,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        87,
+                        321,
+                        96,
+                        321,
+                        95,
+                        333,
+                        87,
+                        333
+                    ],
+                    "spans": [
+                        {
+                            "offset": 237,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Taco Tuesday Pastor",
+                    "polygon": [
+                        126,
+                        319,
+                        331,
+                        320,
+                        331,
+                        336,
+                        126,
+                        335
+                    ],
+                    "spans": [
+                        {
+                            "offset": 239,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "$1.00",
+                    "polygon": [
+                        471,
+                        321,
+                        525,
+                        320,
+                        525,
+                        335,
+                        471,
+                        336
+                    ],
+                    "spans": [
+                        {
+                            "offset": 259,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        84,
+                        338,
+                        93,
+                        338,
+                        93,
+                        351,
+                        84,
+                        351
+                    ],
+                    "spans": [
+                        {
+                            "offset": 265,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Horchata",
+                    "polygon": [
+                        123,
+                        338,
+                        215,
+                        338,
+                        215,
+                        352,
+                        123,
+                        352
+                    ],
+                    "spans": [
+                        {
+                            "offset": 267,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        474,
+                        338,
+                        528,
+                        337,
+                        529,
+                        352,
+                        474,
+                        353
+                    ],
+                    "spans": [
+                        {
+                            "offset": 276,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        81,
+                        356,
+                        90,
+                        356,
+                        90,
+                        369,
+                        81,
+                        369
+                    ],
+                    "spans": [
+                        {
+                            "offset": 282,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Taco Tuesday Pollo",
+                    "polygon": [
+                        122,
+                        355,
+                        319,
+                        354,
+                        319,
+                        370,
+                        122,
+                        371
+                    ],
+                    "spans": [
+                        {
+                            "offset": 284,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "$1.00",
+                    "polygon": [
+                        477,
+                        355,
+                        533,
+                        354,
+                        534,
+                        369,
+                        478,
+                        370
+                    ],
+                    "spans": [
+                        {
+                            "offset": 303,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        78,
+                        374,
+                        88,
+                        374,
+                        88,
+                        388,
+                        78,
+                        388
+                    ],
+                    "spans": [
+                        {
+                            "offset": 309,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Taco D Cochinita",
+                    "polygon": [
+                        120,
+                        373,
+                        294,
+                        373,
+                        294,
+                        389,
+                        120,
+                        389
+                    ],
+                    "spans": [
+                        {
+                            "offset": 311,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        480,
+                        373,
+                        537,
+                        372,
+                        537,
+                        387,
+                        481,
+                        389
+                    ],
+                    "spans": [
+                        {
+                            "offset": 328,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        75,
+                        394,
+                        85,
+                        394,
+                        85,
+                        408,
+                        75,
+                        408
+                    ],
+                    "spans": [
+                        {
+                            "offset": 334,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "Taco D Carnitas",
+                    "polygon": [
+                        118,
+                        393,
+                        285,
+                        393,
+                        285,
+                        408,
+                        118,
+                        409
+                    ],
+                    "spans": [
+                        {
+                            "offset": 336,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "$2.99",
+                    "polygon": [
+                        484,
+                        391,
+                        541,
+                        390,
+                        542,
+                        406,
+                        485,
+                        408
+                    ],
+                    "spans": [
+                        {
+                            "offset": 352,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        68,
+                        433,
+                        164,
+                        433,
+                        164,
+                        450,
+                        68,
+                        451
+                    ],
+                    "spans": [
+                        {
+                            "offset": 358,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$28.95",
+                    "polygon": [
+                        479,
+                        430,
+                        551,
+                        428,
+                        551,
+                        445,
+                        479,
+                        447
+                    ],
+                    "spans": [
+                        {
+                            "offset": 367,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        66,
+                        456,
+                        106,
+                        456,
+                        106,
+                        472,
+                        66,
+                        472
+                    ],
+                    "spans": [
+                        {
+                            "offset": 374,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "$2.03",
+                    "polygon": [
+                        495,
+                        451,
+                        556,
+                        448,
+                        556,
+                        465,
+                        496,
+                        467
+                    ],
+                    "spans": [
+                        {
+                            "offset": 378,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        61,
+                        500,
+                        119,
+                        500,
+                        119,
+                        518,
+                        61,
+                        519
+                    ],
+                    "spans": [
+                        {
+                            "offset": 384,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "$30.98",
+                    "polygon": [
+                        490,
+                        492,
+                        565,
+                        489,
+                        566,
+                        508,
+                        491,
+                        511
+                    ],
+                    "spans": [
+                        {
+                            "offset": 390,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Order ZJTOG7ZX6ANR8",
+                    "polygon": [
+                        56,
+                        549,
+                        335,
+                        542,
+                        336,
+                        561,
+                        56,
+                        568
+                    ],
+                    "spans": [
+                        {
+                            "offset": 397,
+                            "length": 19
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 416
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Arroz",
+                                    "content": "Arroz",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                133,
+                                                238,
+                                                184,
+                                                239,
+                                                184,
+                                                251,
+                                                133,
+                                                251
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.981,
+                                    "spans": [
+                                        {
+                                            "offset": 124,
+                                            "length": 5
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 2,
+                                    "content": "2",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                96,
+                                                238,
+                                                109,
+                                                238,
+                                                109,
+                                                251,
+                                                96,
+                                                250
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 122,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 3.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$3.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                457,
+                                                240,
+                                                510,
+                                                240,
+                                                510,
+                                                254,
+                                                457,
+                                                254
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 130,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "2\nArroz\n$3.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        96,
+                                        236,
+                                        510,
+                                        240,
+                                        510,
+                                        255,
+                                        96,
+                                        251
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 122,
+                                    "length": 13
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Taco De Pescado",
+                                    "content": "Taco De Pescado",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                133,
+                                                253,
+                                                293,
+                                                255,
+                                                293,
+                                                269,
+                                                133,
+                                                267
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 138,
+                                            "length": 15
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 2,
+                                    "content": "2",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                95,
+                                                254,
+                                                107,
+                                                254,
+                                                107,
+                                                266,
+                                                95,
+                                                266
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 136,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 7.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$7.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                459,
+                                                256,
+                                                512,
+                                                256,
+                                                512,
+                                                270,
+                                                460,
+                                                270
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 154,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "2\nTaco De Pescado\n$7.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        95,
+                                        254,
+                                        512,
+                                        254,
+                                        512,
+                                        270,
+                                        95,
+                                        270
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.983,
+                            "spans": [
+                                {
+                                    "offset": 136,
+                                    "length": 23
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Taco Tuesday Pollo",
+                                    "content": "Taco Tuesday Pollo",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                131,
+                                                270,
+                                                314,
+                                                271,
+                                                314,
+                                                286,
+                                                131,
+                                                285
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 162,
+                                            "length": 18
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 2,
+                                    "content": "2",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                93,
+                                                270,
+                                                105,
+                                                270,
+                                                105,
+                                                283,
+                                                92,
+                                                282
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 160,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 2.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$2.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                462,
+                                                272,
+                                                514,
+                                                272,
+                                                515,
+                                                286,
+                                                462,
+                                                286
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 181,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "2\nTaco Tuesday Pollo\n$2.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        92,
+                                        269,
+                                        515,
+                                        272,
+                                        515,
+                                        288,
+                                        92,
+                                        285
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 160,
+                                    "length": 26
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Taco D Carne Asada",
+                                    "content": "Taco D Carne Asada",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                129,
+                                                286,
+                                                322,
+                                                288,
+                                                322,
+                                                302,
+                                                129,
+                                                301
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.979,
+                                    "spans": [
+                                        {
+                                            "offset": 189,
+                                            "length": 18
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 7,
+                                    "content": "7",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                92,
+                                                287,
+                                                101,
+                                                287,
+                                                101,
+                                                299,
+                                                92,
+                                                299
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.985,
+                                    "spans": [
+                                        {
+                                            "offset": 187,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 2.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$2.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                465,
+                                                288,
+                                                517,
+                                                288,
+                                                518,
+                                                302,
+                                                465,
+                                                302
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 208,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "7\nTaco D Carne Asada\n$2.99",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        92,
+                                        287,
+                                        518,
+                                        287,
+                                        518,
+                                        302,
+                                        92,
+                                        302
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.979,
+                            "spans": [
+                                {
+                                    "offset": 187,
+                                    "length": 26
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Taco D Chorizo",
+                                    "content": "Taco D Chorizo",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                128,
+                                                303,
+                                                275,
+                                                303,
+                                                275,
+                                                318,
+                                                128,
+                                                318
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 216,
+                                            "length": 14
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 7,
+                                    "content": "7",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                89,
+                                                304,
+                                                99,
+                                                304,
+                                                99,
+                                                316,
+                                                89,
+                                                316
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.984,
+                                    "spans": [
+                                        {
+                                            "offset": 214,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 2.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$2.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                468,
+                                                304,
+                                                520,
+                                                304,
+                                                521,
+                                                318,
+                                                468,
+                                                319
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 231,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "7\nTaco D Chorizo\n$2.99",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        89,
+                                        303,
+                                        521,
+                                        303,
+                                        521,
+                                        319,
+                                        89,
+                                        319
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.979,
+                            "spans": [
+                                {
+                                    "offset": 214,
+                                    "length": 22
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Taco Tuesday Pastor",
+                                    "content": "Taco Tuesday Pastor",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                126,
+                                                319,
+                                                331,
+                                                320,
+                                                331,
+                                                336,
+                                                126,
+                                                335
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 239,
+                                            "length": 19
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 7,
+                                    "content": "7",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                87,
+                                                321,
+                                                96,
+                                                321,
+                                                96,
+                                                333,
+                                                87,
+                                                333
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 237,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 1.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$1.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                471,
+                                                321,
+                                                525,
+                                                321,
+                                                526,
+                                                335,
+                                                472,
+                                                336
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 259,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "7\nTaco Tuesday Pastor\n$1.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        87,
+                                        320,
+                                        526,
+                                        320,
+                                        526,
+                                        336,
+                                        87,
+                                        336
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 237,
+                                    "length": 27
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Horchata",
+                                    "content": "Horchata",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                123,
+                                                338,
+                                                215,
+                                                338,
+                                                215,
+                                                352,
+                                                123,
+                                                352
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.981,
+                                    "spans": [
+                                        {
+                                            "offset": 267,
+                                            "length": 8
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 7,
+                                    "content": "7",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                84,
+                                                338,
+                                                94,
+                                                338,
+                                                94,
+                                                351,
+                                                84,
+                                                351
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.984,
+                                    "spans": [
+                                        {
+                                            "offset": 265,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 2.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$2.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                474,
+                                                338,
+                                                529,
+                                                337,
+                                                529,
+                                                352,
+                                                475,
+                                                353
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 276,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "7\nHorchata\n$2.99",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        84,
+                                        337,
+                                        529,
+                                        337,
+                                        529,
+                                        353,
+                                        84,
+                                        353
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 265,
+                                    "length": 16
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Taco Tuesday Pollo",
+                                    "content": "Taco Tuesday Pollo",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                122,
+                                                355,
+                                                319,
+                                                355,
+                                                319,
+                                                371,
+                                                122,
+                                                371
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 284,
+                                            "length": 18
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 7,
+                                    "content": "7",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                81,
+                                                356,
+                                                91,
+                                                356,
+                                                91,
+                                                369,
+                                                81,
+                                                369
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 282,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 1.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$1.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                477,
+                                                355,
+                                                534,
+                                                354,
+                                                534,
+                                                369,
+                                                478,
+                                                370
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 303,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "7\nTaco Tuesday Pollo\n$1.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        81,
+                                        354,
+                                        534,
+                                        354,
+                                        534,
+                                        371,
+                                        81,
+                                        371
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.979,
+                            "spans": [
+                                {
+                                    "offset": 282,
+                                    "length": 26
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Taco D Cochinita",
+                                    "content": "Taco D Cochinita",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                120,
+                                                373,
+                                                295,
+                                                373,
+                                                295,
+                                                389,
+                                                120,
+                                                389
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 311,
+                                            "length": 16
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 7,
+                                    "content": "7",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                78,
+                                                374,
+                                                88,
+                                                374,
+                                                88,
+                                                388,
+                                                78,
+                                                388
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 309,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 2.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$2.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                480,
+                                                373,
+                                                537,
+                                                372,
+                                                538,
+                                                387,
+                                                482,
+                                                389
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 328,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "7\nTaco D Cochinita\n$2.99",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        78,
+                                        372,
+                                        538,
+                                        372,
+                                        538,
+                                        389,
+                                        78,
+                                        389
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.954,
+                            "spans": [
+                                {
+                                    "offset": 309,
+                                    "length": 24
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Taco D Carnitas",
+                                    "content": "Taco D Carnitas",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                118,
+                                                393,
+                                                286,
+                                                393,
+                                                286,
+                                                409,
+                                                118,
+                                                409
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 336,
+                                            "length": 15
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 7,
+                                    "content": "7",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                75,
+                                                394,
+                                                86,
+                                                394,
+                                                85,
+                                                408,
+                                                75,
+                                                408
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.984,
+                                    "spans": [
+                                        {
+                                            "offset": 334,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 2.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$2.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                484,
+                                                391,
+                                                542,
+                                                390,
+                                                542,
+                                                406,
+                                                486,
+                                                408
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 352,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "7\nTaco D Carnitas\n$2.99",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        75,
+                                        390,
+                                        542,
+                                        390,
+                                        542,
+                                        409,
+                                        75,
+                                        409
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.979,
+                            "spans": [
+                                {
+                                    "offset": 334,
+                                    "length": 23
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "99 BROADWAY\nSOMERVILLE, MA 02145",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                200,
+                                105,
+                                401,
+                                105,
+                                401,
+                                130,
+                                200,
+                                130
+                            ]
+                        }
+                    ],
+                    "confidence": 0.983,
+                    "spans": [
+                        {
+                            "offset": 16,
+                            "length": 32
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "99",
+                        "road": "BROADWAY",
+                        "postalCode": "02145",
+                        "city": "SOMERVILLE",
+                        "state": "MA",
+                        "streetAddress": "99 BROADWAY"
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "RINCON MEXICANO",
+                    "content": "RINCON MEXICANO",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                197,
+                                87,
+                                402,
+                                92,
+                                402,
+                                107,
+                                197,
+                                102
+                            ]
+                        }
+                    ],
+                    "confidence": 0.978,
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 15
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+16179661387",
+                    "content": "6179661387",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                249,
+                                131,
+                                354,
+                                131,
+                                354,
+                                143,
+                                249,
+                                143
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 49,
+                            "length": 10
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.971
+                },
+                "Subtotal": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 28.95,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$28.95",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                479,
+                                430,
+                                550,
+                                428,
+                                552,
+                                445,
+                                480,
+                                447
+                            ]
+                        }
+                    ],
+                    "confidence": 0.984,
+                    "spans": [
+                        {
+                            "offset": 367,
+                            "length": 6
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 30.98,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$30.98",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                490,
+                                492,
+                                565,
+                                489,
+                                566,
+                                508,
+                                492,
+                                511
+                            ]
+                        }
+                    ],
+                    "confidence": 0.982,
+                    "spans": [
+                        {
+                            "offset": 390,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 2.03,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$2.03",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                495,
+                                451,
+                                556,
+                                448,
+                                557,
+                                465,
+                                497,
+                                468
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 378,
+                            "length": 5
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2017-05-09",
+                    "content": "09-May-2017",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                100,
+                                207,
+                                225,
+                                209,
+                                225,
+                                223,
+                                100,
+                                220
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 101,
+                            "length": 11
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "19:19:46",
+                    "content": "7:19:46P",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                232,
+                                209,
+                                310,
+                                210,
+                                310,
+                                223,
+                                231,
+                                223
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 113,
+                            "length": 8
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.971,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 416
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

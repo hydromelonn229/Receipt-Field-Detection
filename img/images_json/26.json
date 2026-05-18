@@ -1,0 +1,2952 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "Katana Sushi\n2818 Hewitt Ave\nEverett, WA 98201\n425-512-9361\nServer: Michael C\n05/11/18 8:47 PM\nCheck #93\nTable D2\nHamachi Collar\n$12.00\nMega Poke Bowl\n$17.00\nHamachi - Sashimi\n$12.00\nMaguro - Sashimi\n$11.00\nSalmon - Sashimi\n$10.00\n3 Sockeye Salmon - Sashimi\n$36.00\nHamachi Japapeno\n$12.00\nSalmon Collar\n$10.00\nEscolar - Sashimi\n$11.00\nSubtotal\n$131.00\nTax\n$12.71\nTotal\n$143.71\n153.71\nThank You for your visit.",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.23880000412464142,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "Katana",
+                    "polygon": [
+                        192,
+                        35,
+                        292,
+                        34,
+                        293,
+                        49,
+                        192,
+                        50
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 0,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Sushi",
+                    "polygon": [
+                        311,
+                        33,
+                        393,
+                        31,
+                        394,
+                        46,
+                        312,
+                        48
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 7,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "2818",
+                    "polygon": [
+                        165,
+                        55,
+                        233,
+                        54,
+                        233,
+                        69,
+                        165,
+                        70
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 13,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Hewitt",
+                    "polygon": [
+                        252,
+                        53,
+                        351,
+                        52,
+                        352,
+                        67,
+                        253,
+                        69
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 18,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Ave",
+                    "polygon": [
+                        371,
+                        51,
+                        423,
+                        50,
+                        424,
+                        66,
+                        372,
+                        67
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 25,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Everett,",
+                    "polygon": [
+                        148,
+                        75,
+                        280,
+                        72,
+                        280,
+                        89,
+                        148,
+                        91
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 29,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "WA",
+                    "polygon": [
+                        303,
+                        72,
+                        335,
+                        71,
+                        336,
+                        88,
+                        304,
+                        88
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 38,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "98201",
+                    "polygon": [
+                        355,
+                        71,
+                        438,
+                        69,
+                        439,
+                        86,
+                        356,
+                        87
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 41,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "425-512-9361",
+                    "polygon": [
+                        199,
+                        94,
+                        404,
+                        91,
+                        404,
+                        106,
+                        199,
+                        109
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 47,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "Server:",
+                    "polygon": [
+                        36,
+                        157,
+                        151,
+                        156,
+                        151,
+                        172,
+                        36,
+                        173
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 60,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Michael",
+                    "polygon": [
+                        175,
+                        156,
+                        292,
+                        155,
+                        292,
+                        170,
+                        175,
+                        172
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 68,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "C",
+                    "polygon": [
+                        316,
+                        155,
+                        334,
+                        154,
+                        334,
+                        170,
+                        316,
+                        170
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 76,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "05/11/18",
+                    "polygon": [
+                        284,
+                        171,
+                        425,
+                        170,
+                        425,
+                        186,
+                        284,
+                        187
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 78,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "8:47",
+                    "polygon": [
+                        446,
+                        170,
+                        514,
+                        169,
+                        515,
+                        185,
+                        446,
+                        186
+                    ],
+                    "confidence": 0.986,
+                    "span": {
+                        "offset": 87,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "PM",
+                    "polygon": [
+                        535,
+                        169,
+                        572,
+                        169,
+                        572,
+                        185,
+                        535,
+                        185
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 92,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Check",
+                    "polygon": [
+                        27,
+                        197,
+                        117,
+                        196,
+                        117,
+                        212,
+                        27,
+                        213
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 95,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "#93",
+                    "polygon": [
+                        138,
+                        196,
+                        192,
+                        196,
+                        192,
+                        212,
+                        138,
+                        212
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 101,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Table",
+                    "polygon": [
+                        427,
+                        194,
+                        516,
+                        193,
+                        517,
+                        209,
+                        427,
+                        210
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 105,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "D2",
+                    "polygon": [
+                        537,
+                        193,
+                        574,
+                        193,
+                        574,
+                        209,
+                        538,
+                        209
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 111,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Hamachi",
+                    "polygon": [
+                        25,
+                        239,
+                        147,
+                        238,
+                        147,
+                        255,
+                        25,
+                        255
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 114,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Collar",
+                    "polygon": [
+                        172,
+                        238,
+                        279,
+                        238,
+                        279,
+                        255,
+                        172,
+                        255
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 122,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "$12.00",
+                    "polygon": [
+                        465,
+                        236,
+                        577,
+                        236,
+                        577,
+                        252,
+                        466,
+                        253
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 129,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Mega",
+                    "polygon": [
+                        24,
+                        261,
+                        97,
+                        261,
+                        97,
+                        278,
+                        24,
+                        278
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 136,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Poke",
+                    "polygon": [
+                        117,
+                        261,
+                        187,
+                        260,
+                        187,
+                        277,
+                        117,
+                        277
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 141,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Bowl",
+                    "polygon": [
+                        208,
+                        260,
+                        276,
+                        260,
+                        276,
+                        277,
+                        208,
+                        277
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 146,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "$17.00",
+                    "polygon": [
+                        466,
+                        258,
+                        578,
+                        258,
+                        578,
+                        274,
+                        466,
+                        275
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 151,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Hamachi",
+                    "polygon": [
+                        24,
+                        283,
+                        147,
+                        283,
+                        147,
+                        299,
+                        24,
+                        300
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 158,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        173,
+                        282,
+                        187,
+                        282,
+                        187,
+                        299,
+                        173,
+                        299
+                    ],
+                    "confidence": 0.98,
+                    "span": {
+                        "offset": 166,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Sashimi",
+                    "polygon": [
+                        208,
+                        282,
+                        331,
+                        282,
+                        331,
+                        299,
+                        208,
+                        299
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 168,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$12.00",
+                    "polygon": [
+                        466,
+                        281,
+                        579,
+                        280,
+                        579,
+                        297,
+                        467,
+                        297
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 176,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Maguro",
+                    "polygon": [
+                        24,
+                        306,
+                        133,
+                        306,
+                        133,
+                        322,
+                        24,
+                        322
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 183,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        156,
+                        305,
+                        169,
+                        305,
+                        169,
+                        322,
+                        156,
+                        322
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 190,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Sashimi",
+                    "polygon": [
+                        190,
+                        305,
+                        313,
+                        305,
+                        313,
+                        321,
+                        190,
+                        322
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 192,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$11.00",
+                    "polygon": [
+                        467,
+                        303,
+                        580,
+                        303,
+                        580,
+                        319,
+                        467,
+                        320
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 200,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Salmon",
+                    "polygon": [
+                        24,
+                        328,
+                        133,
+                        327,
+                        133,
+                        344,
+                        24,
+                        345
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 207,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        156,
+                        327,
+                        169,
+                        327,
+                        169,
+                        344,
+                        156,
+                        344
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 214,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Sashimi",
+                    "polygon": [
+                        190,
+                        327,
+                        314,
+                        327,
+                        314,
+                        344,
+                        190,
+                        344
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 216,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$10.00",
+                    "polygon": [
+                        467,
+                        326,
+                        581,
+                        325,
+                        581,
+                        342,
+                        468,
+                        342
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 224,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "3",
+                    "polygon": [
+                        24,
+                        350,
+                        42,
+                        350,
+                        42,
+                        367,
+                        24,
+                        367
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 231,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Sockeye",
+                    "polygon": [
+                        64,
+                        350,
+                        187,
+                        349,
+                        187,
+                        367,
+                        64,
+                        367
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 233,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Salmon",
+                    "polygon": [
+                        208,
+                        349,
+                        314,
+                        349,
+                        314,
+                        366,
+                        208,
+                        366
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 241,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        337,
+                        349,
+                        351,
+                        349,
+                        351,
+                        366,
+                        337,
+                        366
+                    ],
+                    "confidence": 0.97,
+                    "span": {
+                        "offset": 248,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Sashimi",
+                    "polygon": [
+                        372,
+                        349,
+                        497,
+                        348,
+                        497,
+                        365,
+                        372,
+                        365
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 250,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$36.00",
+                    "polygon": [
+                        468,
+                        367,
+                        582,
+                        367,
+                        582,
+                        384,
+                        468,
+                        384
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 258,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Hamachi",
+                    "polygon": [
+                        21,
+                        395,
+                        145,
+                        395,
+                        145,
+                        413,
+                        21,
+                        413
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 265,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Japapeno",
+                    "polygon": [
+                        170,
+                        395,
+                        317,
+                        395,
+                        317,
+                        412,
+                        170,
+                        413
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 273,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$12.00",
+                    "polygon": [
+                        470,
+                        394,
+                        585,
+                        394,
+                        585,
+                        411,
+                        471,
+                        411
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 282,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Salmon",
+                    "polygon": [
+                        20,
+                        418,
+                        130,
+                        418,
+                        130,
+                        436,
+                        19,
+                        436
+                    ],
+                    "confidence": 0.983,
+                    "span": {
+                        "offset": 289,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Collar",
+                    "polygon": [
+                        151,
+                        418,
+                        262,
+                        418,
+                        262,
+                        435,
+                        151,
+                        436
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 296,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "$10.00",
+                    "polygon": [
+                        471,
+                        418,
+                        587,
+                        417,
+                        587,
+                        435,
+                        472,
+                        435
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 303,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Escolar",
+                    "polygon": [
+                        18,
+                        442,
+                        147,
+                        442,
+                        147,
+                        459,
+                        18,
+                        460
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 310,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "-",
+                    "polygon": [
+                        170,
+                        441,
+                        184,
+                        441,
+                        184,
+                        459,
+                        170,
+                        459
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 318,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Sashimi",
+                    "polygon": [
+                        206,
+                        441,
+                        332,
+                        441,
+                        332,
+                        459,
+                        206,
+                        459
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 320,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "$11.00",
+                    "polygon": [
+                        474,
+                        442,
+                        589,
+                        441,
+                        589,
+                        459,
+                        475,
+                        459
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 328,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        18,
+                        490,
+                        163,
+                        489,
+                        163,
+                        507,
+                        18,
+                        507
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 335,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$131.00",
+                    "polygon": [
+                        456,
+                        490,
+                        594,
+                        490,
+                        594,
+                        507,
+                        456,
+                        508
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 344,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        13,
+                        514,
+                        71,
+                        514,
+                        71,
+                        531,
+                        13,
+                        530
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 352,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$12.71",
+                    "polygon": [
+                        477,
+                        515,
+                        593,
+                        514,
+                        593,
+                        533,
+                        477,
+                        533
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 356,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        12,
+                        537,
+                        104,
+                        537,
+                        104,
+                        555,
+                        12,
+                        555
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 363,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$143.71",
+                    "polygon": [
+                        459,
+                        539,
+                        595,
+                        539,
+                        595,
+                        558,
+                        459,
+                        557
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 369,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "153.71",
+                    "polygon": [
+                        439,
+                        559,
+                        579,
+                        564,
+                        579,
+                        603,
+                        437,
+                        597
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 377,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Thank",
+                    "polygon": [
+                        67,
+                        607,
+                        158,
+                        608,
+                        158,
+                        626,
+                        67,
+                        625
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 384,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "You",
+                    "polygon": [
+                        180,
+                        608,
+                        235,
+                        608,
+                        235,
+                        627,
+                        180,
+                        626
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 390,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "for",
+                    "polygon": [
+                        258,
+                        609,
+                        313,
+                        609,
+                        313,
+                        628,
+                        258,
+                        627
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 394,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "your",
+                    "polygon": [
+                        336,
+                        610,
+                        411,
+                        610,
+                        411,
+                        629,
+                        336,
+                        628
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 398,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "visit.",
+                    "polygon": [
+                        434,
+                        611,
+                        548,
+                        612,
+                        548,
+                        630,
+                        433,
+                        629
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 403,
+                        "length": 6
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "Katana Sushi",
+                    "polygon": [
+                        190,
+                        35,
+                        393,
+                        31,
+                        394,
+                        46,
+                        190,
+                        50
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "2818 Hewitt Ave",
+                    "polygon": [
+                        165,
+                        55,
+                        423,
+                        50,
+                        423,
+                        66,
+                        165,
+                        70
+                    ],
+                    "spans": [
+                        {
+                            "offset": 13,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Everett, WA 98201",
+                    "polygon": [
+                        147,
+                        75,
+                        438,
+                        69,
+                        438,
+                        85,
+                        148,
+                        91
+                    ],
+                    "spans": [
+                        {
+                            "offset": 29,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "425-512-9361",
+                    "polygon": [
+                        199,
+                        94,
+                        404,
+                        91,
+                        404,
+                        107,
+                        199,
+                        109
+                    ],
+                    "spans": [
+                        {
+                            "offset": 47,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "Server: Michael C",
+                    "polygon": [
+                        32,
+                        157,
+                        333,
+                        154,
+                        333,
+                        170,
+                        32,
+                        173
+                    ],
+                    "spans": [
+                        {
+                            "offset": 60,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "05/11/18 8:47 PM",
+                    "polygon": [
+                        284,
+                        171,
+                        572,
+                        169,
+                        572,
+                        185,
+                        284,
+                        187
+                    ],
+                    "spans": [
+                        {
+                            "offset": 78,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "Check #93",
+                    "polygon": [
+                        27,
+                        197,
+                        191,
+                        196,
+                        191,
+                        212,
+                        27,
+                        213
+                    ],
+                    "spans": [
+                        {
+                            "offset": 95,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "Table D2",
+                    "polygon": [
+                        427,
+                        194,
+                        573,
+                        193,
+                        573,
+                        209,
+                        427,
+                        210
+                    ],
+                    "spans": [
+                        {
+                            "offset": 105,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "Hamachi Collar",
+                    "polygon": [
+                        25,
+                        239,
+                        279,
+                        238,
+                        279,
+                        255,
+                        25,
+                        255
+                    ],
+                    "spans": [
+                        {
+                            "offset": 114,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "$12.00",
+                    "polygon": [
+                        465,
+                        236,
+                        576,
+                        236,
+                        576,
+                        252,
+                        465,
+                        252
+                    ],
+                    "spans": [
+                        {
+                            "offset": 129,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Mega Poke Bowl",
+                    "polygon": [
+                        24,
+                        261,
+                        276,
+                        260,
+                        276,
+                        277,
+                        24,
+                        278
+                    ],
+                    "spans": [
+                        {
+                            "offset": 136,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "$17.00",
+                    "polygon": [
+                        466,
+                        258,
+                        577,
+                        257,
+                        577,
+                        274,
+                        466,
+                        274
+                    ],
+                    "spans": [
+                        {
+                            "offset": 151,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Hamachi - Sashimi",
+                    "polygon": [
+                        24,
+                        283,
+                        330,
+                        282,
+                        330,
+                        299,
+                        24,
+                        300
+                    ],
+                    "spans": [
+                        {
+                            "offset": 158,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "$12.00",
+                    "polygon": [
+                        466,
+                        281,
+                        578,
+                        280,
+                        578,
+                        296,
+                        467,
+                        297
+                    ],
+                    "spans": [
+                        {
+                            "offset": 176,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Maguro - Sashimi",
+                    "polygon": [
+                        24,
+                        306,
+                        312,
+                        304,
+                        312,
+                        321,
+                        24,
+                        322
+                    ],
+                    "spans": [
+                        {
+                            "offset": 183,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "$11.00",
+                    "polygon": [
+                        467,
+                        303,
+                        579,
+                        303,
+                        579,
+                        319,
+                        467,
+                        320
+                    ],
+                    "spans": [
+                        {
+                            "offset": 200,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Salmon - Sashimi",
+                    "polygon": [
+                        24,
+                        328,
+                        313,
+                        327,
+                        313,
+                        344,
+                        24,
+                        345
+                    ],
+                    "spans": [
+                        {
+                            "offset": 207,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "$10.00",
+                    "polygon": [
+                        467,
+                        326,
+                        580,
+                        325,
+                        580,
+                        342,
+                        467,
+                        342
+                    ],
+                    "spans": [
+                        {
+                            "offset": 224,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "3 Sockeye Salmon - Sashimi",
+                    "polygon": [
+                        24,
+                        350,
+                        497,
+                        348,
+                        497,
+                        365,
+                        24,
+                        367
+                    ],
+                    "spans": [
+                        {
+                            "offset": 231,
+                            "length": 26
+                        }
+                    ]
+                },
+                {
+                    "content": "$36.00",
+                    "polygon": [
+                        468,
+                        367,
+                        582,
+                        367,
+                        582,
+                        383,
+                        468,
+                        384
+                    ],
+                    "spans": [
+                        {
+                            "offset": 258,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Hamachi Japapeno",
+                    "polygon": [
+                        21,
+                        395,
+                        317,
+                        395,
+                        317,
+                        412,
+                        21,
+                        413
+                    ],
+                    "spans": [
+                        {
+                            "offset": 265,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "$12.00",
+                    "polygon": [
+                        470,
+                        394,
+                        584,
+                        394,
+                        584,
+                        411,
+                        470,
+                        411
+                    ],
+                    "spans": [
+                        {
+                            "offset": 282,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Salmon Collar",
+                    "polygon": [
+                        19,
+                        418,
+                        261,
+                        417,
+                        261,
+                        435,
+                        19,
+                        436
+                    ],
+                    "spans": [
+                        {
+                            "offset": 289,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "$10.00",
+                    "polygon": [
+                        471,
+                        418,
+                        586,
+                        417,
+                        587,
+                        434,
+                        471,
+                        435
+                    ],
+                    "spans": [
+                        {
+                            "offset": 303,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Escolar - Sashimi",
+                    "polygon": [
+                        18,
+                        441,
+                        332,
+                        441,
+                        332,
+                        459,
+                        18,
+                        459
+                    ],
+                    "spans": [
+                        {
+                            "offset": 310,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "$11.00",
+                    "polygon": [
+                        472,
+                        442,
+                        589,
+                        441,
+                        589,
+                        458,
+                        472,
+                        459
+                    ],
+                    "spans": [
+                        {
+                            "offset": 328,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        13,
+                        489,
+                        162,
+                        489,
+                        162,
+                        507,
+                        13,
+                        507
+                    ],
+                    "spans": [
+                        {
+                            "offset": 335,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$131.00",
+                    "polygon": [
+                        456,
+                        490,
+                        594,
+                        490,
+                        594,
+                        507,
+                        456,
+                        508
+                    ],
+                    "spans": [
+                        {
+                            "offset": 344,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        13,
+                        514,
+                        71,
+                        514,
+                        71,
+                        531,
+                        13,
+                        530
+                    ],
+                    "spans": [
+                        {
+                            "offset": 352,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "$12.71",
+                    "polygon": [
+                        477,
+                        515,
+                        593,
+                        514,
+                        593,
+                        533,
+                        477,
+                        533
+                    ],
+                    "spans": [
+                        {
+                            "offset": 356,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        12,
+                        537,
+                        104,
+                        537,
+                        104,
+                        555,
+                        12,
+                        555
+                    ],
+                    "spans": [
+                        {
+                            "offset": 363,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "$143.71",
+                    "polygon": [
+                        459,
+                        539,
+                        594,
+                        539,
+                        594,
+                        558,
+                        459,
+                        558
+                    ],
+                    "spans": [
+                        {
+                            "offset": 369,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "153.71",
+                    "polygon": [
+                        438,
+                        559,
+                        579,
+                        564,
+                        578,
+                        603,
+                        437,
+                        598
+                    ],
+                    "spans": [
+                        {
+                            "offset": 377,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "Thank You for your visit.",
+                    "polygon": [
+                        62,
+                        606,
+                        547,
+                        612,
+                        547,
+                        630,
+                        62,
+                        625
+                    ],
+                    "spans": [
+                        {
+                            "offset": 384,
+                            "length": 25
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 409
+                }
+            ]
+        }
+    ],
+    "styles": [
+        {
+            "confidence": 1,
+            "spans": [
+                {
+                    "offset": 377,
+                    "length": 6
+                }
+            ],
+            "isHandwritten": true
+        }
+    ],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Hamachi Collar",
+                                    "content": "Hamachi Collar",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                25,
+                                                238,
+                                                279,
+                                                238,
+                                                279,
+                                                255,
+                                                25,
+                                                255
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.984,
+                                    "spans": [
+                                        {
+                                            "offset": 114,
+                                            "length": 14
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 12.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$12.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                465,
+                                                236,
+                                                577,
+                                                236,
+                                                577,
+                                                252,
+                                                466,
+                                                253
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 129,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Hamachi Collar\n$12.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        25,
+                                        238,
+                                        577,
+                                        236,
+                                        577,
+                                        254,
+                                        25,
+                                        256
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.985,
+                            "spans": [
+                                {
+                                    "offset": 114,
+                                    "length": 21
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Mega Poke Bowl",
+                                    "content": "Mega Poke Bowl",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                24,
+                                                260,
+                                                276,
+                                                260,
+                                                276,
+                                                278,
+                                                24,
+                                                278
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 136,
+                                            "length": 14
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 17.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$17.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                466,
+                                                258,
+                                                578,
+                                                258,
+                                                578,
+                                                274,
+                                                466,
+                                                275
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 151,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Mega Poke Bowl\n$17.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        24,
+                                        258,
+                                        578,
+                                        258,
+                                        578,
+                                        278,
+                                        24,
+                                        278
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 136,
+                                    "length": 21
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Hamachi - Sashimi",
+                                    "content": "Hamachi - Sashimi",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                24,
+                                                282,
+                                                331,
+                                                282,
+                                                331,
+                                                300,
+                                                24,
+                                                300
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 158,
+                                            "length": 17
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 12.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$12.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                466,
+                                                281,
+                                                579,
+                                                280,
+                                                579,
+                                                297,
+                                                467,
+                                                297
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 176,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Hamachi - Sashimi\n$12.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        24,
+                                        280,
+                                        579,
+                                        280,
+                                        579,
+                                        300,
+                                        24,
+                                        300
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 158,
+                                    "length": 24
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Maguro - Sashimi",
+                                    "content": "Maguro - Sashimi",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                24,
+                                                305,
+                                                313,
+                                                305,
+                                                313,
+                                                322,
+                                                24,
+                                                322
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 183,
+                                            "length": 16
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 11.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$11.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                467,
+                                                303,
+                                                580,
+                                                303,
+                                                580,
+                                                319,
+                                                467,
+                                                320
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 200,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Maguro - Sashimi\n$11.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        24,
+                                        303,
+                                        580,
+                                        303,
+                                        580,
+                                        322,
+                                        24,
+                                        322
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 183,
+                                    "length": 23
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Salmon - Sashimi",
+                                    "content": "Salmon - Sashimi",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                24,
+                                                327,
+                                                314,
+                                                327,
+                                                314,
+                                                345,
+                                                24,
+                                                345
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 207,
+                                            "length": 16
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 10.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$10.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                467,
+                                                326,
+                                                581,
+                                                325,
+                                                581,
+                                                342,
+                                                468,
+                                                342
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 224,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Salmon - Sashimi\n$10.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        24,
+                                        325,
+                                        581,
+                                        325,
+                                        581,
+                                        345,
+                                        24,
+                                        345
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 207,
+                                    "length": 23
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Sockeye Salmon - Sashimi",
+                                    "content": "Sockeye Salmon - Sashimi",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                64,
+                                                348,
+                                                497,
+                                                348,
+                                                497,
+                                                367,
+                                                64,
+                                                367
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 233,
+                                            "length": 24
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 3,
+                                    "content": "3",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                24,
+                                                350,
+                                                42,
+                                                350,
+                                                42,
+                                                367,
+                                                24,
+                                                367
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 231,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 36.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$36.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                468,
+                                                367,
+                                                582,
+                                                367,
+                                                582,
+                                                384,
+                                                468,
+                                                384
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 258,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "3 Sockeye Salmon - Sashimi\n$36.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        24,
+                                        348,
+                                        582,
+                                        348,
+                                        582,
+                                        384,
+                                        24,
+                                        384
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.981,
+                            "spans": [
+                                {
+                                    "offset": 231,
+                                    "length": 33
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Hamachi Japapeno",
+                                    "content": "Hamachi Japapeno",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                21,
+                                                395,
+                                                317,
+                                                395,
+                                                317,
+                                                413,
+                                                21,
+                                                413
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.984,
+                                    "spans": [
+                                        {
+                                            "offset": 265,
+                                            "length": 16
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 12.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$12.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                470,
+                                                394,
+                                                585,
+                                                394,
+                                                585,
+                                                411,
+                                                471,
+                                                411
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 282,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Hamachi Japapeno\n$12.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        21,
+                                        394,
+                                        585,
+                                        394,
+                                        585,
+                                        413,
+                                        21,
+                                        413
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.985,
+                            "spans": [
+                                {
+                                    "offset": 265,
+                                    "length": 23
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Salmon Collar",
+                                    "content": "Salmon Collar",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                19,
+                                                418,
+                                                262,
+                                                418,
+                                                262,
+                                                436,
+                                                19,
+                                                436
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.984,
+                                    "spans": [
+                                        {
+                                            "offset": 289,
+                                            "length": 13
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 10.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$10.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                471,
+                                                418,
+                                                587,
+                                                417,
+                                                587,
+                                                435,
+                                                472,
+                                                435
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 303,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Salmon Collar\n$10.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        19,
+                                        418,
+                                        587,
+                                        416,
+                                        587,
+                                        435,
+                                        19,
+                                        437
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.985,
+                            "spans": [
+                                {
+                                    "offset": 289,
+                                    "length": 20
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Escolar - Sashimi",
+                                    "content": "Escolar - Sashimi",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                18,
+                                                441,
+                                                332,
+                                                441,
+                                                332,
+                                                460,
+                                                18,
+                                                460
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 310,
+                                            "length": 17
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 11.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$11.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                474,
+                                                442,
+                                                589,
+                                                441,
+                                                589,
+                                                459,
+                                                475,
+                                                459
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 328,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "Escolar - Sashimi\n$11.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        18,
+                                        441,
+                                        589,
+                                        441,
+                                        589,
+                                        460,
+                                        18,
+                                        460
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 310,
+                                    "length": 24
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "2818 Hewitt Ave\nEverett, WA 98201",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                147,
+                                54,
+                                438,
+                                50,
+                                439,
+                                87,
+                                148,
+                                91
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 13,
+                            "length": 33
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "2818",
+                        "road": "Hewitt Ave",
+                        "postalCode": "98201",
+                        "city": "Everett",
+                        "state": "WA",
+                        "streetAddress": "2818 Hewitt Ave"
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "Katana Sushi",
+                    "content": "Katana Sushi",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                192,
+                                33,
+                                394,
+                                31,
+                                394,
+                                48,
+                                192,
+                                50
+                            ]
+                        }
+                    ],
+                    "confidence": 0.976,
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 12
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+14255129361",
+                    "content": "425-512-9361",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                199,
+                                94,
+                                404,
+                                91,
+                                404,
+                                106,
+                                199,
+                                109
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 47,
+                            "length": 12
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.972
+                },
+                "Subtotal": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 131.0,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$131.00",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                456,
+                                490,
+                                594,
+                                490,
+                                594,
+                                507,
+                                456,
+                                508
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 344,
+                            "length": 7
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 143.71,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$143.71",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                459,
+                                539,
+                                595,
+                                539,
+                                595,
+                                558,
+                                459,
+                                557
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 369,
+                            "length": 7
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 12.71,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$12.71",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                477,
+                                515,
+                                593,
+                                514,
+                                593,
+                                533,
+                                477,
+                                533
+                            ]
+                        }
+                    ],
+                    "confidence": 0.989,
+                    "spans": [
+                        {
+                            "offset": 356,
+                            "length": 6
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2018-05-11",
+                    "content": "05/11/18",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                284,
+                                171,
+                                425,
+                                170,
+                                425,
+                                186,
+                                284,
+                                187
+                            ]
+                        }
+                    ],
+                    "confidence": 0.988,
+                    "spans": [
+                        {
+                            "offset": 78,
+                            "length": 8
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "20:47:00",
+                    "content": "8:47 PM",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                446,
+                                169,
+                                572,
+                                169,
+                                572,
+                                186,
+                                446,
+                                186
+                            ]
+                        }
+                    ],
+                    "confidence": 0.988,
+                    "spans": [
+                        {
+                            "offset": 87,
+                            "length": 7
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.971,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 409
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

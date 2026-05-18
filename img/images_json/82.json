@@ -1,0 +1,2657 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "Trattoria Saporito\n328 WashingtonStreet\nHoboken, NJ 07030\n201-533-1801\nTABLE # 4\nCHECK# 27273\nDATE/TIME: 7/1/2018 5:53:48 PM\nSERVER: Gastone\nSTATION: 01\nItem Count: 4\n1 STUFFED ARTICHOKE*\n$18.00\nCCC222\n1 BK FETT AL PORCINI *\n$36.00\n1 COSTOLETTE/ALLA/PAP*\n$42.00\n1 BROCCOLI RABE W/ GA*\n$10.50\n1 ESPRESSO*\n$3.75\n1 DBLD ESPRESSO*\n$7.50\nSubtotal\n$117.75\nTax\n$8.24\nGRAND TOTAL\n$125.99\nOpened: 7/1/2018 5:53:48 PM",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.7615000009536743,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "Trattoria",
+                    "polygon": [
+                        116,
+                        25,
+                        220,
+                        23,
+                        221,
+                        55,
+                        116,
+                        56
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 0,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "Saporito",
+                    "polygon": [
+                        233,
+                        23,
+                        328,
+                        23,
+                        328,
+                        53,
+                        233,
+                        55
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 10,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "328",
+                    "polygon": [
+                        92,
+                        57,
+                        127,
+                        57,
+                        127,
+                        75,
+                        93,
+                        75
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 19,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "WashingtonStreet",
+                    "polygon": [
+                        140,
+                        57,
+                        327,
+                        54,
+                        327,
+                        72,
+                        140,
+                        74
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 23,
+                        "length": 16
+                    }
+                },
+                {
+                    "content": "Hoboken,",
+                    "polygon": [
+                        127,
+                        74,
+                        218,
+                        73,
+                        219,
+                        89,
+                        127,
+                        90
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 40,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "NJ",
+                    "polygon": [
+                        235,
+                        73,
+                        256,
+                        73,
+                        256,
+                        89,
+                        235,
+                        89
+                    ],
+                    "confidence": 0.98,
+                    "span": {
+                        "offset": 49,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "07030",
+                    "polygon": [
+                        269,
+                        72,
+                        329,
+                        71,
+                        329,
+                        88,
+                        269,
+                        88
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 52,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "201-533-1801",
+                    "polygon": [
+                        162,
+                        90,
+                        304,
+                        88,
+                        304,
+                        106,
+                        163,
+                        107
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 58,
+                        "length": 12
+                    }
+                },
+                {
+                    "content": "TABLE",
+                    "polygon": [
+                        22,
+                        126,
+                        81,
+                        125,
+                        81,
+                        143,
+                        22,
+                        144
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 71,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "#",
+                    "polygon": [
+                        94,
+                        125,
+                        104,
+                        125,
+                        104,
+                        143,
+                        94,
+                        143
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 77,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "4",
+                    "polygon": [
+                        117,
+                        125,
+                        131,
+                        125,
+                        131,
+                        142,
+                        117,
+                        142
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 79,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "CHECK#",
+                    "polygon": [
+                        22,
+                        143,
+                        93,
+                        142,
+                        93,
+                        160,
+                        22,
+                        162
+                    ],
+                    "confidence": 0.978,
+                    "span": {
+                        "offset": 81,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "27273",
+                    "polygon": [
+                        105,
+                        142,
+                        165,
+                        141,
+                        165,
+                        159,
+                        105,
+                        160
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 88,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "DATE/TIME:",
+                    "polygon": [
+                        22,
+                        177,
+                        137,
+                        175,
+                        138,
+                        195,
+                        22,
+                        195
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 94,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "7/1/2018",
+                    "polygon": [
+                        153,
+                        175,
+                        247,
+                        174,
+                        247,
+                        193,
+                        153,
+                        194
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 105,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "5:53:48",
+                    "polygon": [
+                        260,
+                        174,
+                        342,
+                        173,
+                        342,
+                        192,
+                        260,
+                        193
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 114,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "PM",
+                    "polygon": [
+                        355,
+                        173,
+                        380,
+                        173,
+                        380,
+                        192,
+                        355,
+                        192
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 122,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "SERVER:",
+                    "polygon": [
+                        22,
+                        196,
+                        102,
+                        195,
+                        102,
+                        212,
+                        22,
+                        212
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 125,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Gastone",
+                    "polygon": [
+                        129,
+                        195,
+                        214,
+                        195,
+                        214,
+                        211,
+                        130,
+                        212
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 133,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "STATION:",
+                    "polygon": [
+                        22,
+                        213,
+                        114,
+                        211,
+                        114,
+                        230,
+                        22,
+                        231
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 141,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "01",
+                    "polygon": [
+                        129,
+                        211,
+                        153,
+                        211,
+                        153,
+                        230,
+                        129,
+                        230
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 150,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Item",
+                    "polygon": [
+                        22,
+                        247,
+                        70,
+                        247,
+                        70,
+                        266,
+                        22,
+                        266
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 153,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Count:",
+                    "polygon": [
+                        82,
+                        247,
+                        151,
+                        246,
+                        151,
+                        265,
+                        82,
+                        265
+                    ],
+                    "confidence": 0.974,
+                    "span": {
+                        "offset": 158,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "4",
+                    "polygon": [
+                        167,
+                        246,
+                        180,
+                        246,
+                        180,
+                        264,
+                        167,
+                        265
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 165,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        23,
+                        283,
+                        30,
+                        283,
+                        30,
+                        301,
+                        24,
+                        301
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 167,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "STUFFED",
+                    "polygon": [
+                        46,
+                        282,
+                        130,
+                        281,
+                        130,
+                        300,
+                        46,
+                        301
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 169,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "ARTICHOKE*",
+                    "polygon": [
+                        143,
+                        281,
+                        264,
+                        280,
+                        264,
+                        298,
+                        143,
+                        300
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 177,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "$18.00",
+                    "polygon": [
+                        369,
+                        279,
+                        442,
+                        278,
+                        442,
+                        296,
+                        370,
+                        297
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 188,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "CCC222",
+                    "polygon": [
+                        107,
+                        300,
+                        180,
+                        299,
+                        180,
+                        316,
+                        107,
+                        317
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 195,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        23,
+                        318,
+                        29,
+                        318,
+                        30,
+                        336,
+                        23,
+                        336
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 202,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "BK",
+                    "polygon": [
+                        46,
+                        318,
+                        69,
+                        318,
+                        70,
+                        336,
+                        46,
+                        336
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 204,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "FETT",
+                    "polygon": [
+                        83,
+                        317,
+                        130,
+                        317,
+                        130,
+                        335,
+                        83,
+                        336
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 207,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "AL",
+                    "polygon": [
+                        143,
+                        317,
+                        167,
+                        316,
+                        167,
+                        335,
+                        144,
+                        335
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 212,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "PORCINI",
+                    "polygon": [
+                        180,
+                        316,
+                        263,
+                        315,
+                        263,
+                        333,
+                        180,
+                        334
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 215,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "*",
+                    "polygon": [
+                        277,
+                        315,
+                        289,
+                        315,
+                        289,
+                        333,
+                        277,
+                        333
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 223,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "$36.00",
+                    "polygon": [
+                        371,
+                        314,
+                        444,
+                        313,
+                        444,
+                        331,
+                        371,
+                        332
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 225,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        23,
+                        337,
+                        29,
+                        337,
+                        29,
+                        354,
+                        23,
+                        354
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 232,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "COSTOLETTE/ALLA/PAP*",
+                    "polygon": [
+                        45,
+                        336,
+                        289,
+                        333,
+                        289,
+                        350,
+                        46,
+                        354
+                    ],
+                    "confidence": 0.963,
+                    "span": {
+                        "offset": 234,
+                        "length": 20
+                    }
+                },
+                {
+                    "content": "$42.00",
+                    "polygon": [
+                        372,
+                        332,
+                        444,
+                        331,
+                        444,
+                        349,
+                        372,
+                        349
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 255,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        23,
+                        355,
+                        26,
+                        355,
+                        26,
+                        372,
+                        23,
+                        372
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 262,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "BROCCOLI",
+                    "polygon": [
+                        46,
+                        354,
+                        142,
+                        353,
+                        142,
+                        371,
+                        46,
+                        372
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 264,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "RABE",
+                    "polygon": [
+                        156,
+                        353,
+                        204,
+                        352,
+                        204,
+                        370,
+                        156,
+                        371
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 273,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "W/",
+                    "polygon": [
+                        217,
+                        351,
+                        240,
+                        351,
+                        240,
+                        370,
+                        217,
+                        370
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 278,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "GA*",
+                    "polygon": [
+                        253,
+                        351,
+                        290,
+                        351,
+                        290,
+                        369,
+                        253,
+                        369
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 281,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$10.50",
+                    "polygon": [
+                        372,
+                        350,
+                        445,
+                        348,
+                        445,
+                        366,
+                        373,
+                        368
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 285,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        23,
+                        373,
+                        26,
+                        373,
+                        26,
+                        390,
+                        23,
+                        391
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 292,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "ESPRESSO*",
+                    "polygon": [
+                        47,
+                        373,
+                        157,
+                        371,
+                        157,
+                        388,
+                        47,
+                        390
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 294,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "$3.75",
+                    "polygon": [
+                        385,
+                        367,
+                        445,
+                        366,
+                        446,
+                        384,
+                        385,
+                        385
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 304,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        22,
+                        391,
+                        29,
+                        391,
+                        29,
+                        409,
+                        22,
+                        409
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 310,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "DBLD",
+                    "polygon": [
+                        46,
+                        390,
+                        94,
+                        390,
+                        94,
+                        408,
+                        46,
+                        409
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 312,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "ESPRESSO*",
+                    "polygon": [
+                        108,
+                        389,
+                        218,
+                        388,
+                        218,
+                        406,
+                        108,
+                        408
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 317,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "$7.50",
+                    "polygon": [
+                        386,
+                        385,
+                        447,
+                        384,
+                        447,
+                        402,
+                        386,
+                        404
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 327,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        20,
+                        427,
+                        118,
+                        426,
+                        118,
+                        445,
+                        20,
+                        446
+                    ],
+                    "confidence": 0.987,
+                    "span": {
+                        "offset": 333,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "$117.75",
+                    "polygon": [
+                        363,
+                        421,
+                        449,
+                        419,
+                        449,
+                        438,
+                        364,
+                        440
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 342,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        20,
+                        446,
+                        60,
+                        446,
+                        60,
+                        464,
+                        20,
+                        464
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 350,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "$8.24",
+                    "polygon": [
+                        387,
+                        439,
+                        450,
+                        438,
+                        450,
+                        457,
+                        388,
+                        458
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 354,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "GRAND",
+                    "polygon": [
+                        19,
+                        465,
+                        83,
+                        463,
+                        83,
+                        498,
+                        20,
+                        499
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 360,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TOTAL",
+                    "polygon": [
+                        96,
+                        463,
+                        157,
+                        462,
+                        157,
+                        497,
+                        96,
+                        498
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 366,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "$125.99",
+                    "polygon": [
+                        364,
+                        458,
+                        451,
+                        456,
+                        451,
+                        491,
+                        365,
+                        494
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 372,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Opened:",
+                    "polygon": [
+                        19,
+                        538,
+                        110,
+                        536,
+                        111,
+                        557,
+                        19,
+                        560
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 380,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "7/1/2018",
+                    "polygon": [
+                        122,
+                        535,
+                        219,
+                        533,
+                        220,
+                        554,
+                        122,
+                        557
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 388,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "5:53:48",
+                    "polygon": [
+                        233,
+                        532,
+                        318,
+                        530,
+                        319,
+                        551,
+                        233,
+                        554
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 397,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "PM",
+                    "polygon": [
+                        331,
+                        530,
+                        357,
+                        529,
+                        357,
+                        550,
+                        332,
+                        551
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 405,
+                        "length": 2
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "Trattoria Saporito",
+                    "polygon": [
+                        116,
+                        24,
+                        327,
+                        22,
+                        327,
+                        54,
+                        116,
+                        56
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "328 WashingtonStreet",
+                    "polygon": [
+                        92,
+                        57,
+                        327,
+                        54,
+                        327,
+                        72,
+                        93,
+                        75
+                    ],
+                    "spans": [
+                        {
+                            "offset": 19,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "Hoboken, NJ 07030",
+                    "polygon": [
+                        127,
+                        74,
+                        328,
+                        71,
+                        328,
+                        88,
+                        127,
+                        90
+                    ],
+                    "spans": [
+                        {
+                            "offset": 40,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "201-533-1801",
+                    "polygon": [
+                        162,
+                        90,
+                        303,
+                        88,
+                        303,
+                        105,
+                        163,
+                        107
+                    ],
+                    "spans": [
+                        {
+                            "offset": 58,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "TABLE # 4",
+                    "polygon": [
+                        22,
+                        126,
+                        130,
+                        124,
+                        131,
+                        142,
+                        22,
+                        144
+                    ],
+                    "spans": [
+                        {
+                            "offset": 71,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "CHECK# 27273",
+                    "polygon": [
+                        22,
+                        143,
+                        164,
+                        141,
+                        165,
+                        159,
+                        22,
+                        161
+                    ],
+                    "spans": [
+                        {
+                            "offset": 81,
+                            "length": 12
+                        }
+                    ]
+                },
+                {
+                    "content": "DATE/TIME: 7/1/2018 5:53:48 PM",
+                    "polygon": [
+                        21,
+                        176,
+                        380,
+                        172,
+                        380,
+                        192,
+                        22,
+                        195
+                    ],
+                    "spans": [
+                        {
+                            "offset": 94,
+                            "length": 30
+                        }
+                    ]
+                },
+                {
+                    "content": "SERVER: Gastone",
+                    "polygon": [
+                        22,
+                        195,
+                        214,
+                        194,
+                        214,
+                        211,
+                        22,
+                        213
+                    ],
+                    "spans": [
+                        {
+                            "offset": 125,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "STATION: 01",
+                    "polygon": [
+                        22,
+                        212,
+                        152,
+                        211,
+                        152,
+                        229,
+                        22,
+                        231
+                    ],
+                    "spans": [
+                        {
+                            "offset": 141,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "Item Count: 4",
+                    "polygon": [
+                        22,
+                        247,
+                        180,
+                        246,
+                        180,
+                        264,
+                        22,
+                        266
+                    ],
+                    "spans": [
+                        {
+                            "offset": 153,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "1 STUFFED ARTICHOKE*",
+                    "polygon": [
+                        23,
+                        282,
+                        263,
+                        280,
+                        264,
+                        298,
+                        24,
+                        301
+                    ],
+                    "spans": [
+                        {
+                            "offset": 167,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "$18.00",
+                    "polygon": [
+                        369,
+                        279,
+                        441,
+                        278,
+                        442,
+                        296,
+                        370,
+                        297
+                    ],
+                    "spans": [
+                        {
+                            "offset": 188,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "CCC222",
+                    "polygon": [
+                        106,
+                        300,
+                        180,
+                        299,
+                        180,
+                        316,
+                        107,
+                        317
+                    ],
+                    "spans": [
+                        {
+                            "offset": 195,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "1 BK FETT AL PORCINI *",
+                    "polygon": [
+                        23,
+                        318,
+                        288,
+                        315,
+                        288,
+                        333,
+                        23,
+                        336
+                    ],
+                    "spans": [
+                        {
+                            "offset": 202,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "$36.00",
+                    "polygon": [
+                        371,
+                        314,
+                        443,
+                        313,
+                        443,
+                        331,
+                        371,
+                        332
+                    ],
+                    "spans": [
+                        {
+                            "offset": 225,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "1 COSTOLETTE/ALLA/PAP*",
+                    "polygon": [
+                        23,
+                        336,
+                        289,
+                        332,
+                        289,
+                        350,
+                        23,
+                        354
+                    ],
+                    "spans": [
+                        {
+                            "offset": 232,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "$42.00",
+                    "polygon": [
+                        372,
+                        331,
+                        443,
+                        331,
+                        444,
+                        349,
+                        372,
+                        349
+                    ],
+                    "spans": [
+                        {
+                            "offset": 255,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "1 BROCCOLI RABE W/ GA*",
+                    "polygon": [
+                        23,
+                        354,
+                        289,
+                        350,
+                        290,
+                        369,
+                        23,
+                        372
+                    ],
+                    "spans": [
+                        {
+                            "offset": 262,
+                            "length": 22
+                        }
+                    ]
+                },
+                {
+                    "content": "$10.50",
+                    "polygon": [
+                        372,
+                        349,
+                        444,
+                        348,
+                        445,
+                        366,
+                        373,
+                        368
+                    ],
+                    "spans": [
+                        {
+                            "offset": 285,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "1 ESPRESSO*",
+                    "polygon": [
+                        22,
+                        373,
+                        157,
+                        371,
+                        157,
+                        388,
+                        23,
+                        390
+                    ],
+                    "spans": [
+                        {
+                            "offset": 292,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "$3.75",
+                    "polygon": [
+                        385,
+                        367,
+                        445,
+                        366,
+                        445,
+                        384,
+                        385,
+                        385
+                    ],
+                    "spans": [
+                        {
+                            "offset": 304,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "1 DBLD ESPRESSO*",
+                    "polygon": [
+                        22,
+                        391,
+                        217,
+                        387,
+                        218,
+                        406,
+                        22,
+                        409
+                    ],
+                    "spans": [
+                        {
+                            "offset": 310,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "$7.50",
+                    "polygon": [
+                        386,
+                        385,
+                        446,
+                        384,
+                        447,
+                        402,
+                        386,
+                        403
+                    ],
+                    "spans": [
+                        {
+                            "offset": 327,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Subtotal",
+                    "polygon": [
+                        20,
+                        427,
+                        118,
+                        425,
+                        118,
+                        444,
+                        20,
+                        446
+                    ],
+                    "spans": [
+                        {
+                            "offset": 333,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "$117.75",
+                    "polygon": [
+                        363,
+                        421,
+                        448,
+                        419,
+                        448,
+                        438,
+                        364,
+                        440
+                    ],
+                    "spans": [
+                        {
+                            "offset": 342,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Tax",
+                    "polygon": [
+                        20,
+                        446,
+                        59,
+                        446,
+                        59,
+                        464,
+                        20,
+                        464
+                    ],
+                    "spans": [
+                        {
+                            "offset": 350,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "$8.24",
+                    "polygon": [
+                        387,
+                        439,
+                        450,
+                        438,
+                        450,
+                        456,
+                        388,
+                        457
+                    ],
+                    "spans": [
+                        {
+                            "offset": 354,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "GRAND TOTAL",
+                    "polygon": [
+                        19,
+                        464,
+                        156,
+                        462,
+                        157,
+                        497,
+                        20,
+                        499
+                    ],
+                    "spans": [
+                        {
+                            "offset": 360,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "$125.99",
+                    "polygon": [
+                        364,
+                        458,
+                        450,
+                        456,
+                        451,
+                        492,
+                        365,
+                        494
+                    ],
+                    "spans": [
+                        {
+                            "offset": 372,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "Opened: 7/1/2018 5:53:48 PM",
+                    "polygon": [
+                        19,
+                        538,
+                        356,
+                        529,
+                        357,
+                        550,
+                        19,
+                        560
+                    ],
+                    "spans": [
+                        {
+                            "offset": 380,
+                            "length": 27
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 407
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "STUFFED ARTICHOKE*",
+                                    "content": "STUFFED ARTICHOKE*",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                46,
+                                                282,
+                                                264,
+                                                279,
+                                                264,
+                                                299,
+                                                46,
+                                                301
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.984,
+                                    "spans": [
+                                        {
+                                            "offset": 169,
+                                            "length": 18
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                23,
+                                                283,
+                                                30,
+                                                283,
+                                                30,
+                                                301,
+                                                24,
+                                                301
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 167,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 18.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$18.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                369,
+                                                279,
+                                                442,
+                                                278,
+                                                442,
+                                                296,
+                                                370,
+                                                297
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 188,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 STUFFED ARTICHOKE*\n$18.00\nCCC222",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        23,
+                                        282,
+                                        442,
+                                        277,
+                                        442,
+                                        313,
+                                        23,
+                                        318
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 167,
+                                    "length": 34
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "BK FETT AL PORCINI",
+                                    "content": "BK FETT AL PORCINI",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                46,
+                                                317,
+                                                263,
+                                                315,
+                                                263,
+                                                334,
+                                                46,
+                                                336
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 204,
+                                            "length": 18
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                23,
+                                                318,
+                                                29,
+                                                318,
+                                                30,
+                                                336,
+                                                23,
+                                                336
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 202,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 36.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$36.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                371,
+                                                314,
+                                                444,
+                                                313,
+                                                444,
+                                                331,
+                                                371,
+                                                332
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 225,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 BK FETT AL PORCINI *\n$36.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        23,
+                                        317,
+                                        444,
+                                        313,
+                                        444,
+                                        332,
+                                        23,
+                                        337
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.976,
+                            "spans": [
+                                {
+                                    "offset": 202,
+                                    "length": 29
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "COSTOLETTE/ALLA/PAP*",
+                                    "content": "COSTOLETTE/ALLA/PAP*",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                45,
+                                                336,
+                                                289,
+                                                333,
+                                                289,
+                                                350,
+                                                46,
+                                                354
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 234,
+                                            "length": 20
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                23,
+                                                337,
+                                                29,
+                                                337,
+                                                29,
+                                                354,
+                                                23,
+                                                354
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 232,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 42.0,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$42.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                372,
+                                                332,
+                                                444,
+                                                331,
+                                                444,
+                                                349,
+                                                372,
+                                                349
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 255,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 COSTOLETTE/ALLA/PAP*\n$42.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        23,
+                                        334,
+                                        444,
+                                        331,
+                                        444,
+                                        351,
+                                        23,
+                                        354
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.985,
+                            "spans": [
+                                {
+                                    "offset": 232,
+                                    "length": 29
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "BROCCOLI RABE W/ GA*",
+                                    "content": "BROCCOLI RABE W/ GA*",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                46,
+                                                351,
+                                                290,
+                                                351,
+                                                290,
+                                                372,
+                                                46,
+                                                372
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 264,
+                                            "length": 20
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                23,
+                                                355,
+                                                26,
+                                                355,
+                                                26,
+                                                372,
+                                                23,
+                                                372
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.987,
+                                    "spans": [
+                                        {
+                                            "offset": 262,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 10.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$10.50",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                372,
+                                                350,
+                                                445,
+                                                348,
+                                                445,
+                                                366,
+                                                373,
+                                                368
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 285,
+                                            "length": 6
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 BROCCOLI RABE W/ GA*\n$10.50",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        23,
+                                        348,
+                                        445,
+                                        348,
+                                        445,
+                                        372,
+                                        23,
+                                        372
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.981,
+                            "spans": [
+                                {
+                                    "offset": 262,
+                                    "length": 29
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "ESPRESSO*",
+                                    "content": "ESPRESSO*",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                47,
+                                                373,
+                                                157,
+                                                371,
+                                                157,
+                                                388,
+                                                47,
+                                                390
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 294,
+                                            "length": 9
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                23,
+                                                373,
+                                                26,
+                                                373,
+                                                26,
+                                                390,
+                                                23,
+                                                391
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 292,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 3.75,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$3.75",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                385,
+                                                367,
+                                                445,
+                                                366,
+                                                446,
+                                                384,
+                                                385,
+                                                385
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 304,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 ESPRESSO*\n$3.75",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        23,
+                                        373,
+                                        446,
+                                        365,
+                                        446,
+                                        384,
+                                        23,
+                                        392
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.985,
+                            "spans": [
+                                {
+                                    "offset": 292,
+                                    "length": 17
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "DBLD ESPRESSO*",
+                                    "content": "DBLD ESPRESSO*",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                46,
+                                                390,
+                                                218,
+                                                388,
+                                                218,
+                                                407,
+                                                46,
+                                                409
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.984,
+                                    "spans": [
+                                        {
+                                            "offset": 312,
+                                            "length": 14
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                22,
+                                                391,
+                                                29,
+                                                391,
+                                                29,
+                                                409,
+                                                22,
+                                                409
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 310,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "currencySymbol": "$",
+                                        "amount": 7.5,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "$7.50",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                386,
+                                                385,
+                                                447,
+                                                384,
+                                                447,
+                                                402,
+                                                386,
+                                                404
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 327,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 DBLD ESPRESSO*\n$7.50",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        22,
+                                        388,
+                                        447,
+                                        384,
+                                        447,
+                                        405,
+                                        22,
+                                        409
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 310,
+                                    "length": 22
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "328 WashingtonStreet\nHoboken, NJ 07030",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                92,
+                                56,
+                                329,
+                                54,
+                                329,
+                                88,
+                                92,
+                                90
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 19,
+                            "length": 38
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "328",
+                        "road": "WashingtonStreet",
+                        "postalCode": "07030",
+                        "city": "Hoboken",
+                        "state": "NJ",
+                        "streetAddress": "328 WashingtonStreet"
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "Trattoria Saporito",
+                    "content": "Trattoria Saporito",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                116,
+                                24,
+                                328,
+                                22,
+                                328,
+                                54,
+                                116,
+                                56
+                            ]
+                        }
+                    ],
+                    "confidence": 0.976,
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 18
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+12015331801",
+                    "content": "201-533-1801",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                162,
+                                90,
+                                304,
+                                88,
+                                304,
+                                106,
+                                163,
+                                107
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 58,
+                            "length": 12
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.971
+                },
+                "Subtotal": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 117.75,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$117.75",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                363,
+                                421,
+                                449,
+                                419,
+                                449,
+                                438,
+                                364,
+                                440
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 342,
+                            "length": 7
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "currencySymbol": "$",
+                        "amount": 8.24,
+                        "currencyCode": "USD"
+                    },
+                    "content": "$8.24",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                387,
+                                439,
+                                450,
+                                438,
+                                450,
+                                457,
+                                388,
+                                458
+                            ]
+                        }
+                    ],
+                    "confidence": 0.989,
+                    "spans": [
+                        {
+                            "offset": 354,
+                            "length": 5
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2018-07-01",
+                    "content": "7/1/2018",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                122,
+                                535,
+                                219,
+                                533,
+                                220,
+                                554,
+                                122,
+                                557
+                            ]
+                        }
+                    ],
+                    "confidence": 0.988,
+                    "spans": [
+                        {
+                            "offset": 388,
+                            "length": 8
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "17:53:48",
+                    "content": "5:53:48 PM",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                260,
+                                173,
+                                380,
+                                173,
+                                380,
+                                193,
+                                260,
+                                193
+                            ]
+                        }
+                    ],
+                    "confidence": 0.988,
+                    "spans": [
+                        {
+                            "offset": 114,
+                            "length": 10
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.971,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 407
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

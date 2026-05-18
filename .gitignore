@@ -1,0 +1,82 @@
+# =============================================
+# LARGE DATA & DATASET FOLDERS
+# =============================================
+
+# Augmented YOLO dataset (hundreds of MBs)
+YOLODataset_aug/
+YOLODataset_aug.zip
+
+# Raw images and working dataset folders
+img/images/
+img/labelme_data/
+img/original_dataset/
+img/yolo_annotations/
+img/yolo_labels_cleaned/
+img/YOLODataset_aug/
+img/YOLODataset_aug.zip
+
+# YOLO dataset splits
+yolo_dataset/images/
+yolo_dataset/labels/
+
+# =============================================
+# MODEL WEIGHTS (large binary files)
+# =============================================
+
+# Pretrained base model
+yolov8s.pt
+yolov8n.pt
+yolov8m.pt
+yolov8l.pt
+yolov8x.pt
+
+# Trained weights inside code/
+code/best.pt
+
+# All training run outputs (weights + plots)
+runs/
+
+# =============================================
+# SAMPLE / TEST IMAGES
+# =============================================
+code/*.jpg
+code/*.jpeg
+code/*.png
+
+# =============================================
+# PYTHON ENVIRONMENT
+# =============================================
+ENV/
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# =============================================
+# JUPYTER NOTEBOOK CHECKPOINTS
+# =============================================
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# =============================================
+# OS & EDITOR FILES
+# =============================================
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# =============================================
+# MISC
+# =============================================
+*.log
+rename_backup.txt

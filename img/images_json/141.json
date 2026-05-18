@@ -1,0 +1,2635 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "P\nAPPADEAU\nX\nSEAFOOD KITCHEN\nPappadeaux Seafood Kitchen (612)\n7800 Airport Blvd (HOU)\nHouston, Tx 77061\n(713) 847-7622\n0089 Table 7 #Party 2\nDANIEL O\nSvrCk: 7 12:46 01/07/17\nDINE IN\n1 Side Craw Etouffee 4oz\n10.98\n1 Pan Seared Tilapia\n21.99\n2 Tea\n5.98\nSub Total :\n38.95\nTax:\n3.21\nSub Total :\n42.16\n01/07 13:29 TOTAL :\n42.16\nThank you for dining at Pappadeaux!\nTip Not Included\n15%\n6.32\n18%\n7.59\n20%\n8.43",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.07989999651908875,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "P",
+                    "polygon": [
+                        85,
+                        35,
+                        124,
+                        34,
+                        124,
+                        88,
+                        84,
+                        88
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 0,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "APPADEAU",
+                    "polygon": [
+                        133,
+                        33,
+                        451,
+                        30,
+                        451,
+                        72,
+                        133,
+                        73
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 2,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "X",
+                    "polygon": [
+                        458,
+                        30,
+                        509,
+                        31,
+                        509,
+                        90,
+                        458,
+                        89
+                    ],
+                    "confidence": 0.975,
+                    "span": {
+                        "offset": 11,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "SEAFOOD",
+                    "polygon": [
+                        142,
+                        70,
+                        286,
+                        70,
+                        286,
+                        90,
+                        142,
+                        90
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 13,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "KITCHEN",
+                    "polygon": [
+                        299,
+                        71,
+                        441,
+                        71,
+                        441,
+                        91,
+                        299,
+                        90
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 21,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Pappadeaux",
+                    "polygon": [
+                        117,
+                        142,
+                        223,
+                        143,
+                        223,
+                        159,
+                        117,
+                        158
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 29,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Seafood",
+                    "polygon": [
+                        234,
+                        143,
+                        306,
+                        143,
+                        306,
+                        159,
+                        234,
+                        159
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 40,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Kitchen",
+                    "polygon": [
+                        317,
+                        143,
+                        389,
+                        143,
+                        388,
+                        160,
+                        316,
+                        159
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 48,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "(612)",
+                    "polygon": [
+                        400,
+                        143,
+                        450,
+                        143,
+                        450,
+                        160,
+                        400,
+                        160
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 56,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7800",
+                    "polygon": [
+                        160,
+                        160,
+                        202,
+                        160,
+                        202,
+                        176,
+                        159,
+                        175
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 62,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Airport",
+                    "polygon": [
+                        213,
+                        160,
+                        284,
+                        160,
+                        284,
+                        176,
+                        213,
+                        176
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 67,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "Blvd",
+                    "polygon": [
+                        296,
+                        161,
+                        337,
+                        161,
+                        337,
+                        176,
+                        296,
+                        176
+                    ],
+                    "confidence": 0.973,
+                    "span": {
+                        "offset": 75,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "(HOU)",
+                    "polygon": [
+                        350,
+                        161,
+                        399,
+                        161,
+                        399,
+                        177,
+                        350,
+                        176
+                    ],
+                    "confidence": 0.951,
+                    "span": {
+                        "offset": 80,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Houston,",
+                    "polygon": [
+                        189,
+                        177,
+                        272,
+                        178,
+                        272,
+                        193,
+                        189,
+                        192
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 86,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "Tx",
+                    "polygon": [
+                        286,
+                        178,
+                        306,
+                        178,
+                        306,
+                        193,
+                        286,
+                        193
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 95,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "77061",
+                    "polygon": [
+                        317,
+                        178,
+                        369,
+                        178,
+                        369,
+                        193,
+                        317,
+                        193
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 98,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "(713)",
+                    "polygon": [
+                        212,
+                        194,
+                        262,
+                        194,
+                        262,
+                        210,
+                        212,
+                        210
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 104,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "847-7622",
+                    "polygon": [
+                        276,
+                        194,
+                        361,
+                        195,
+                        361,
+                        210,
+                        275,
+                        210
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 110,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "0089",
+                    "polygon": [
+                        65,
+                        229,
+                        153,
+                        228,
+                        153,
+                        245,
+                        65,
+                        245
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 119,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Table",
+                    "polygon": [
+                        177,
+                        228,
+                        231,
+                        229,
+                        231,
+                        246,
+                        177,
+                        245
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 124,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        264,
+                        229,
+                        274,
+                        229,
+                        274,
+                        246,
+                        264,
+                        246
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 130,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "#Party",
+                    "polygon": [
+                        297,
+                        230,
+                        360,
+                        230,
+                        360,
+                        246,
+                        297,
+                        246
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 132,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        372,
+                        230,
+                        393,
+                        230,
+                        393,
+                        246,
+                        372,
+                        246
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 139,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "DANIEL",
+                    "polygon": [
+                        63,
+                        248,
+                        131,
+                        248,
+                        131,
+                        263,
+                        63,
+                        263
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 141,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "O",
+                    "polygon": [
+                        142,
+                        248,
+                        155,
+                        248,
+                        155,
+                        263,
+                        142,
+                        263
+                    ],
+                    "confidence": 0.622,
+                    "span": {
+                        "offset": 148,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "SvrCk:",
+                    "polygon": [
+                        196,
+                        248,
+                        262,
+                        248,
+                        262,
+                        265,
+                        196,
+                        264
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 150,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "7",
+                    "polygon": [
+                        286,
+                        248,
+                        296,
+                        248,
+                        296,
+                        264,
+                        286,
+                        265
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 157,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "12:46",
+                    "polygon": [
+                        310,
+                        248,
+                        361,
+                        248,
+                        361,
+                        264,
+                        310,
+                        264
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 159,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "01/07/17",
+                    "polygon": [
+                        373,
+                        248,
+                        460,
+                        247,
+                        460,
+                        265,
+                        373,
+                        264
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 165,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "DINE",
+                    "polygon": [
+                        61,
+                        266,
+                        150,
+                        266,
+                        150,
+                        283,
+                        60,
+                        283
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 174,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "IN",
+                    "polygon": [
+                        177,
+                        266,
+                        219,
+                        266,
+                        219,
+                        283,
+                        176,
+                        283
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 179,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        59,
+                        305,
+                        66,
+                        305,
+                        66,
+                        322,
+                        58,
+                        322
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 182,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Side",
+                    "polygon": [
+                        80,
+                        305,
+                        126,
+                        305,
+                        126,
+                        322,
+                        80,
+                        322
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 184,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Craw",
+                    "polygon": [
+                        138,
+                        305,
+                        183,
+                        305,
+                        183,
+                        322,
+                        137,
+                        322
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 189,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Etouffee",
+                    "polygon": [
+                        196,
+                        305,
+                        286,
+                        305,
+                        285,
+                        322,
+                        196,
+                        322
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 194,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "4oz",
+                    "polygon": [
+                        298,
+                        305,
+                        331,
+                        305,
+                        331,
+                        322,
+                        298,
+                        322
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 203,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "10.98",
+                    "polygon": [
+                        455,
+                        304,
+                        511,
+                        304,
+                        511,
+                        321,
+                        455,
+                        321
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 207,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        56,
+                        325,
+                        63,
+                        325,
+                        63,
+                        343,
+                        56,
+                        343
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 213,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Pan",
+                    "polygon": [
+                        78,
+                        325,
+                        113,
+                        325,
+                        113,
+                        343,
+                        78,
+                        343
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 215,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Seared",
+                    "polygon": [
+                        124,
+                        325,
+                        194,
+                        325,
+                        194,
+                        343,
+                        124,
+                        343
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 219,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "Tilapia",
+                    "polygon": [
+                        206,
+                        325,
+                        287,
+                        325,
+                        287,
+                        342,
+                        206,
+                        343
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 226,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "21.99",
+                    "polygon": [
+                        455,
+                        324,
+                        513,
+                        324,
+                        513,
+                        341,
+                        455,
+                        341
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 234,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        51,
+                        346,
+                        64,
+                        346,
+                        64,
+                        363,
+                        51,
+                        364
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 240,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "Tea",
+                    "polygon": [
+                        76,
+                        346,
+                        112,
+                        346,
+                        112,
+                        363,
+                        76,
+                        363
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 242,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "5.98",
+                    "polygon": [
+                        467,
+                        344,
+                        515,
+                        344,
+                        515,
+                        361,
+                        467,
+                        361
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 246,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Sub",
+                    "polygon": [
+                        285,
+                        386,
+                        321,
+                        386,
+                        321,
+                        404,
+                        285,
+                        404
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 251,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        333,
+                        385,
+                        389,
+                        385,
+                        389,
+                        404,
+                        333,
+                        404
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 255,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        396,
+                        385,
+                        402,
+                        385,
+                        402,
+                        404,
+                        396,
+                        404
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 261,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "38.95",
+                    "polygon": [
+                        460,
+                        385,
+                        520,
+                        385,
+                        520,
+                        403,
+                        460,
+                        403
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 263,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Tax:",
+                    "polygon": [
+                        381,
+                        408,
+                        427,
+                        408,
+                        427,
+                        426,
+                        381,
+                        426
+                    ],
+                    "confidence": 0.951,
+                    "span": {
+                        "offset": 269,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "3.21",
+                    "polygon": [
+                        474,
+                        407,
+                        521,
+                        407,
+                        521,
+                        425,
+                        474,
+                        425
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 274,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "Sub",
+                    "polygon": [
+                        285,
+                        430,
+                        322,
+                        430,
+                        322,
+                        449,
+                        285,
+                        449
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 279,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Total",
+                    "polygon": [
+                        334,
+                        430,
+                        391,
+                        429,
+                        391,
+                        449,
+                        334,
+                        449
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 283,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        398,
+                        429,
+                        405,
+                        429,
+                        405,
+                        449,
+                        398,
+                        449
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 289,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "42.16",
+                    "polygon": [
+                        466,
+                        429,
+                        526,
+                        429,
+                        526,
+                        448,
+                        466,
+                        448
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 291,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "01/07",
+                    "polygon": [
+                        37,
+                        456,
+                        101,
+                        455,
+                        101,
+                        476,
+                        37,
+                        477
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 297,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "13:29",
+                    "polygon": [
+                        116,
+                        455,
+                        175,
+                        454,
+                        175,
+                        476,
+                        116,
+                        476
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 303,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "TOTAL",
+                    "polygon": [
+                        188,
+                        454,
+                        308,
+                        453,
+                        308,
+                        474,
+                        188,
+                        475
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 309,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": ":",
+                    "polygon": [
+                        319,
+                        453,
+                        329,
+                        453,
+                        329,
+                        474,
+                        319,
+                        474
+                    ],
+                    "confidence": 0.989,
+                    "span": {
+                        "offset": 315,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "42.16",
+                    "polygon": [
+                        408,
+                        452,
+                        527,
+                        452,
+                        527,
+                        471,
+                        408,
+                        471
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 317,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "Thank",
+                    "polygon": [
+                        58,
+                        503,
+                        121,
+                        502,
+                        121,
+                        525,
+                        58,
+                        525
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 323,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "you",
+                    "polygon": [
+                        135,
+                        502,
+                        173,
+                        502,
+                        173,
+                        524,
+                        135,
+                        524
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 329,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "for",
+                    "polygon": [
+                        187,
+                        502,
+                        223,
+                        501,
+                        223,
+                        523,
+                        187,
+                        524
+                    ],
+                    "confidence": 0.999,
+                    "span": {
+                        "offset": 333,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "dining",
+                    "polygon": [
+                        236,
+                        501,
+                        311,
+                        500,
+                        311,
+                        523,
+                        237,
+                        523
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 337,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "at",
+                    "polygon": [
+                        324,
+                        500,
+                        348,
+                        500,
+                        348,
+                        522,
+                        324,
+                        522
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 344,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "Pappadeaux!",
+                    "polygon": [
+                        361,
+                        500,
+                        495,
+                        498,
+                        496,
+                        520,
+                        362,
+                        522
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 347,
+                        "length": 11
+                    }
+                },
+                {
+                    "content": "Tip",
+                    "polygon": [
+                        56,
+                        528,
+                        94,
+                        527,
+                        94,
+                        550,
+                        56,
+                        550
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 359,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Not",
+                    "polygon": [
+                        109,
+                        527,
+                        145,
+                        527,
+                        145,
+                        549,
+                        109,
+                        549
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 363,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "Included",
+                    "polygon": [
+                        160,
+                        526,
+                        263,
+                        525,
+                        263,
+                        546,
+                        160,
+                        549
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 367,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "15%",
+                    "polygon": [
+                        134,
+                        552,
+                        172,
+                        552,
+                        172,
+                        573,
+                        134,
+                        573
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 376,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "6.32",
+                    "polygon": [
+                        247,
+                        551,
+                        300,
+                        550,
+                        300,
+                        571,
+                        247,
+                        572
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 380,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "18%",
+                    "polygon": [
+                        132,
+                        578,
+                        170,
+                        578,
+                        170,
+                        599,
+                        132,
+                        599
+                    ],
+                    "confidence": 0.988,
+                    "span": {
+                        "offset": 385,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "7.59",
+                    "polygon": [
+                        248,
+                        576,
+                        300,
+                        576,
+                        300,
+                        597,
+                        248,
+                        597
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 389,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "20%",
+                    "polygon": [
+                        128,
+                        604,
+                        169,
+                        604,
+                        169,
+                        625,
+                        128,
+                        626
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 394,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "8.43",
+                    "polygon": [
+                        246,
+                        602,
+                        300,
+                        602,
+                        300,
+                        623,
+                        246,
+                        624
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 398,
+                        "length": 4
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "P",
+                    "polygon": [
+                        84,
+                        34,
+                        124,
+                        34,
+                        123,
+                        88,
+                        84,
+                        88
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "APPADEAU",
+                    "polygon": [
+                        133,
+                        31,
+                        450,
+                        30,
+                        450,
+                        71,
+                        133,
+                        73
+                    ],
+                    "spans": [
+                        {
+                            "offset": 2,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "X",
+                    "polygon": [
+                        458,
+                        29,
+                        509,
+                        30,
+                        509,
+                        90,
+                        458,
+                        90
+                    ],
+                    "spans": [
+                        {
+                            "offset": 11,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "SEAFOOD KITCHEN",
+                    "polygon": [
+                        142,
+                        70,
+                        441,
+                        71,
+                        441,
+                        90,
+                        142,
+                        90
+                    ],
+                    "spans": [
+                        {
+                            "offset": 13,
+                            "length": 15
+                        }
+                    ]
+                },
+                {
+                    "content": "Pappadeaux Seafood Kitchen (612)",
+                    "polygon": [
+                        117,
+                        142,
+                        449,
+                        143,
+                        449,
+                        160,
+                        117,
+                        158
+                    ],
+                    "spans": [
+                        {
+                            "offset": 29,
+                            "length": 32
+                        }
+                    ]
+                },
+                {
+                    "content": "7800 Airport Blvd (HOU)",
+                    "polygon": [
+                        160,
+                        160,
+                        399,
+                        161,
+                        399,
+                        177,
+                        159,
+                        175
+                    ],
+                    "spans": [
+                        {
+                            "offset": 62,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "Houston, Tx 77061",
+                    "polygon": [
+                        189,
+                        177,
+                        368,
+                        178,
+                        368,
+                        193,
+                        189,
+                        192
+                    ],
+                    "spans": [
+                        {
+                            "offset": 86,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "(713) 847-7622",
+                    "polygon": [
+                        212,
+                        194,
+                        361,
+                        194,
+                        361,
+                        210,
+                        212,
+                        210
+                    ],
+                    "spans": [
+                        {
+                            "offset": 104,
+                            "length": 14
+                        }
+                    ]
+                },
+                {
+                    "content": "0089 Table 7 #Party 2",
+                    "polygon": [
+                        65,
+                        228,
+                        393,
+                        229,
+                        393,
+                        246,
+                        65,
+                        245
+                    ],
+                    "spans": [
+                        {
+                            "offset": 119,
+                            "length": 21
+                        }
+                    ]
+                },
+                {
+                    "content": "DANIEL O",
+                    "polygon": [
+                        63,
+                        248,
+                        155,
+                        248,
+                        155,
+                        263,
+                        63,
+                        263
+                    ],
+                    "spans": [
+                        {
+                            "offset": 141,
+                            "length": 8
+                        }
+                    ]
+                },
+                {
+                    "content": "SvrCk: 7 12:46 01/07/17",
+                    "polygon": [
+                        196,
+                        248,
+                        459,
+                        247,
+                        459,
+                        264,
+                        196,
+                        265
+                    ],
+                    "spans": [
+                        {
+                            "offset": 150,
+                            "length": 23
+                        }
+                    ]
+                },
+                {
+                    "content": "DINE IN",
+                    "polygon": [
+                        60,
+                        266,
+                        219,
+                        266,
+                        219,
+                        283,
+                        60,
+                        283
+                    ],
+                    "spans": [
+                        {
+                            "offset": 174,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "1 Side Craw Etouffee 4oz",
+                    "polygon": [
+                        58,
+                        305,
+                        331,
+                        305,
+                        331,
+                        322,
+                        58,
+                        322
+                    ],
+                    "spans": [
+                        {
+                            "offset": 182,
+                            "length": 24
+                        }
+                    ]
+                },
+                {
+                    "content": "10.98",
+                    "polygon": [
+                        455,
+                        304,
+                        510,
+                        304,
+                        510,
+                        321,
+                        455,
+                        321
+                    ],
+                    "spans": [
+                        {
+                            "offset": 207,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "1 Pan Seared Tilapia",
+                    "polygon": [
+                        56,
+                        325,
+                        287,
+                        325,
+                        287,
+                        342,
+                        56,
+                        342
+                    ],
+                    "spans": [
+                        {
+                            "offset": 213,
+                            "length": 20
+                        }
+                    ]
+                },
+                {
+                    "content": "21.99",
+                    "polygon": [
+                        455,
+                        324,
+                        512,
+                        324,
+                        512,
+                        341,
+                        455,
+                        341
+                    ],
+                    "spans": [
+                        {
+                            "offset": 234,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "2 Tea",
+                    "polygon": [
+                        51,
+                        346,
+                        111,
+                        346,
+                        111,
+                        363,
+                        51,
+                        363
+                    ],
+                    "spans": [
+                        {
+                            "offset": 240,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "5.98",
+                    "polygon": [
+                        467,
+                        344,
+                        514,
+                        344,
+                        515,
+                        361,
+                        467,
+                        361
+                    ],
+                    "spans": [
+                        {
+                            "offset": 246,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Sub Total :",
+                    "polygon": [
+                        285,
+                        386,
+                        401,
+                        385,
+                        401,
+                        404,
+                        285,
+                        404
+                    ],
+                    "spans": [
+                        {
+                            "offset": 251,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "38.95",
+                    "polygon": [
+                        460,
+                        385,
+                        520,
+                        385,
+                        520,
+                        403,
+                        460,
+                        403
+                    ],
+                    "spans": [
+                        {
+                            "offset": 263,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Tax:",
+                    "polygon": [
+                        381,
+                        408,
+                        426,
+                        408,
+                        426,
+                        426,
+                        381,
+                        425
+                    ],
+                    "spans": [
+                        {
+                            "offset": 269,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "3.21",
+                    "polygon": [
+                        474,
+                        407,
+                        521,
+                        407,
+                        521,
+                        425,
+                        474,
+                        425
+                    ],
+                    "spans": [
+                        {
+                            "offset": 274,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "Sub Total :",
+                    "polygon": [
+                        285,
+                        430,
+                        405,
+                        429,
+                        405,
+                        449,
+                        285,
+                        449
+                    ],
+                    "spans": [
+                        {
+                            "offset": 279,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "42.16",
+                    "polygon": [
+                        466,
+                        429,
+                        526,
+                        429,
+                        526,
+                        447,
+                        466,
+                        448
+                    ],
+                    "spans": [
+                        {
+                            "offset": 291,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "01/07 13:29 TOTAL :",
+                    "polygon": [
+                        37,
+                        456,
+                        328,
+                        452,
+                        328,
+                        474,
+                        37,
+                        477
+                    ],
+                    "spans": [
+                        {
+                            "offset": 297,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "42.16",
+                    "polygon": [
+                        408,
+                        452,
+                        527,
+                        451,
+                        527,
+                        471,
+                        408,
+                        471
+                    ],
+                    "spans": [
+                        {
+                            "offset": 317,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "Thank you for dining at Pappadeaux!",
+                    "polygon": [
+                        58,
+                        503,
+                        495,
+                        498,
+                        495,
+                        520,
+                        58,
+                        525
+                    ],
+                    "spans": [
+                        {
+                            "offset": 323,
+                            "length": 35
+                        }
+                    ]
+                },
+                {
+                    "content": "Tip Not Included",
+                    "polygon": [
+                        55,
+                        528,
+                        262,
+                        525,
+                        263,
+                        547,
+                        56,
+                        550
+                    ],
+                    "spans": [
+                        {
+                            "offset": 359,
+                            "length": 16
+                        }
+                    ]
+                },
+                {
+                    "content": "15%",
+                    "polygon": [
+                        134,
+                        552,
+                        171,
+                        552,
+                        171,
+                        573,
+                        134,
+                        573
+                    ],
+                    "spans": [
+                        {
+                            "offset": 376,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "6.32",
+                    "polygon": [
+                        247,
+                        551,
+                        300,
+                        550,
+                        300,
+                        571,
+                        247,
+                        572
+                    ],
+                    "spans": [
+                        {
+                            "offset": 380,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "18%",
+                    "polygon": [
+                        132,
+                        578,
+                        170,
+                        578,
+                        170,
+                        599,
+                        132,
+                        599
+                    ],
+                    "spans": [
+                        {
+                            "offset": 385,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "7.59",
+                    "polygon": [
+                        247,
+                        576,
+                        300,
+                        576,
+                        300,
+                        597,
+                        248,
+                        597
+                    ],
+                    "spans": [
+                        {
+                            "offset": 389,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "20%",
+                    "polygon": [
+                        127,
+                        604,
+                        169,
+                        604,
+                        169,
+                        625,
+                        128,
+                        625
+                    ],
+                    "spans": [
+                        {
+                            "offset": 394,
+                            "length": 3
+                        }
+                    ]
+                },
+                {
+                    "content": "8.43",
+                    "polygon": [
+                        246,
+                        602,
+                        300,
+                        602,
+                        300,
+                        623,
+                        246,
+                        623
+                    ],
+                    "spans": [
+                        {
+                            "offset": 398,
+                            "length": 4
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 402
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "USA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Side Craw Etouffee 4oz",
+                                    "content": "Side Craw Etouffee 4oz",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                80,
+                                                305,
+                                                331,
+                                                305,
+                                                331,
+                                                322,
+                                                80,
+                                                322
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 184,
+                                            "length": 22
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                59,
+                                                305,
+                                                66,
+                                                305,
+                                                66,
+                                                322,
+                                                58,
+                                                322
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.985,
+                                    "spans": [
+                                        {
+                                            "offset": 182,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 10.98,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "10.98",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                455,
+                                                304,
+                                                511,
+                                                304,
+                                                511,
+                                                321,
+                                                455,
+                                                321
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 207,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 Side Craw Etouffee 4oz\n10.98",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        58,
+                                        304,
+                                        511,
+                                        304,
+                                        511,
+                                        322,
+                                        58,
+                                        322
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 182,
+                                    "length": 30
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Pan Seared Tilapia",
+                                    "content": "Pan Seared Tilapia",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                78,
+                                                325,
+                                                287,
+                                                325,
+                                                287,
+                                                343,
+                                                78,
+                                                343
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.98,
+                                    "spans": [
+                                        {
+                                            "offset": 215,
+                                            "length": 18
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                56,
+                                                325,
+                                                63,
+                                                325,
+                                                63,
+                                                343,
+                                                56,
+                                                343
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.985,
+                                    "spans": [
+                                        {
+                                            "offset": 213,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 21.99,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "21.99",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                455,
+                                                324,
+                                                513,
+                                                324,
+                                                513,
+                                                341,
+                                                455,
+                                                341
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 234,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 Pan Seared Tilapia\n21.99",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        56,
+                                        324,
+                                        513,
+                                        324,
+                                        513,
+                                        343,
+                                        56,
+                                        343
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.983,
+                            "spans": [
+                                {
+                                    "offset": 213,
+                                    "length": 26
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "Tea",
+                                    "content": "Tea",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                76,
+                                                346,
+                                                112,
+                                                346,
+                                                112,
+                                                363,
+                                                76,
+                                                363
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 242,
+                                            "length": 3
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 2,
+                                    "content": "2",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                51,
+                                                346,
+                                                64,
+                                                346,
+                                                64,
+                                                363,
+                                                51,
+                                                364
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.985,
+                                    "spans": [
+                                        {
+                                            "offset": 240,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 5.98,
+                                        "currencyCode": "USD"
+                                    },
+                                    "content": "5.98",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                467,
+                                                344,
+                                                515,
+                                                344,
+                                                515,
+                                                361,
+                                                467,
+                                                361
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 246,
+                                            "length": 4
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "2 Tea\n5.98",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        51,
+                                        344,
+                                        515,
+                                        344,
+                                        515,
+                                        364,
+                                        51,
+                                        364
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.985,
+                            "spans": [
+                                {
+                                    "offset": 240,
+                                    "length": 10
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "7800 Airport Blvd (HOU)\nHouston, Tx 77061",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                159,
+                                160,
+                                399,
+                                160,
+                                399,
+                                193,
+                                159,
+                                193
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 62,
+                            "length": 41
+                        }
+                    ],
+                    "valueAddress": {
+                        "houseNumber": "7800",
+                        "road": "Airport Blvd (HOU",
+                        "postalCode": "77061",
+                        "city": "Houston",
+                        "state": "Tx",
+                        "streetAddress": "7800 Airport Blvd (HOU"
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "Pappadeaux Seafood Kitchen",
+                    "content": "Pappadeaux Seafood Kitchen",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                117,
+                                141,
+                                389,
+                                143,
+                                389,
+                                160,
+                                117,
+                                158
+                            ]
+                        }
+                    ],
+                    "confidence": 0.973,
+                    "spans": [
+                        {
+                            "offset": 29,
+                            "length": 26
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+17138477622",
+                    "content": "(713) 847-7622",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                212,
+                                194,
+                                361,
+                                194,
+                                361,
+                                211,
+                                212,
+                                210
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 104,
+                            "length": 14
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.973
+                },
+                "Subtotal": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "amount": 38.95,
+                        "currencyCode": "USD"
+                    },
+                    "content": "38.95",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                460,
+                                385,
+                                520,
+                                385,
+                                520,
+                                403,
+                                460,
+                                403
+                            ]
+                        }
+                    ],
+                    "confidence": 0.985,
+                    "spans": [
+                        {
+                            "offset": 263,
+                            "length": 5
+                        }
+                    ]
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "amount": 42.16,
+                        "currencyCode": "USD"
+                    },
+                    "content": "42.16",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                408,
+                                452,
+                                527,
+                                452,
+                                527,
+                                471,
+                                408,
+                                471
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 317,
+                            "length": 5
+                        }
+                    ]
+                },
+                "TotalTax": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "amount": 3.21,
+                        "currencyCode": "USD"
+                    },
+                    "content": "3.21",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                474,
+                                407,
+                                521,
+                                407,
+                                521,
+                                425,
+                                474,
+                                425
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 274,
+                            "length": 4
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2017-01-07",
+                    "content": "01/07/17",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                373,
+                                248,
+                                460,
+                                247,
+                                460,
+                                265,
+                                373,
+                                264
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 165,
+                            "length": 8
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "12:46:00",
+                    "content": "12:46",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                310,
+                                248,
+                                361,
+                                248,
+                                361,
+                                264,
+                                310,
+                                264
+                            ]
+                        }
+                    ],
+                    "confidence": 0.988,
+                    "spans": [
+                        {
+                            "offset": 159,
+                            "length": 5
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.972,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 402
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

@@ -1,0 +1,2530 @@
+{
+    "apiVersion": "2024-11-30",
+    "modelId": "prebuilt-receipt",
+    "stringIndexType": "textElements",
+    "content": "RISTORANTE\nBELLAGIO (CO)\nTELEFONO 031/951888\nTAV.\n9\nSALA UNICA\nCOPERTI\n4\n14/07/2019\n16:23\n4 COPERTO\n12.00\n2 ACQUA NAT\n8.00\n1 SALMERINO PIASTRA\n18.00\n1 TRENETTE AL PESTO\n13.00\n1 SPAGHETTI POM. BASILICO\n10.00\n1 FETTUCCINE RAGU'\n15.00\n1 PATATINE FRITTE\n6.00\nTOTALE\n82.00\nMANCIA/TIP\nPrego ritirare il\ndocumento fiscale\nalla cassa",
+    "pages": [
+        {
+            "pageNumber": 1,
+            "angle": -0.27390000224113464,
+            "width": 640,
+            "height": 640,
+            "unit": "pixel",
+            "words": [
+                {
+                    "content": "RISTORANTE",
+                    "polygon": [
+                        238,
+                        25,
+                        356,
+                        28,
+                        356,
+                        44,
+                        238,
+                        42
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 0,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "BELLAGIO",
+                    "polygon": [
+                        222,
+                        43,
+                        315,
+                        45,
+                        315,
+                        63,
+                        221,
+                        60
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 11,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "(CO)",
+                    "polygon": [
+                        329,
+                        45,
+                        372,
+                        46,
+                        372,
+                        64,
+                        329,
+                        63
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 20,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "TELEFONO",
+                    "polygon": [
+                        187,
+                        61,
+                        281,
+                        63,
+                        281,
+                        81,
+                        186,
+                        79
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 25,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "031/951888",
+                    "polygon": [
+                        293,
+                        63,
+                        409,
+                        65,
+                        409,
+                        83,
+                        293,
+                        81
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 34,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "TAV.",
+                    "polygon": [
+                        143,
+                        101,
+                        191,
+                        101,
+                        191,
+                        119,
+                        143,
+                        118
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 45,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "9",
+                    "polygon": [
+                        288,
+                        103,
+                        302,
+                        103,
+                        302,
+                        120,
+                        288,
+                        120
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 50,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "SALA",
+                    "polygon": [
+                        138,
+                        121,
+                        188,
+                        121,
+                        188,
+                        139,
+                        138,
+                        139
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 52,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "UNICA",
+                    "polygon": [
+                        201,
+                        121,
+                        262,
+                        121,
+                        262,
+                        140,
+                        201,
+                        139
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 57,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "COPERTI",
+                    "polygon": [
+                        346,
+                        103,
+                        429,
+                        104,
+                        429,
+                        122,
+                        346,
+                        120
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 63,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "4",
+                    "polygon": [
+                        485,
+                        105,
+                        498,
+                        105,
+                        498,
+                        121,
+                        485,
+                        121
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 71,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "14/07/2019",
+                    "polygon": [
+                        169,
+                        142,
+                        291,
+                        142,
+                        291,
+                        161,
+                        169,
+                        161
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 73,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "16:23",
+                    "polygon": [
+                        375,
+                        144,
+                        433,
+                        144,
+                        433,
+                        162,
+                        375,
+                        162
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 84,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "4",
+                    "polygon": [
+                        121,
+                        185,
+                        134,
+                        185,
+                        134,
+                        203,
+                        121,
+                        203
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 90,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "COPERTO",
+                    "polygon": [
+                        146,
+                        185,
+                        235,
+                        184,
+                        235,
+                        203,
+                        146,
+                        203
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 92,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "12.00",
+                    "polygon": [
+                        497,
+                        185,
+                        555,
+                        185,
+                        555,
+                        203,
+                        498,
+                        203
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 100,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "2",
+                    "polygon": [
+                        120,
+                        207,
+                        133,
+                        207,
+                        133,
+                        226,
+                        120,
+                        226
+                    ],
+                    "confidence": 0.99,
+                    "span": {
+                        "offset": 106,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "ACQUA",
+                    "polygon": [
+                        146,
+                        206,
+                        209,
+                        206,
+                        209,
+                        225,
+                        146,
+                        225
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 108,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "NAT",
+                    "polygon": [
+                        223,
+                        206,
+                        260,
+                        206,
+                        260,
+                        225,
+                        224,
+                        225
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 114,
+                        "length": 3
+                    }
+                },
+                {
+                    "content": "8.00",
+                    "polygon": [
+                        509,
+                        206,
+                        557,
+                        206,
+                        557,
+                        224,
+                        509,
+                        224
+                    ],
+                    "confidence": 0.991,
+                    "span": {
+                        "offset": 118,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        122,
+                        229,
+                        130,
+                        229,
+                        130,
+                        248,
+                        122,
+                        248
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 123,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "SALMERINO",
+                    "polygon": [
+                        146,
+                        229,
+                        260,
+                        228,
+                        260,
+                        248,
+                        146,
+                        248
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 125,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "PIASTRA",
+                    "polygon": [
+                        273,
+                        228,
+                        359,
+                        228,
+                        359,
+                        247,
+                        273,
+                        248
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 135,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "18.00",
+                    "polygon": [
+                        501,
+                        228,
+                        560,
+                        227,
+                        560,
+                        245,
+                        502,
+                        246
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 143,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        122,
+                        252,
+                        129,
+                        251,
+                        130,
+                        271,
+                        122,
+                        271
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 149,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "TRENETTE",
+                    "polygon": [
+                        147,
+                        251,
+                        248,
+                        250,
+                        248,
+                        270,
+                        147,
+                        271
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 151,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "AL",
+                    "polygon": [
+                        261,
+                        250,
+                        285,
+                        250,
+                        286,
+                        270,
+                        262,
+                        270
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 160,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "PESTO",
+                    "polygon": [
+                        298,
+                        250,
+                        360,
+                        250,
+                        360,
+                        269,
+                        298,
+                        270
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 163,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "13.00",
+                    "polygon": [
+                        503,
+                        249,
+                        562,
+                        248,
+                        562,
+                        267,
+                        504,
+                        267
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 169,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        122,
+                        275,
+                        129,
+                        274,
+                        129,
+                        294,
+                        122,
+                        294
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 175,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "SPAGHETTI",
+                    "polygon": [
+                        146,
+                        274,
+                        260,
+                        273,
+                        260,
+                        292,
+                        146,
+                        294
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 177,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "POM.",
+                    "polygon": [
+                        274,
+                        273,
+                        320,
+                        272,
+                        321,
+                        292,
+                        275,
+                        292
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 187,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "BASILICO",
+                    "polygon": [
+                        336,
+                        272,
+                        434,
+                        271,
+                        434,
+                        291,
+                        336,
+                        292
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 192,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "10.00",
+                    "polygon": [
+                        505,
+                        271,
+                        565,
+                        270,
+                        565,
+                        288,
+                        506,
+                        289
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 201,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        121,
+                        297,
+                        129,
+                        297,
+                        129,
+                        317,
+                        121,
+                        317
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 207,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "FETTUCCINE",
+                    "polygon": [
+                        147,
+                        297,
+                        274,
+                        295,
+                        275,
+                        315,
+                        147,
+                        317
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 209,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "RAGU'",
+                    "polygon": [
+                        287,
+                        294,
+                        345,
+                        294,
+                        345,
+                        314,
+                        288,
+                        314
+                    ],
+                    "confidence": 0.977,
+                    "span": {
+                        "offset": 220,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "15.00",
+                    "polygon": [
+                        508,
+                        292,
+                        567,
+                        291,
+                        567,
+                        310,
+                        508,
+                        310
+                    ],
+                    "confidence": 0.998,
+                    "span": {
+                        "offset": 226,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "1",
+                    "polygon": [
+                        121,
+                        321,
+                        131,
+                        321,
+                        132,
+                        340,
+                        122,
+                        341
+                    ],
+                    "confidence": 0.996,
+                    "span": {
+                        "offset": 232,
+                        "length": 1
+                    }
+                },
+                {
+                    "content": "PATATINE",
+                    "polygon": [
+                        143,
+                        320,
+                        247,
+                        318,
+                        248,
+                        338,
+                        144,
+                        340
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 234,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "FRITTE",
+                    "polygon": [
+                        262,
+                        318,
+                        339,
+                        317,
+                        339,
+                        336,
+                        262,
+                        338
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 243,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "6.00",
+                    "polygon": [
+                        520,
+                        314,
+                        569,
+                        313,
+                        569,
+                        332,
+                        520,
+                        332
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 250,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "TOTALE",
+                    "polygon": [
+                        352,
+                        363,
+                        430,
+                        361,
+                        430,
+                        398,
+                        353,
+                        399
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 255,
+                        "length": 6
+                    }
+                },
+                {
+                    "content": "82.00",
+                    "polygon": [
+                        512,
+                        359,
+                        576,
+                        358,
+                        576,
+                        394,
+                        513,
+                        395
+                    ],
+                    "confidence": 0.992,
+                    "span": {
+                        "offset": 262,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "MANCIA/TIP",
+                    "polygon": [
+                        170,
+                        455,
+                        306,
+                        450,
+                        306,
+                        473,
+                        171,
+                        477
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 268,
+                        "length": 10
+                    }
+                },
+                {
+                    "content": "Prego",
+                    "polygon": [
+                        201,
+                        530,
+                        269,
+                        527,
+                        270,
+                        549,
+                        201,
+                        552
+                    ],
+                    "confidence": 0.997,
+                    "span": {
+                        "offset": 279,
+                        "length": 5
+                    }
+                },
+                {
+                    "content": "ritirare",
+                    "polygon": [
+                        285,
+                        526,
+                        387,
+                        521,
+                        388,
+                        543,
+                        286,
+                        549
+                    ],
+                    "confidence": 0.994,
+                    "span": {
+                        "offset": 285,
+                        "length": 8
+                    }
+                },
+                {
+                    "content": "il",
+                    "polygon": [
+                        404,
+                        520,
+                        425,
+                        519,
+                        426,
+                        542,
+                        405,
+                        543
+                    ],
+                    "confidence": 0.959,
+                    "span": {
+                        "offset": 294,
+                        "length": 2
+                    }
+                },
+                {
+                    "content": "documento",
+                    "polygon": [
+                        202,
+                        555,
+                        323,
+                        550,
+                        324,
+                        572,
+                        203,
+                        577
+                    ],
+                    "confidence": 0.993,
+                    "span": {
+                        "offset": 297,
+                        "length": 9
+                    }
+                },
+                {
+                    "content": "fiscale",
+                    "polygon": [
+                        337,
+                        549,
+                        429,
+                        544,
+                        430,
+                        566,
+                        338,
+                        571
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 307,
+                        "length": 7
+                    }
+                },
+                {
+                    "content": "alla",
+                    "polygon": [
+                        249,
+                        580,
+                        303,
+                        577,
+                        304,
+                        598,
+                        250,
+                        601
+                    ],
+                    "confidence": 0.984,
+                    "span": {
+                        "offset": 315,
+                        "length": 4
+                    }
+                },
+                {
+                    "content": "cassa",
+                    "polygon": [
+                        318,
+                        577,
+                        385,
+                        574,
+                        386,
+                        594,
+                        319,
+                        598
+                    ],
+                    "confidence": 0.995,
+                    "span": {
+                        "offset": 320,
+                        "length": 5
+                    }
+                }
+            ],
+            "lines": [
+                {
+                    "content": "RISTORANTE",
+                    "polygon": [
+                        238,
+                        25,
+                        355,
+                        28,
+                        355,
+                        44,
+                        238,
+                        42
+                    ],
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "BELLAGIO (CO)",
+                    "polygon": [
+                        222,
+                        43,
+                        372,
+                        46,
+                        372,
+                        64,
+                        221,
+                        60
+                    ],
+                    "spans": [
+                        {
+                            "offset": 11,
+                            "length": 13
+                        }
+                    ]
+                },
+                {
+                    "content": "TELEFONO 031/951888",
+                    "polygon": [
+                        187,
+                        61,
+                        409,
+                        65,
+                        409,
+                        83,
+                        186,
+                        79
+                    ],
+                    "spans": [
+                        {
+                            "offset": 25,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "TAV.",
+                    "polygon": [
+                        143,
+                        101,
+                        191,
+                        101,
+                        191,
+                        118,
+                        143,
+                        118
+                    ],
+                    "spans": [
+                        {
+                            "offset": 45,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "9",
+                    "polygon": [
+                        288,
+                        103,
+                        301,
+                        103,
+                        301,
+                        119,
+                        288,
+                        119
+                    ],
+                    "spans": [
+                        {
+                            "offset": 50,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "SALA UNICA",
+                    "polygon": [
+                        138,
+                        121,
+                        262,
+                        121,
+                        262,
+                        140,
+                        138,
+                        139
+                    ],
+                    "spans": [
+                        {
+                            "offset": 52,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "COPERTI",
+                    "polygon": [
+                        346,
+                        103,
+                        429,
+                        104,
+                        428,
+                        122,
+                        346,
+                        120
+                    ],
+                    "spans": [
+                        {
+                            "offset": 63,
+                            "length": 7
+                        }
+                    ]
+                },
+                {
+                    "content": "4",
+                    "polygon": [
+                        485,
+                        105,
+                        498,
+                        105,
+                        498,
+                        121,
+                        485,
+                        121
+                    ],
+                    "spans": [
+                        {
+                            "offset": 71,
+                            "length": 1
+                        }
+                    ]
+                },
+                {
+                    "content": "14/07/2019",
+                    "polygon": [
+                        169,
+                        142,
+                        291,
+                        142,
+                        291,
+                        161,
+                        169,
+                        161
+                    ],
+                    "spans": [
+                        {
+                            "offset": 73,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "16:23",
+                    "polygon": [
+                        375,
+                        144,
+                        432,
+                        144,
+                        432,
+                        162,
+                        374,
+                        161
+                    ],
+                    "spans": [
+                        {
+                            "offset": 84,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "4 COPERTO",
+                    "polygon": [
+                        121,
+                        185,
+                        235,
+                        184,
+                        235,
+                        203,
+                        121,
+                        203
+                    ],
+                    "spans": [
+                        {
+                            "offset": 90,
+                            "length": 9
+                        }
+                    ]
+                },
+                {
+                    "content": "12.00",
+                    "polygon": [
+                        497,
+                        185,
+                        555,
+                        185,
+                        555,
+                        203,
+                        497,
+                        203
+                    ],
+                    "spans": [
+                        {
+                            "offset": 100,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "2 ACQUA NAT",
+                    "polygon": [
+                        120,
+                        206,
+                        260,
+                        206,
+                        260,
+                        225,
+                        120,
+                        225
+                    ],
+                    "spans": [
+                        {
+                            "offset": 106,
+                            "length": 11
+                        }
+                    ]
+                },
+                {
+                    "content": "8.00",
+                    "polygon": [
+                        509,
+                        206,
+                        557,
+                        206,
+                        557,
+                        224,
+                        509,
+                        224
+                    ],
+                    "spans": [
+                        {
+                            "offset": 118,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "1 SALMERINO PIASTRA",
+                    "polygon": [
+                        122,
+                        229,
+                        359,
+                        228,
+                        359,
+                        247,
+                        122,
+                        248
+                    ],
+                    "spans": [
+                        {
+                            "offset": 123,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "18.00",
+                    "polygon": [
+                        501,
+                        228,
+                        559,
+                        227,
+                        559,
+                        245,
+                        501,
+                        245
+                    ],
+                    "spans": [
+                        {
+                            "offset": 143,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "1 TRENETTE AL PESTO",
+                    "polygon": [
+                        122,
+                        251,
+                        360,
+                        250,
+                        360,
+                        269,
+                        122,
+                        270
+                    ],
+                    "spans": [
+                        {
+                            "offset": 149,
+                            "length": 19
+                        }
+                    ]
+                },
+                {
+                    "content": "13.00",
+                    "polygon": [
+                        503,
+                        249,
+                        561,
+                        248,
+                        561,
+                        266,
+                        504,
+                        267
+                    ],
+                    "spans": [
+                        {
+                            "offset": 169,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "1 SPAGHETTI POM. BASILICO",
+                    "polygon": [
+                        122,
+                        274,
+                        433,
+                        271,
+                        434,
+                        290,
+                        122,
+                        294
+                    ],
+                    "spans": [
+                        {
+                            "offset": 175,
+                            "length": 25
+                        }
+                    ]
+                },
+                {
+                    "content": "10.00",
+                    "polygon": [
+                        505,
+                        271,
+                        564,
+                        270,
+                        564,
+                        288,
+                        505,
+                        289
+                    ],
+                    "spans": [
+                        {
+                            "offset": 201,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "1 FETTUCCINE RAGU'",
+                    "polygon": [
+                        121,
+                        297,
+                        344,
+                        293,
+                        345,
+                        313,
+                        121,
+                        317
+                    ],
+                    "spans": [
+                        {
+                            "offset": 207,
+                            "length": 18
+                        }
+                    ]
+                },
+                {
+                    "content": "15.00",
+                    "polygon": [
+                        508,
+                        292,
+                        566,
+                        291,
+                        566,
+                        310,
+                        508,
+                        311
+                    ],
+                    "spans": [
+                        {
+                            "offset": 226,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "1 PATATINE FRITTE",
+                    "polygon": [
+                        121,
+                        321,
+                        339,
+                        316,
+                        339,
+                        336,
+                        122,
+                        340
+                    ],
+                    "spans": [
+                        {
+                            "offset": 232,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "6.00",
+                    "polygon": [
+                        520,
+                        314,
+                        568,
+                        313,
+                        569,
+                        331,
+                        520,
+                        332
+                    ],
+                    "spans": [
+                        {
+                            "offset": 250,
+                            "length": 4
+                        }
+                    ]
+                },
+                {
+                    "content": "TOTALE",
+                    "polygon": [
+                        352,
+                        363,
+                        429,
+                        361,
+                        429,
+                        397,
+                        353,
+                        399
+                    ],
+                    "spans": [
+                        {
+                            "offset": 255,
+                            "length": 6
+                        }
+                    ]
+                },
+                {
+                    "content": "82.00",
+                    "polygon": [
+                        512,
+                        359,
+                        575,
+                        358,
+                        575,
+                        394,
+                        512,
+                        395
+                    ],
+                    "spans": [
+                        {
+                            "offset": 262,
+                            "length": 5
+                        }
+                    ]
+                },
+                {
+                    "content": "MANCIA/TIP",
+                    "polygon": [
+                        170,
+                        454,
+                        305,
+                        450,
+                        306,
+                        473,
+                        171,
+                        477
+                    ],
+                    "spans": [
+                        {
+                            "offset": 268,
+                            "length": 10
+                        }
+                    ]
+                },
+                {
+                    "content": "Prego ritirare il",
+                    "polygon": [
+                        200,
+                        530,
+                        425,
+                        519,
+                        426,
+                        542,
+                        201,
+                        552
+                    ],
+                    "spans": [
+                        {
+                            "offset": 279,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "documento fiscale",
+                    "polygon": [
+                        202,
+                        555,
+                        429,
+                        544,
+                        430,
+                        566,
+                        203,
+                        577
+                    ],
+                    "spans": [
+                        {
+                            "offset": 297,
+                            "length": 17
+                        }
+                    ]
+                },
+                {
+                    "content": "alla cassa",
+                    "polygon": [
+                        249,
+                        579,
+                        384,
+                        573,
+                        385,
+                        594,
+                        250,
+                        600
+                    ],
+                    "spans": [
+                        {
+                            "offset": 315,
+                            "length": 10
+                        }
+                    ]
+                }
+            ],
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 325
+                }
+            ]
+        }
+    ],
+    "styles": [],
+    "documents": [
+        {
+            "docType": "receipt.retailMeal",
+            "boundingRegions": [
+                {
+                    "pageNumber": 1,
+                    "polygon": [
+                        0,
+                        0,
+                        640,
+                        0,
+                        640,
+                        640,
+                        0,
+                        640
+                    ]
+                }
+            ],
+            "fields": {
+                "CountryRegion": {
+                    "type": "countryRegion",
+                    "valueCountryRegion": "ITA",
+                    "confidence": 0.995
+                },
+                "Items": {
+                    "type": "array",
+                    "valueArray": [
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "COPERTO",
+                                    "content": "COPERTO",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                146,
+                                                185,
+                                                235,
+                                                184,
+                                                235,
+                                                203,
+                                                146,
+                                                203
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.986,
+                                    "spans": [
+                                        {
+                                            "offset": 92,
+                                            "length": 7
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 4,
+                                    "content": "4",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                121,
+                                                185,
+                                                134,
+                                                185,
+                                                134,
+                                                203,
+                                                121,
+                                                203
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 90,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 12.0,
+                                        "currencyCode": "EUR"
+                                    },
+                                    "content": "12.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                497,
+                                                185,
+                                                555,
+                                                185,
+                                                555,
+                                                203,
+                                                498,
+                                                203
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 100,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "4 COPERTO\n12.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        121,
+                                        184,
+                                        555,
+                                        184,
+                                        555,
+                                        203,
+                                        121,
+                                        203
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.985,
+                            "spans": [
+                                {
+                                    "offset": 90,
+                                    "length": 15
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "ACQUA NAT",
+                                    "content": "ACQUA NAT",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                146,
+                                                206,
+                                                260,
+                                                206,
+                                                260,
+                                                225,
+                                                146,
+                                                225
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.985,
+                                    "spans": [
+                                        {
+                                            "offset": 108,
+                                            "length": 9
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 2,
+                                    "content": "2",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                120,
+                                                207,
+                                                133,
+                                                207,
+                                                133,
+                                                226,
+                                                120,
+                                                226
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 106,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 8.0,
+                                        "currencyCode": "EUR"
+                                    },
+                                    "content": "8.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                509,
+                                                206,
+                                                557,
+                                                206,
+                                                557,
+                                                224,
+                                                509,
+                                                224
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 118,
+                                            "length": 4
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "2 ACQUA NAT\n8.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        120,
+                                        206,
+                                        557,
+                                        206,
+                                        557,
+                                        226,
+                                        120,
+                                        226
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 106,
+                                    "length": 16
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "SALMERINO PIASTRA",
+                                    "content": "SALMERINO PIASTRA",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                146,
+                                                229,
+                                                359,
+                                                228,
+                                                359,
+                                                248,
+                                                146,
+                                                249
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.985,
+                                    "spans": [
+                                        {
+                                            "offset": 125,
+                                            "length": 17
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                122,
+                                                229,
+                                                130,
+                                                229,
+                                                130,
+                                                248,
+                                                122,
+                                                248
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 123,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 18.0,
+                                        "currencyCode": "EUR"
+                                    },
+                                    "content": "18.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                501,
+                                                228,
+                                                560,
+                                                227,
+                                                560,
+                                                245,
+                                                502,
+                                                246
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 143,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 SALMERINO PIASTRA\n18.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        122,
+                                        229,
+                                        560,
+                                        227,
+                                        560,
+                                        247,
+                                        122,
+                                        249
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 123,
+                                    "length": 25
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "TRENETTE AL PESTO",
+                                    "content": "TRENETTE AL PESTO",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                147,
+                                                251,
+                                                360,
+                                                249,
+                                                360,
+                                                269,
+                                                147,
+                                                271
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 151,
+                                            "length": 17
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                122,
+                                                252,
+                                                129,
+                                                251,
+                                                130,
+                                                271,
+                                                122,
+                                                271
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 149,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 13.0,
+                                        "currencyCode": "EUR"
+                                    },
+                                    "content": "13.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                503,
+                                                249,
+                                                562,
+                                                248,
+                                                562,
+                                                267,
+                                                504,
+                                                267
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 169,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 TRENETTE AL PESTO\n13.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        122,
+                                        251,
+                                        562,
+                                        247,
+                                        562,
+                                        268,
+                                        122,
+                                        272
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 149,
+                                    "length": 25
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "SPAGHETTI POM. BASILICO",
+                                    "content": "SPAGHETTI POM. BASILICO",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                146,
+                                                274,
+                                                434,
+                                                271,
+                                                434,
+                                                291,
+                                                146,
+                                                294
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.983,
+                                    "spans": [
+                                        {
+                                            "offset": 177,
+                                            "length": 23
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                122,
+                                                275,
+                                                129,
+                                                274,
+                                                129,
+                                                294,
+                                                122,
+                                                294
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 175,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 10.0,
+                                        "currencyCode": "EUR"
+                                    },
+                                    "content": "10.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                505,
+                                                271,
+                                                565,
+                                                270,
+                                                565,
+                                                288,
+                                                506,
+                                                289
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 201,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 SPAGHETTI POM. BASILICO\n10.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        122,
+                                        274,
+                                        565,
+                                        268,
+                                        565,
+                                        289,
+                                        122,
+                                        295
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.982,
+                            "spans": [
+                                {
+                                    "offset": 175,
+                                    "length": 31
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "FETTUCCINE RAGU'",
+                                    "content": "FETTUCCINE RAGU'",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                147,
+                                                294,
+                                                345,
+                                                294,
+                                                345,
+                                                317,
+                                                147,
+                                                317
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.985,
+                                    "spans": [
+                                        {
+                                            "offset": 209,
+                                            "length": 16
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                121,
+                                                297,
+                                                129,
+                                                297,
+                                                129,
+                                                317,
+                                                121,
+                                                317
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 207,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 15.0,
+                                        "currencyCode": "EUR"
+                                    },
+                                    "content": "15.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                508,
+                                                292,
+                                                567,
+                                                291,
+                                                567,
+                                                310,
+                                                508,
+                                                310
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 226,
+                                            "length": 5
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 FETTUCCINE RAGU'\n15.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        121,
+                                        291,
+                                        567,
+                                        291,
+                                        567,
+                                        317,
+                                        121,
+                                        317
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 207,
+                                    "length": 24
+                                }
+                            ]
+                        },
+                        {
+                            "type": "object",
+                            "valueObject": {
+                                "Description": {
+                                    "type": "string",
+                                    "valueString": "PATATINE FRITTE",
+                                    "content": "PATATINE FRITTE",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                143,
+                                                320,
+                                                339,
+                                                316,
+                                                339,
+                                                337,
+                                                143,
+                                                340
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.985,
+                                    "spans": [
+                                        {
+                                            "offset": 234,
+                                            "length": 15
+                                        }
+                                    ]
+                                },
+                                "Quantity": {
+                                    "type": "number",
+                                    "valueNumber": 1,
+                                    "content": "1",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                121,
+                                                321,
+                                                131,
+                                                321,
+                                                132,
+                                                340,
+                                                122,
+                                                341
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.988,
+                                    "spans": [
+                                        {
+                                            "offset": 232,
+                                            "length": 1
+                                        }
+                                    ]
+                                },
+                                "TotalPrice": {
+                                    "type": "currency",
+                                    "valueCurrency": {
+                                        "amount": 6.0,
+                                        "currencyCode": "EUR"
+                                    },
+                                    "content": "6.00",
+                                    "boundingRegions": [
+                                        {
+                                            "pageNumber": 1,
+                                            "polygon": [
+                                                520,
+                                                314,
+                                                569,
+                                                313,
+                                                569,
+                                                332,
+                                                520,
+                                                332
+                                            ]
+                                        }
+                                    ],
+                                    "confidence": 0.989,
+                                    "spans": [
+                                        {
+                                            "offset": 250,
+                                            "length": 4
+                                        }
+                                    ]
+                                }
+                            },
+                            "content": "1 PATATINE FRITTE\n6.00",
+                            "boundingRegions": [
+                                {
+                                    "pageNumber": 1,
+                                    "polygon": [
+                                        121,
+                                        320,
+                                        569,
+                                        312,
+                                        569,
+                                        332,
+                                        121,
+                                        341
+                                    ]
+                                }
+                            ],
+                            "confidence": 0.984,
+                            "spans": [
+                                {
+                                    "offset": 232,
+                                    "length": 22
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "MerchantAddress": {
+                    "type": "address",
+                    "content": "BELLAGIO (CO)",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                221,
+                                42,
+                                372,
+                                46,
+                                372,
+                                65,
+                                221,
+                                60
+                            ]
+                        }
+                    ],
+                    "confidence": 0.983,
+                    "spans": [
+                        {
+                            "offset": 11,
+                            "length": 13
+                        }
+                    ],
+                    "valueAddress": {
+                        "city": "BELLAGIO",
+                        "streetAddress": "",
+                        "stateDistrict": "CO"
+                    }
+                },
+                "MerchantName": {
+                    "type": "string",
+                    "valueString": "RISTORANTE",
+                    "content": "RISTORANTE",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                238,
+                                25,
+                                356,
+                                28,
+                                356,
+                                44,
+                                238,
+                                42
+                            ]
+                        }
+                    ],
+                    "confidence": 0.98,
+                    "spans": [
+                        {
+                            "offset": 0,
+                            "length": 10
+                        }
+                    ]
+                },
+                "MerchantPhoneNumber": {
+                    "type": "phoneNumber",
+                    "valuePhoneNumber": "+39031951888",
+                    "content": "031/951888",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                293,
+                                63,
+                                409,
+                                65,
+                                409,
+                                83,
+                                293,
+                                81
+                            ]
+                        }
+                    ],
+                    "confidence": 0.987,
+                    "spans": [
+                        {
+                            "offset": 34,
+                            "length": 10
+                        }
+                    ]
+                },
+                "ReceiptType": {
+                    "type": "string",
+                    "valueString": "Meal",
+                    "confidence": 0.971
+                },
+                "Total": {
+                    "type": "currency",
+                    "valueCurrency": {
+                        "amount": 82.0,
+                        "currencyCode": "EUR"
+                    },
+                    "content": "82.00",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                512,
+                                359,
+                                576,
+                                358,
+                                576,
+                                394,
+                                513,
+                                395
+                            ]
+                        }
+                    ],
+                    "confidence": 0.986,
+                    "spans": [
+                        {
+                            "offset": 262,
+                            "length": 5
+                        }
+                    ]
+                },
+                "TransactionDate": {
+                    "type": "date",
+                    "valueDate": "2019-07-14",
+                    "content": "14/07/2019",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                169,
+                                142,
+                                291,
+                                142,
+                                291,
+                                161,
+                                169,
+                                161
+                            ]
+                        }
+                    ],
+                    "confidence": 0.989,
+                    "spans": [
+                        {
+                            "offset": 73,
+                            "length": 10
+                        }
+                    ]
+                },
+                "TransactionTime": {
+                    "type": "time",
+                    "valueTime": "16:23:00",
+                    "content": "16:23",
+                    "boundingRegions": [
+                        {
+                            "pageNumber": 1,
+                            "polygon": [
+                                375,
+                                144,
+                                433,
+                                144,
+                                433,
+                                162,
+                                375,
+                                162
+                            ]
+                        }
+                    ],
+                    "confidence": 0.992,
+                    "spans": [
+                        {
+                            "offset": 84,
+                            "length": 5
+                        }
+                    ]
+                }
+            },
+            "confidence": 0.971,
+            "spans": [
+                {
+                    "offset": 0,
+                    "length": 325
+                }
+            ]
+        }
+    ],
+    "contentFormat": "text"
+}

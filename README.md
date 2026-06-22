@@ -9,7 +9,7 @@
 
 ---
 
-## 📌 Table of Contents
+## Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Detected Classes](#-detected-classes)
@@ -25,7 +25,7 @@
 
 ---
 
-## 📖 Project Overview
+## Project Overview
 
 This project was developed as part of the **AI Concepts course at Assumption University**. The goal is to train a **YOLOv8 object detection model** to automatically detect and localize seven key fields found in receipt/invoice documents.
 
@@ -41,7 +41,7 @@ The full pipeline covers:
 
 ---
 
-## 🏷️ Detected Classes
+## Detected Classes
 
 The model is trained to detect **7 field types** in receipt/invoice images:
 
@@ -57,7 +57,7 @@ The model is trained to detect **7 field types** in receipt/invoice images:
 
 ---
 
-## 📦 Dataset
+## Dataset
 
 - **Total Images**: 624 receipt photographs
 - **Annotation Tool**: [LabelMe](https://github.com/labelmeai/labelme) (JSON format)
@@ -76,7 +76,7 @@ The model is trained to detect **7 field types** in receipt/invoice images:
 
 ---
 
-## 🔄 Pipeline
+## Pipeline
 
 ```
 Raw Images + LabelMe JSON Annotations
@@ -109,7 +109,7 @@ Raw Images + LabelMe JSON Annotations
 
 ---
 
-## 🔀 Data Augmentation
+## Data Augmentation
 
 To address the relatively small dataset size (624 images), each training image is augmented **3 times** using a combination of the following techniques:
 
@@ -128,7 +128,7 @@ Each augmented image retains its corresponding YOLO label file with adjusted bou
 
 ---
 
-## 🤖 Model Training
+## Model Training
 
 ### Architecture
 - **Base Model**: YOLOv8s (Small) — pretrained on COCO
@@ -170,7 +170,7 @@ runs/detect/partial_invoice_model/
 
 ---
 
-## 📊 Results
+## Results
 
 ### Expected Performance (YOLOv8s on ~2,496 images)
 
@@ -194,7 +194,7 @@ print(f"mAP50-95: {metrics.box.map:.4f}")
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 Project/
@@ -251,7 +251,7 @@ Project/
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 ```bash
@@ -295,7 +295,7 @@ python img/train_yolo.py
 
 ---
 
-## 🔍 Running Inference
+## Running Inference
 
 Use the pretrained weights in `code/best.pt` to run predictions on any receipt image:
 
@@ -338,7 +338,7 @@ pip install ultralytics opencv-python numpy albumentations torch pillow scikit-l
 
 ---
 
-## 🎓 Academic Context
+## Academic Context
 
 This project was submitted as part of the **AI Concepts course** at **Assumption University of Thailand**. The primary learning objectives were:
 
@@ -347,9 +347,3 @@ This project was submitted as part of the **AI Concepts course** at **Assumption
 - Applying data augmentation strategies to combat small dataset sizes
 - Fine-tuning a state-of-the-art object detection model (YOLOv8)
 - Evaluating model performance using detection metrics (mAP, Precision, Recall)
-
----
-
-## 📄 License
-
-This project is for educational purposes. See [LICENSE](LICENSE) for details.

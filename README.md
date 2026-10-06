@@ -337,13 +337,3 @@ pip install ultralytics opencv-python numpy albumentations torch pillow scikit-l
 > **GPU Recommended**: Training on CPU is supported but significantly slower. A CUDA-capable GPU is strongly recommended for the 100-epoch training run.
 
 ---
-
-## Academic Context
-
-This project was submitted as part of the **AI Concepts course** at **Assumption University of Thailand**. The primary learning objectives were:
-
-- Understanding the full ML pipeline from raw data to a deployable model
-- Hands-on experience with data annotation and label format conversion
-- Applying data augmentation strategies to combat small dataset sizes
-- Fine-tuning a state-of-the-art object detection model (YOLOv8)
-- Evaluating model performance using detection metrics (mAP, Precision, Recall)

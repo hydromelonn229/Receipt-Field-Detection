@@ -258,16 +258,6 @@ print(f"mAP50-95: {metrics.box.map:.4f}")
 
 ---
 
-### Inference Output Samples
-
-<!-- Placeholders for inference bounding box detections -->
-<p align="center">
-  <img src="runs/detect/predict/307.jpg" alt="Inference Example 1" width="380"/>
-  <img src="runs/detect/predict2/581.jpg" alt="Inference Example 2" width="380"/>
-</p>
-
----
-
 ## Project Structure
 
 ```

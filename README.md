@@ -18,6 +18,12 @@
 - [Data Augmentation](#-data-augmentation)
 - [Model Training](#-model-training)
 - [Results](#-results)
+  - [Training & Metrics Summary](#training--metrics-summary)
+  - [Confusion Matrices](#confusion-matrices)
+  - [Performance Curves](#performance-curves)
+  - [Augmented Training Batches](#augmented-training-batches)
+  - [Validation Ground Truth vs. Predictions](#validation-ground-truth-vs-predictions)
+  - [Inference Output Samples](#inference-output-samples)
 - [Project Structure](#-project-structure)
 - [Getting Started](#-getting-started)
 - [Running Inference](#-running-inference)
@@ -47,10 +53,13 @@ The model is trained to detect **7 field types** in receipt/invoice images:
 
 | Class ID | Class Name | Description |
 |----------|------------|-------------|
-| 1 | `ProductDescription` | Name or description of each purchased item |
-| 2 | `Quantity` | Number of units for each line item |
-| 3 | `Price` | Unit price or line-item price |
-| 4 | `TotalDue` | Final total amount due |
+| 0 | `SellerName` | Store, vendor, or merchant name |
+| 1 | `SellerVAT` | Tax registration / VAT ID |
+| 2 | `DocumentDate` | Date receipt/invoice was issued |
+| 3 | `ProductDescription` | Name or description of each purchased item |
+| 4 | `Quantity` | Number of units for each line item |
+| 5 | `Price` | Unit price or line-item price |
+| 6 | `TotalDue` | Final payable total amount |
 
 ---
 
@@ -70,6 +79,12 @@ The model is trained to detect **7 field types** in receipt/invoice images:
 | Train | 499 | ~1,497 | ~1,996 |
 | Val | 125 | ~375 | ~500 |
 | **Total** | **624** | **~1,872** | **~2,496** |
+
+### Class Distribution & Bounding Box Analysis
+
+<p align="center">
+  <img src="result/labels.jpg" alt="Label Distribution & Spatial Plot" width="600"/>
+</p>
 
 ---
 
@@ -188,6 +203,68 @@ metrics = model.val()
 print(f"mAP50: {metrics.box.map50:.4f}")
 print(f"mAP50-95: {metrics.box.map:.4f}")
 ```
+
+---
+
+### Training & Metrics Summary
+
+<p align="center">
+  <img src="result/results.png" alt="Training & Validation Loss Curves" width="650"/>
+</p>
+
+---
+
+### Confusion Matrices
+
+<p align="center">
+  <img src="result/confusion_matrix.png" alt="Confusion Matrix" width="380"/>
+  <img src="result/confusion_matrix_normalized.png" alt="Normalized Confusion Matrix" width="380"/>
+</p>
+
+---
+
+### Performance Curves
+
+<p align="center">
+  <img src="result/BoxF1_curve.png" alt="F1-Confidence Curve" width="380"/>
+  <img src="result/BoxP_curve.png" alt="Precision-Confidence Curve" width="380"/>
+</p>
+<p align="center">
+  <img src="result/BoxR_curve.png" alt="Recall-Confidence Curve" width="380"/>
+  <img src="result/BoxPR_curve.png" alt="Precision-Recall Curve" width="380"/>
+</p>
+
+---
+
+### Augmented Training Batches
+
+<p align="center">
+  <img src="result/train_batch0.jpg" alt="Training Batch 0" width="380"/>
+  <img src="result/train_batch1.jpg" alt="Training Batch 1" width="380"/>
+</p>
+
+---
+
+### Validation Ground Truth vs. Predictions
+
+<p align="center">
+  <img src="result/val_batch0_labels.jpg" alt="Validation Batch 0 - Ground Truth" width="380"/>
+  <img src="result/val_batch0_pred.jpg" alt="Validation Batch 0 - Predictions" width="380"/>
+</p>
+<p align="center">
+  <img src="result/val_batch1_labels.jpg" alt="Validation Batch 1 - Ground Truth" width="380"/>
+  <img src="result/val_batch1_pred.jpg" alt="Validation Batch 1 - Predictions" width="380"/>
+</p>
+
+---
+
+### Inference Output Samples
+
+<!-- Placeholders for inference bounding box detections -->
+<p align="center">
+  <img src="runs/detect/predict/307.jpg" alt="Inference Example 1" width="380"/>
+  <img src="runs/detect/predict2/581.jpg" alt="Inference Example 2" width="380"/>
+</p>
 
 ---
 

@@ -53,13 +53,10 @@ The model is trained to detect **7 field types** in receipt/invoice images:
 
 | Class ID | Class Name | Description |
 |----------|------------|-------------|
-| 0 | `SellerName` | Store, vendor, or merchant name |
-| 1 | `SellerVAT` | Tax registration / VAT ID |
-| 2 | `DocumentDate` | Date receipt/invoice was issued |
-| 3 | `ProductDescription` | Name or description of each purchased item |
-| 4 | `Quantity` | Number of units for each line item |
-| 5 | `Price` | Unit price or line-item price |
-| 6 | `TotalDue` | Final payable total amount |
+| 1 | `ProductDescription` | Name or description of each purchased item |
+| 2 | `Quantity` | Number of units for each line item |
+| 3 | `Price` | Unit price or line-item price |
+| 4 | `TotalDue` | Final payable total amount |
 
 ---
 
